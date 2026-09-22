@@ -1,0 +1,33 @@
+name: prices
+
+on:
+  schedule:
+    # 05:00 UTC = 06:00 Lisboa no verão, 05:00 no inverno. GitHub pode atrasar 10–30 min.
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch watchlist prices
+        run: python prices.py
+      - name: Commit output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add out/
+          git diff --cached --quiet && exit 0
+          git commit -m "prices $(date -u +%F)"
+          git push

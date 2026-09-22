@@ -1,0 +1,73 @@
+# Watchlist do Morning Brief — a única fonte de verdade. Edita aqui.
+#
+# Uma linha por instrumento:   grupo | nome | fonte | unidade
+#
+# fonte    yahoo:<ticker>   cnbc:<símbolo>   fred:<série>   spread:<A>/<B> (dois símbolos cnbc)   manual
+#          Várias fontes separadas por vírgula = tenta pela ordem (ex.: yahoo:CNH=X, cnbc:CNH=)
+#          manual = sem fonte gratuita; o prompt preenche a partir de pesquisa datada ou fica n/d
+# unidade  idx / px  nível + variação %          fx4 / fx2  câmbio, 4 ou 2 casas, variação %
+#          yld       yield %, variação em pb     bp         spread em pb
+#          oas       série FRED em %, mostrada em pb       pts  variação em pontos (VIX, MOVE)
+#
+# A ordem dos grupos aqui é a ordem no brief. O grupo "Em curso" só aparece ao vivo
+# (futuros e sessões a decorrer), nunca na tabela de fechos.
+
+Ações         | S&P 500              | yahoo:^GSPC                 | idx
+Ações         | Nasdaq 100           | yahoo:^NDX                  | idx
+Ações         | Stoxx Europe 600     | yahoo:^STOXX                | idx
+Ações         | DAX                  | yahoo:^GDAXI                | idx
+Ações         | PSI                  | yahoo:PSI20.LS              | idx
+Ações         | Nikkei 225           | yahoo:^N225                 | idx
+Ações         | Hang Seng            | yahoo:^HSI                  | idx
+Ações         | Kospi                | yahoo:^KS11                 | idx
+Ações         | MSCI EM (EEM)        | yahoo:EEM                   | idx
+
+Taxas         | UST 2A               | cnbc:US2Y                   | yld
+Taxas         | UST 10A              | cnbc:US10Y                  | yld
+Taxas         | Bund 10A             | cnbc:DE10Y-DE               | yld
+Taxas         | OT 10A               | cnbc:PT10Y-PT               | yld
+Taxas         | Spread PT–DE         | spread:PT10Y-PT/DE10Y-DE    | bp
+Taxas         | Spread BTP–Bund      | spread:IT10Y-IT/DE10Y-DE    | bp
+
+Crédito       | iTraxx Crossover     | manual                      | bp
+Crédito       | US HY OAS            | fred:BAMLH0A0HYM2           | oas
+
+Cambial       | EUR/USD              | yahoo:EURUSD=X              | fx4
+Cambial       | USD/JPY              | yahoo:JPY=X                 | fx2
+Cambial       | DXY                  | yahoo:DX-Y.NYB              | fx2
+Cambial       | USD/CNH              | yahoo:CNH=X, cnbc:CNH=      | fx4
+
+Volatilidade  | VIX                  | yahoo:^VIX                  | pts
+Volatilidade  | MOVE                 | yahoo:^MOVE, cnbc:.MOVE     | pts
+
+Mat.-primas   | Brent                | yahoo:BZ=F                  | px
+Mat.-primas   | WTI                  | yahoo:CL=F                  | px
+Mat.-primas   | Ouro                 | yahoo:GC=F                  | px
+Mat.-primas   | Prata                | yahoo:SI=F                  | px
+Mat.-primas   | Cobre                | yahoo:HG=F                  | px
+Mat.-primas   | Gás TTF              | yahoo:TTF=F                 | px
+
+Memória/semis | SOX                  | yahoo:^SOX                  | idx
+Memória/semis | SMH                  | yahoo:SMH                   | px
+Memória/semis | Micron               | yahoo:MU                    | px
+Memória/semis | SK Hynix             | yahoo:000660.KS             | px
+Memória/semis | Samsung Electronics  | yahoo:005930.KS             | px
+Memória/semis | Kioxia               | yahoo:285A.T                | px
+Memória/semis | SanDisk              | yahoo:SNDK                  | px
+
+Energia       | XLE                  | yahoo:XLE                   | px
+Energia       | XOP                  | yahoo:XOP                   | px
+Energia       | OIH                  | yahoo:OIH                   | px
+
+IA/infra      | NVIDIA               | yahoo:NVDA                  | px
+IA/infra      | Broadcom             | yahoo:AVGO                  | px
+IA/infra      | TSMC                 | yahoo:2330.TW               | px
+IA/infra      | SoftBank             | yahoo:9984.T                | px
+
+Ouro/mineiras | GDX                  | yahoo:GDX                   | px
+
+Banca PT/UE   | BCP                  | yahoo:BCP.LS                | px
+Banca PT/UE   | SX7P                 | cnbc:.SX7P, yahoo:EXV1.DE   | idx
+
+Em curso      | Futuros S&P 500      | yahoo:ES=F                  | idx
+Em curso      | Futuros Nasdaq 100   | yahoo:NQ=F                  | idx
