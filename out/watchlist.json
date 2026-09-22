@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T10:02+01:00",
+ "generated_at": "2026-09-22T10:15+01:00",
  "reference": {
   "close": "2026-09-21",
   "prev": "2026-09-18"
@@ -691,56 +691,56 @@
  "live": [
   {
    "name": "Stoxx Europe 600",
-   "price": 642.35,
-   "change": 0.06542883632341123,
-   "level_fmt": "642,35",
-   "change_fmt": "+0,1%",
-   "time": "09:47",
+   "price": 643.02,
+   "change": 0.16980158843726834,
+   "level_fmt": "643,02",
+   "change_fmt": "+0,2%",
+   "time": "10:00",
    "vs_close": "2026-09-21"
   },
   {
    "name": "DAX",
-   "price": 25555.79,
-   "change": -0.07515057003353309,
-   "level_fmt": "25 556",
-   "change_fmt": "−0,1%",
-   "time": "09:47",
+   "price": 25592.33,
+   "change": 0.06772327570441217,
+   "level_fmt": "25 592",
+   "change_fmt": "+0,1%",
+   "time": "10:00",
    "vs_close": "2026-09-21"
   },
   {
    "name": "PSI",
-   "price": 9650.17,
-   "change": 0.3408445821660777,
-   "level_fmt": "9 650",
-   "change_fmt": "+0,3%",
-   "time": "09:47",
+   "price": 9640.94,
+   "change": 0.2448725945748409,
+   "level_fmt": "9 641",
+   "change_fmt": "+0,2%",
+   "time": "10:00",
    "vs_close": "2026-09-21"
   },
   {
    "name": "BCP",
-   "price": 1.184,
-   "change": -0.21069982034712664,
-   "level_fmt": "1,184",
-   "change_fmt": "−0,2%",
-   "time": "09:46",
+   "price": 1.185,
+   "change": -0.12641831681700078,
+   "level_fmt": "1,185",
+   "change_fmt": "−0,1%",
+   "time": "10:00",
    "vs_close": "2026-09-21"
   },
   {
    "name": "Futuros S&P 500",
-   "price": 7834.75,
-   "change": 0.015957107295583306,
-   "level_fmt": "7 835",
-   "change_fmt": "0,0%",
-   "time": "09:52",
+   "price": 7827.75,
+   "change": -0.07340269355970985,
+   "level_fmt": "7 828",
+   "change_fmt": "−0,1%",
+   "time": "10:05",
    "vs_close": "2026-09-21"
   },
   {
    "name": "Futuros Nasdaq 100",
-   "price": 30779.25,
-   "change": -0.017865988841880842,
-   "level_fmt": "30 779",
-   "change_fmt": "0,0%",
-   "time": "09:52",
+   "price": 30761.5,
+   "change": -0.07552440737702559,
+   "level_fmt": "30 762",
+   "change_fmt": "−0,1%",
+   "time": "10:05",
    "vs_close": "2026-09-21"
   }
  ]
