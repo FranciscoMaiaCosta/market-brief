@@ -5,7 +5,7 @@ Reads watchlist.txt, pulls daily closes from free, keyless sources (Yahoo chart
 API, CNBC, FRED) and writes two files:
 
   out/watchlist.json   every number, with its dates and source
-  out/watchlist.html   the Watchlist <section>, ready to paste into the brief
+  out/watchlist.html   the Watchlist block (email-safe table), ready to paste into the brief
 
 The rule is one line: last completed close vs the close before it, each dated.
 On Tue-Fri that is yesterday vs the day before; on Sat-Mon it is Friday vs
@@ -276,41 +276,69 @@ def reference_dates(rows):
     return close, prev
 
 
-def direction(x):
-    return "up" if round(x, 2) > 0 else "down" if round(x, 2) < 0 else ""
+# Email-safe markup: tables and inline styles only, because Gmail drops CSS
+# variables and colour-scheme media queries. Colours match template.html.
+INK, STRONG, MUTED, RULE, RULE2 = "#E8E8E8", "#FFFFFF", "#8C8C8C", "#1F1F1F", "#3A3A3A"
+UP, DOWN = "#8FD9B0", "#F29C94"
+SANS = "'Helvetica Neue',Helvetica,Arial,sans-serif"
 
 
 def render_html(rows, live, now, ref_close, ref_prev):
     e = html.escape
-    out = ['<section>', '  <h2>Watchlist</h2>']
+    cell = f"padding:9px 0;border-bottom:1px solid {RULE};vertical-align:top"
+
+    def group(title):
+        return (f'<tr><td colspan="3" style="padding:22px 0 7px;border-bottom:1px solid {RULE2};'
+                f'font-size:11px;font-weight:bold;letter-spacing:2px;text-transform:uppercase;'
+                f'color:{MUTED}">{e(title)}</td></tr>')
+
+    def line(name, sub, level, change, na=False):
+        # Direction follows the sign as displayed, so "0,0%" never gets an arrow.
+        d = "up" if change.startswith("+") else "down" if change.startswith(MINUS) else ""
+        colour = MUTED if na or not d else UP if d == "up" else DOWN
+        arrow = "" if na or not d else "▲ " if d == "up" else "▼ "
+        weight = "normal" if na else "bold"
+        sub = f'<br><span style="font-size:11px;color:{MUTED}">{sub}</span>' if sub else ""
+        return (f'<tr><td style="{cell}">{e(name)}{sub}</td>'
+                f'<td align="right" style="{cell};padding-right:14px;white-space:nowrap;'
+                f'color:{MUTED if na else STRONG}">{level}</td>'
+                f'<td align="right" style="{cell};white-space:nowrap;font-weight:{weight};'
+                f'color:{colour}">{arrow}{change}</td></tr>')
+
+    out = [f'<tr><td style="padding:30px 0 0;border-top:1px solid {RULE2}">',
+           f'<div style="font-size:11px;font-weight:bold;letter-spacing:3px;text-transform:uppercase;'
+           f'color:{STRONG}"><span style="color:#6E6E6E">&#9670;</span>&nbsp;&nbsp;Watchlist</div>']
     if ref_close:
-        out.append(f'  <p class="note">Fechos de {ddmm(ref_close)} face a {ddmm(ref_prev)}'
-                   f' · recolha {now.astimezone(LISBON):%H:%M} (Lisboa)</p>')
-    group = None
+        out.append(f'<div style="margin-top:8px;font-size:13px;line-height:1.5;color:{MUTED}">'
+                   f'Fechos de {ddmm(ref_close)} face a {ddmm(ref_prev)} · recolha '
+                   f'{now.astimezone(LISBON):%H:%M} (Lisboa)</div>')
+    out.append(f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" '
+               f'style="font-family:{SANS};font-size:15px;line-height:1.35;color:{INK};'
+               f'font-variant-numeric:tabular-nums">')
+    group_name = None
     for r in rows:
         if r["group"] == "Em curso":
             continue
-        if r["group"] != group:
-            group = r["group"]
-            out.append(f'  <p class="grp">{e(group)}</p>')
-        label = e(r["name"])
+        if r["group"] != group_name:
+            group_name = r["group"]
+            out.append(group(group_name))
         if r["status"] != "ok":
-            out.append(f'  <div class="row"><span>{label}</span>'
-                       f'<span class="val na">n/d · {e(r["reason"])}</span></div>')
+            out.append(line(r["name"], "", "n/d", e(r["reason"]), na=True))
             continue
+        sub = []
         if r["close_date"] != ref_close:
-            label += f' <span class="dt">{ddmm(r["close_date"])}</span>'
+            sub.append(f"fecho {ddmm(r['close_date'])}")
         if abs(r["streak"]) >= 3:
-            label += f' <span class="st">{"↑" if r["streak"] > 0 else "↓"}{abs(r["streak"])}</span>'
-        out.append(f'  <div class="row"><span>{label}</span><span class="val {direction(r["change"])}">'
-                   f'{r["level_fmt"]} · {r["change_fmt"]}</span></div>')
+            sub.append(f"{'↑' if r['streak'] > 0 else '↓'}{abs(r['streak'])} sessões")
+        out.append(line(r["name"], " · ".join(sub), r["level_fmt"], r["change_fmt"]))
     if live:
-        out.append('  <p class="grp">Em curso</p>')
+        out.append(group("Em curso"))
         for lv in live:
-            out.append(f'  <div class="row"><span>{e(lv["name"])} <span class="dt">{lv["time"]}</span></span>'
-                       f'<span class="val {direction(lv["change"])}">{lv["level_fmt"]} · {lv["change_fmt"]}'
-                       f'</span></div>')
-    out.append('</section>')
+            out.append(line(lv["name"], f"{lv['time']} · em curso" if lv["time"] else "em curso",
+                            lv["level_fmt"], lv["change_fmt"]))
+    out.append('</table>')
+    out.append('<!-- NOTAS: comentários da watchlist entram aqui, antes do fecho da célula -->')
+    out.append('</td></tr>')
     return "\n".join(out) + "\n"
 
 
