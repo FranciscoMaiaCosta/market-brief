@@ -66,7 +66,7 @@ IA/infra      | SoftBank             | yahoo:9984.T                | px
 
 Ouro/mineiras | GDX                  | yahoo:GDX                   | px
 
-Banca PT/UE   | BCP                  | yahoo:BCP.LS                | px
+Banca PT/UE   | BCP                  | yahoo:BCP.LS, cnbc:BCP-PT   | px
 Banca PT/UE   | SX7P                 | cnbc:.SX7P, yahoo:EXV1.DE   | idx
 
 Em curso      | Futuros S&P 500      | yahoo:ES=F                  | idx

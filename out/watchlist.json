@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T09:17+01:00",
+ "generated_at": "2026-09-24T09:19+01:00",
  "reference": {
   "close": "2026-09-23",
   "prev": "2026-09-22"
@@ -663,14 +663,14 @@
    "unit": "px",
    "status": "ok",
    "reason": "",
-   "used": "yahoo:BCP.LS",
-   "close_date": "2026-09-22",
-   "prev_date": "2026-09-21",
-   "level": 1.1675000190734863,
-   "change": -1.6013430210518709,
-   "level_fmt": "1,168",
-   "change_fmt": "−1,6%",
-   "streak": -1
+   "used": "cnbc:BCP-PT",
+   "close_date": "2026-09-23",
+   "prev_date": "2026-09-22",
+   "level": 1.1865,
+   "change": 1.6274089935760294,
+   "level_fmt": "1,187",
+   "change_fmt": "+1,6%",
+   "streak": 1
   },
   {
    "group": "Banca PT/UE",
@@ -691,56 +691,47 @@
  "live": [
   {
    "name": "Stoxx Europe 600",
-   "price": 638.38,
-   "change": -0.2406524176902347,
-   "level_fmt": "638,38",
-   "change_fmt": "−0,2%",
-   "time": "09:02",
+   "price": 638.32,
+   "change": -0.25002858996213684,
+   "level_fmt": "638,32",
+   "change_fmt": "−0,3%",
+   "time": "09:04",
    "vs_close": "2026-09-23"
   },
   {
    "name": "DAX",
-   "price": 25313.67,
-   "change": -0.381575962877867,
+   "price": 25313.62,
+   "change": -0.3817727309167185,
    "level_fmt": "25 314",
    "change_fmt": "−0,4%",
-   "time": "09:02",
+   "time": "09:04",
    "vs_close": "2026-09-23"
   },
   {
    "name": "PSI",
-   "price": 9664.05,
-   "change": 0.32815744403751346,
-   "level_fmt": "9 664",
+   "price": 9659.88,
+   "change": 0.28486623418848556,
+   "level_fmt": "9 660",
    "change_fmt": "+0,3%",
-   "time": "09:02",
+   "time": "09:04",
    "vs_close": "2026-09-23"
   },
   {
-   "name": "BCP",
-   "price": 1.1875,
-   "change": 1.7130604368114088,
-   "level_fmt": "1,188",
-   "change_fmt": "+1,7%",
-   "time": "09:01",
-   "vs_close": "2026-09-22"
-  },
-  {
    "name": "Futuros S&P 500",
-   "price": 7734.0,
-   "change": -0.49533612093920487,
-   "level_fmt": "7 734",
+   "price": 7732.25,
+   "change": -0.5178513991637157,
+   "level_fmt": "7 732",
    "change_fmt": "−0,5%",
-   "time": "09:07",
+   "time": "09:10",
    "vs_close": "2026-09-23"
   },
   {
    "name": "Futuros Nasdaq 100",
-   "price": 30538.0,
-   "change": -0.7370448321536771,
-   "level_fmt": "30 538",
-   "change_fmt": "−0,7%",
-   "time": "09:07",
+   "price": 30522.5,
+   "change": -0.7874271690815005,
+   "level_fmt": "30 522",
+   "change_fmt": "−0,8%",
+   "time": "09:10",
    "vs_close": "2026-09-23"
   }
  ]

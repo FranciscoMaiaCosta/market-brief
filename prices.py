@@ -202,25 +202,19 @@ def read_watchlist(path):
 def build(watchlist, now):
     cache = {}
 
-    def series(kind, sym):
-        key = f"{kind}:{sym}"
+    def series(kind, sym, bust=0):
+        key = f"{kind}:{sym}:{bust}"
         if key not in cache:
             try:
-                cache[key] = FETCHERS[kind](sym, now)
+                cache[key] = FETCHERS[kind](sym, now, bust) if kind == "yahoo" else FETCHERS[kind](sym, now)
             except Exception as e:
                 cache[key] = e
             time.sleep(0.25)
         return cache[key]
 
-    rows = []
-    for w in watchlist:
-        row = dict(w, status="nd", reason="", closes=[], live=None)
-        if w["source"] == "manual":
-            row["reason"] = "sem fonte gratuita"
-            rows.append(row)
-            continue
-
-        for src in [s.strip() for s in w["source"].split(",")]:
+    def fetch(row, bust=0):
+        """Try the row's sources in order; the first one with two closes wins."""
+        for src in [s.strip() for s in row["source"].split(",")]:
             kind, sym = src.split(":", 1)
             if kind == "spread":
                 a, b = (series("cnbc", s) for s in sym.split("/"))
@@ -228,10 +222,9 @@ def build(watchlist, now):
                     row["reason"] = "falha na fonte"
                     continue
                 db = dict(b[0])
-                closes = [(d, (v - db[d]) * 100) for d, v in a[0] if d in db]
-                live = None
+                closes, live = [(d, (v - db[d]) * 100) for d, v in a[0] if d in db], None
             else:
-                got = series(kind, sym)
+                got = series(kind, sym, bust)
                 if isinstance(got, Exception):
                     row["reason"] = "falha na fonte"
                     continue
@@ -239,13 +232,22 @@ def build(watchlist, now):
             if len(closes) < 2:
                 row["reason"] = "sem fechos suficientes"
                 continue
-            row.update(closes=closes, live=live, used=src, status="ok", reason="")
-            break
+            yield src, closes, live
+
+    rows = []
+    for w in watchlist:
+        row = dict(w, status="nd", reason="", closes=[], live=None)
+        if w["source"] == "manual":
+            row["reason"] = "sem fonte gratuita"
+        else:
+            for src, closes, live in fetch(row):
+                row.update(closes=closes, live=live, used=src, status="ok", reason="")
+                break
         rows.append(row)
 
     for r in rows:
         measure_row(r)
-    catch_up(rows, now)
+    catch_up(rows, now, fetch)
     return rows
 
 
@@ -258,27 +260,26 @@ def measure_row(r):
              level_fmt=ls, change_fmt=cs, streak=streak(r["closes"][-12:]))
 
 
-def catch_up(rows, now):
-    """Refetch any Yahoo line whose last close lags the rest of the table.
+def catch_up(rows, now, fetch):
+    """Refetch any line whose last close lags the rest of the table.
 
-    A stale cache shows up as a handful of lines a day behind the others. A real
-    holiday looks the same from here, so the retry is cheap and silent: what it
-    cannot refresh keeps its own date, which the brief prints next to the name.
+    A stale cache shows up as a handful of lines a day behind the others, so the
+    retry asks again past the cache and tries the row's other sources. A real
+    holiday looks the same from here, so it stays silent: what cannot be
+    refreshed keeps its own date, which the brief prints next to the name.
     """
-    ok = [r for r in rows if r["status"] == "ok" and r.get("used", "").startswith("yahoo")]
+    ok = [r for r in rows if r["status"] == "ok" and r["group"] != "Em curso"]
     if not ok:
         return
     modal = Counter(r["close_date"] for r in ok).most_common(1)[0][0]
     for r in ok:
         if r["close_date"] >= modal:
             continue
-        try:
-            closes, live = yahoo(r["used"].split(":", 1)[1], now, bust=1)
-        except Exception:
-            continue
-        if len(closes) >= 2 and closes[-1][0] > r["close_date"]:
-            r.update(closes=closes, live=live)
-            measure_row(r)
+        for src, closes, live in fetch(r, bust=1):
+            if closes[-1][0] > r["close_date"]:
+                r.update(closes=closes, live=live, used=src)
+                measure_row(r)
+                break
 
 
 def live_rows(rows, now):
