@@ -2,8 +2,12 @@ name: prices
 
 on:
   schedule:
-    # 05:00 UTC = 06:00 Lisboa no verão, 05:00 no inverno. GitHub pode atrasar 10–30 min.
-    - cron: "0 5 * * *"
+    # O GitHub atrasa as corridas agendadas, e à hora certa a fila é maior: a 23/09
+    # a corrida das 05:00 só arrancou às 09:47 UTC. Daí três tentativas a minutos
+    # pouco usados, todas antes do brief das 07:20 de Lisboa. A última que passar manda.
+    - cron: "17 4 * * *"
+    - cron: "23 5 * * *"
+    - cron: "11 6 * * *"
   workflow_dispatch: {}
 
 permissions:
