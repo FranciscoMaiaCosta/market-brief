@@ -1,24 +1,48 @@
 {
- "generated_at": "2026-09-24T08:53+01:00",
+ "generated_at": "2026-09-24T09:17+01:00",
  "window_hours": 24,
  "items": [
+  {
+   "outlet": "Bloomberg",
+   "title": "Bond Selloff Deepens as Fed Rate-Hike Bets Build: Markets Wrap",
+   "url": "",
+   "published": "2026-09-24T08:15+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+   "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
+   "published": "2026-09-24T08:13+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Função Pública sem estrutura para reagir a casos de assédio laboral",
+   "url": "https://www.jornaldenegocios.pt/economia/funcao-publica/detalhe/funcao-publica-sem-estrutura-para-reagir-a-casos-de-assedio-laboral",
+   "published": "2026-09-24T08:00+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Preço do petróleo com novos aumentos. Brent aproxima-se dos 104 dólares por barril",
+   "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-fecham-sessao-em-terreno-negativo-antes-do-encontro-xi-trump-na-casa-branca",
+   "published": "2026-09-24T08:00+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "Switzerland is keeping rates at 0% — for now",
+   "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
+   "published": "2026-09-24T07:58+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Bruxelas pondera \"apagões seletivos\" para garantir a segurança energética na UE",
+   "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/bruxelas-pondera-apagoes-seletivos-para-garantir-a-seguranca-energetica-na-ue",
+   "published": "2026-09-24T07:53+00:00"
+  },
   {
    "outlet": "FT",
    "title": "Global bond sell-off spreads as oil holds above $100",
    "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
    "published": "2026-09-24T07:52+00:00"
-  },
-  {
-   "outlet": "CNBC Economia",
-   "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-   "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-   "published": "2026-09-24T07:47+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "Switzerland keeps interest rates at 0% — but markets are betting it can’t avoid the global hiking cycle much longer",
-   "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
-   "published": "2026-09-24T07:47+00:00"
   },
   {
    "outlet": "ECO",
@@ -37,12 +61,6 @@
    "title": "A homepage está morta? O atual papel no tráfego dos publishers",
    "url": "https://eco.sapo.pt/2026/09/24/a-homepage-esta-morta-o-atual-papel-no-trafego-dos-publishers/",
    "published": "2026-09-24T07:38+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Preço do petróleo com novos aumentos. Brent aproxima-se dos 104 dólares por barril",
-   "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-fecham-sessao-em-terreno-negativo-antes-do-encontro-xi-trump-na-casa-branca",
-   "published": "2026-09-24T07:37+00:00"
   },
   {
    "outlet": "Jornal de Negócios",
@@ -123,12 +141,6 @@
    "published": "2026-09-24T06:44+00:00"
   },
   {
-   "outlet": "CNBC",
-   "title": "Tehran criticizes Canada for not condemning Trump's threat to destroy Iran",
-   "url": "https://www.cnbc.com/2026/09/24/us-iran-war-trump-hormuz-canada-carney-bessent.html",
-   "published": "2026-09-24T06:39+00:00"
-  },
-  {
    "outlet": "ECO",
    "title": "Preço dos combustíveis a caminho de um aumento homólogo de 16% na reta final do ano",
    "url": "https://eco.sapo.pt/2026/09/24/preco-dos-combustiveis-a-caminho-de-um-aumento-homologo-de-16-na-reta-final-do-ano/",
@@ -138,6 +150,12 @@
    "outlet": "Jornal de Negócios",
    "title": "António Costa pede a Teerão que permita navegação em Ormuz e cesse ataques",
    "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-pede-a-teerao-que-permita-navegacao-em-ormuz-e-cesse-ataques",
+   "published": "2026-09-24T06:36+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "Tumbling Global Government Bonds Put Yields on Brink of 4%",
+   "url": "",
    "published": "2026-09-24T06:36+00:00"
   },
   {
@@ -189,10 +207,16 @@
    "published": "2026-09-24T06:21+00:00"
   },
   {
-   "outlet": "CNBC",
+   "outlet": "CNBC Economia",
    "title": "France's fresh budget battle threatens to topple another government",
    "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
    "published": "2026-09-24T06:21+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "Miami's ultra-luxury housing market booms as cash transactions dominate, high-end brands like Bugatti and Porsche jump in",
+   "url": "https://www.cnbc.com/2026/09/24/miami-luxury-housing-boom-bugatti-bubble.html",
+   "published": "2026-09-24T06:19+00:00"
   },
   {
    "outlet": "ECO",
@@ -213,12 +237,6 @@
    "published": "2026-09-24T06:00+00:00"
   },
   {
-   "outlet": "Jornal de Negócios",
-   "title": "Cimeira Trump-Xi Jinping e 4 outras coisas que precisa de saber para começar o dia",
-   "url": "https://www.jornaldenegocios.pt/mercados/detalhe/cimeira-trump-xi-jinping-e-4-outras-coisas-que-precisa-de-saber-para-comecar-o-dia",
-   "published": "2026-09-24T05:45+00:00"
-  },
-  {
    "outlet": "FT",
    "title": "The SVB postmortem continues",
    "url": "https://www.ft.com/content/820c02a1-36b6-49ab-b2b2-1f60c77567ab?syn-25a6b1a6=1",
@@ -231,15 +249,15 @@
    "published": "2026-09-24T05:24+00:00"
   },
   {
+   "outlet": "Reuters",
+   "title": "Fed rate hike cycles have a history of denting US stock prices",
+   "url": "",
+   "published": "2026-09-24T05:03+00:00"
+  },
+  {
    "outlet": "FT",
    "title": "Are Big Tech bonds crowding out the US Treasury?",
    "url": "https://www.ft.com/content/6354c1ec-286a-4251-bac8-ca0cd4ac7eac",
-   "published": "2026-09-24T05:00+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Drones da Tekever carregam mais 500 milhões para aquisições",
-   "url": "https://www.jornaldenegocios.pt/empresas/detalhe/drones-da-tekever-carregam-mais-500-milhoes-para-aquisicoes",
    "published": "2026-09-24T05:00+00:00"
   },
   {
@@ -249,16 +267,16 @@
    "published": "2026-09-24T04:55+00:00"
   },
   {
+   "outlet": "Reuters",
+   "title": "Morning Bid: Diplomacy takes a back seat",
+   "url": "",
+   "published": "2026-09-24T04:46+00:00"
+  },
+  {
    "outlet": "CNBC",
    "title": "OpenAI says agent hacked Australian government website without being told to do so",
    "url": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
    "published": "2026-09-24T04:34+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "Morning Bid: Diplomacy takes a back seat",
-   "url": "",
-   "published": "2026-09-24T04:31+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -315,12 +333,6 @@
    "published": "2026-09-24T03:52+00:00"
   },
   {
-   "outlet": "Bloomberg",
-   "title": "Tumbling Global Government Bonds Put Yields on Brink of 4%",
-   "url": "",
-   "published": "2026-09-24T03:36+00:00"
-  },
-  {
    "outlet": "Politico Europe",
    "title": "SONDAGE EXCLUSIF 2027. Face à Le Pen, Mélenchon et Philippe au duel, Glucksmann garde la tête hors de l’eau",
    "url": "https://www.politico.eu/article/sondage-exclusif-2027-face-a-le-pen-melenchon-et-philippe-au-duel-glucksmann-garde-la-tete-hors-de-leau/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -346,9 +358,9 @@
   },
   {
    "outlet": "Bloomberg",
-   "title": "SoftBank Starts Jumbo High-Yield Bond Sale to Finance AI Push",
+   "title": "Pentagon-Backed Elmet to Buy Stake in Vietnam Tungsten Miner",
    "url": "",
-   "published": "2026-09-24T02:48+00:00"
+   "published": "2026-09-24T02:37+00:00"
   },
   {
    "outlet": "Reuters",
@@ -358,7 +370,7 @@
   },
   {
    "outlet": "Reuters",
-   "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets",
+   "title": "Dollar near 2-month peak as investors pause after rally, geopolitics eyed",
    "url": "",
    "published": "2026-09-24T02:02+00:00"
   },
@@ -453,12 +465,6 @@
    "published": "2026-09-23T21:25+00:00"
   },
   {
-   "outlet": "Reuters",
-   "title": "COMMENTARY: Trading Day: US yields cross 5% threshold​",
-   "url": "",
-   "published": "2026-09-23T21:11+00:00"
-  },
-  {
    "outlet": "FT",
    "title": "US Treasury yields soar most since ‘liberation day’ tariffs shook markets",
    "url": "https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1",
@@ -499,12 +505,6 @@
    "title": "Bonds are getting thumped as yields surge. Here’s what it means for the 60/40 portfolio",
    "url": "https://www.cnbc.com/2026/09/23/bonds-get-thumped-as-yields-surge-what-it-means-for-60/40-portfolio.html",
    "published": "2026-09-23T19:51+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "Nvidia Among Top Traded US Credit Swaps as Hedging Demand Soars",
-   "url": "",
-   "published": "2026-09-23T19:46+00:00"
   },
   {
    "outlet": "WSJ",
