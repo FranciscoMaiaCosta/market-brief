@@ -43,7 +43,9 @@ def http_get(url, ua=BROWSER_UA, tries=3):
     err = None
     for i in range(tries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "*/*"})
+            req = urllib.request.Request(url, headers={
+                "User-Agent": ua, "Accept": "*/*",
+                "Cache-Control": "no-cache", "Pragma": "no-cache"})
             with urllib.request.urlopen(req, timeout=25) as r:
                 return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
@@ -60,8 +62,11 @@ def http_get(url, ua=BROWSER_UA, tries=3):
 # Each returns (closes, live): closes is [(date, float)] of completed sessions,
 # oldest first; live is None or {"price", "time", "in_session", "type"}.
 
-def yahoo(symbol, now):
-    path = f"/v8/finance/chart/{urllib.parse.quote(symbol)}?range=1mo&interval=1d"
+def yahoo(symbol, now, bust=0):
+    # Yahoo has served day-old charts to datacentre IPs, so every request carries a
+    # fresh query string and no-cache headers.
+    path = (f"/v8/finance/chart/{urllib.parse.quote(symbol)}?range=1mo&interval=1d"
+            f"&_={int(now.timestamp()) + bust}")
     try:
         raw = http_get("https://query1.finance.yahoo.com" + path)
     except urllib.error.HTTPError as e:
@@ -239,13 +244,41 @@ def build(watchlist, now):
         rows.append(row)
 
     for r in rows:
-        if r["status"] != "ok":
-            continue
-        (d0, p0), (d1, p1) = r["closes"][-2], r["closes"][-1]
-        lvl, chg, ls, cs = measure(r["unit"], p0, p1)
-        r.update(close_date=d1, prev_date=d0, level=lvl, change=chg,
-                 level_fmt=ls, change_fmt=cs, streak=streak(r["closes"][-12:]))
+        measure_row(r)
+    catch_up(rows, now)
     return rows
+
+
+def measure_row(r):
+    if r["status"] != "ok":
+        return
+    (d0, p0), (d1, p1) = r["closes"][-2], r["closes"][-1]
+    lvl, chg, ls, cs = measure(r["unit"], p0, p1)
+    r.update(close_date=d1, prev_date=d0, level=lvl, change=chg,
+             level_fmt=ls, change_fmt=cs, streak=streak(r["closes"][-12:]))
+
+
+def catch_up(rows, now):
+    """Refetch any Yahoo line whose last close lags the rest of the table.
+
+    A stale cache shows up as a handful of lines a day behind the others. A real
+    holiday looks the same from here, so the retry is cheap and silent: what it
+    cannot refresh keeps its own date, which the brief prints next to the name.
+    """
+    ok = [r for r in rows if r["status"] == "ok" and r.get("used", "").startswith("yahoo")]
+    if not ok:
+        return
+    modal = Counter(r["close_date"] for r in ok).most_common(1)[0][0]
+    for r in ok:
+        if r["close_date"] >= modal:
+            continue
+        try:
+            closes, live = yahoo(r["used"].split(":", 1)[1], now, bust=1)
+        except Exception:
+            continue
+        if len(closes) >= 2 and closes[-1][0] > r["close_date"]:
+            r.update(closes=closes, live=live)
+            measure_row(r)
 
 
 def live_rows(rows, now):
