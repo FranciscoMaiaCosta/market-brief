@@ -15,19 +15,36 @@ concurrency:
 jobs:
   prices:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      # Os dois correm sempre: uma fonte em baixo não deve levar a outra atrás.
       - name: Fetch watchlist prices
+        id: prices
+        continue-on-error: true
         run: python prices.py
+
+      - name: Sweep headlines
+        id: headlines
+        continue-on-error: true
+        run: python headlines.py
+
       - name: Commit output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add out/
           git diff --cached --quiet && exit 0
-          git commit -m "prices $(date -u +%F)"
+          git commit -m "prices e headlines $(date -u +%F)"
           git push
+
+      # Falha a corrida para o GitHub enviar email, já depois de guardar o que correu bem.
+      - name: Report failures
+        if: steps.prices.outcome == 'failure' || steps.headlines.outcome == 'failure'
+        run: |
+          echo "prices: ${{ steps.prices.outcome }} · headlines: ${{ steps.headlines.outcome }}"
+          exit 1
