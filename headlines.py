@@ -4,7 +4,10 @@
 Reads feeds.txt, collects what each outlet published inside the window and writes:
 
   out/headlines.txt    one line per headline, grouped by outlet, for the brief to read
-  out/headlines.json   the same items with timestamps, links and the feeds that failed
+  out/headlines.json   the same items with timestamps and links, plus the feeds that failed
+
+The text file leaves out Google News links, which run to 270 characters; the JSON
+keeps every link so the brief can cite and link its sources.
 
 Headlines only, with their time and link. They are leads: the brief still has to
 corroborate anything it uses against a fact source or a primary document. A feed
@@ -126,9 +129,10 @@ def collect(feeds, now, hours):
             if key in seen:
                 continue  # the same story syndicated across outlets
             seen.add(key)
-            # Google News links are redirects: long, and no use for fetching the article.
-            items.append({"outlet": name, "title": it["title"], "url": "" if google else it["url"],
-                          "published": when.astimezone(timezone.utc)})
+            # Google News links are redirects: too long for the text file, but the brief
+            # needs them to cite a source, so they stay in the JSON.
+            items.append({"outlet": name, "title": it["title"], "url": it["url"],
+                          "search": google, "published": when.astimezone(timezone.utc)})
             kept += 1
             if kept >= (PER_SEARCH if google else PER_FEED):
                 break
@@ -151,7 +155,7 @@ def render_txt(items, failed, quiet, now, hours):
         lines.append(outlet)
         for i in [x for x in items if x["outlet"] == outlet]:
             lines.append(f"  {stamp(i['published']):>11}  {i['title']}"
-                         + (f"  {i['url']}" if i["url"] else ""))
+                         + ("" if i["search"] else f"  {i['url']}"))
         lines.append("")
     if quiet:
         lines.append("Sem novidades na janela: " + " · ".join(quiet))
