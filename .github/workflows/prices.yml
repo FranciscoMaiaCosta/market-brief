@@ -2,12 +2,11 @@ name: prices
 
 on:
   schedule:
-    # O GitHub atrasa as corridas agendadas, e à hora certa a fila é maior: a 23/09
-    # a corrida das 05:00 só arrancou às 09:47 UTC. Daí três tentativas a minutos
-    # pouco usados, todas antes do brief das 07:20 de Lisboa. A última que passar manda.
-    - cron: "17 4 * * *"
-    - cron: "23 5 * * *"
-    - cron: "11 6 * * *"
+    # O agendador do GitHub é pouco fiável em repositórios públicos: a 23/09 a corrida
+    # das 05:00 só arrancou às 09:47 UTC, e a 24 e 25/09 não arrancou de todo. Daí oito
+    # tentativas de meia em meia hora, a minutos pouco usados, todas antes do brief das
+    # 07:20 de Lisboa. A primeira que passar guarda os dados; as seguintes não fazem nada.
+    - cron: "7,37 3-6 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -26,18 +25,30 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Já há dados de hoje?
+        id: check
+        run: |
+          have=$(python -c "import json;print(json.load(open('out/watchlist.json'))['generated_at'][:10])" 2>/dev/null || echo none)
+          if [ "$have" = "$(date -u +%F)" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "Dados de $have já guardados; nada a fazer."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
       # Os dois correm sempre: uma fonte em baixo não deve levar a outra atrás.
       - name: Fetch watchlist prices
         id: prices
+        if: steps.check.outputs.skip != 'true'
         continue-on-error: true
         run: python prices.py
 
       - name: Sweep headlines
         id: headlines
+        if: steps.check.outputs.skip != 'true'
         continue-on-error: true
         run: python headlines.py
 
       - name: Commit output
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -48,7 +59,7 @@ jobs:
 
       # Falha a corrida para o GitHub enviar email, já depois de guardar o que correu bem.
       - name: Report failures
-        if: steps.prices.outcome == 'failure' || steps.headlines.outcome == 'failure'
+        if: steps.check.outputs.skip != 'true' && (steps.prices.outcome == 'failure' || steps.headlines.outcome == 'failure')
         run: |
           echo "prices: ${{ steps.prices.outcome }} · headlines: ${{ steps.headlines.outcome }}"
           exit 1

@@ -96,19 +96,21 @@ def parse(xml_text, google):
 
 
 def read_feeds(path, when):
+    """Each line is `name | url` plus an optional `| raro` for low-volume sources."""
     feeds = []
     for line in Path(path).read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if line and not line.startswith("#"):
-            name, url = (p.strip() for p in line.split("|", 1))
-            feeds.append((name, url.replace("{when}", when)))
+            parts = [p.strip() for p in line.split("|")]
+            name, url = parts[0], parts[1]
+            feeds.append((name, url.replace("{when}", when), len(parts) > 2 and parts[2] == "raro"))
     return feeds
 
 
 def collect(feeds, now, hours):
     cutoff = now - timedelta(hours=hours)
     items, failed, quiet, seen = [], [], [], set()
-    for name, url in feeds:
+    for name, url, rare in feeds:
         google = "news.google" in url
         try:
             entries = parse(http_get(url), google)
@@ -136,8 +138,8 @@ def collect(feeds, now, hours):
             kept += 1
             if kept >= (PER_SEARCH if google else PER_FEED):
                 break
-        if not kept:
-            quiet.append(name)
+        if not kept and not rare:
+            quiet.append(name)  # a regulator with nothing to say is not a gap
     items.sort(key=lambda i: i["published"], reverse=True)
     return items, failed, quiet
 
@@ -158,7 +160,8 @@ def render_txt(items, failed, quiet, now, hours):
                          + ("" if i["search"] else f"  {i['url']}"))
         lines.append("")
     if quiet:
-        lines.append("Sem novidades na janela: " + " · ".join(quiet))
+        lines.append("Sem novidades na janela: " + " · ".join(quiet)
+                     + " · (reguladores e semanários omitidos: o silêncio é normal)")
     if failed:
         lines.append("Feeds sem resposta: " + " · ".join(f"{f['feed']} ({f['reason']})" for f in failed))
     return "\n".join(lines) + "\n"

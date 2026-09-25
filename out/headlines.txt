@@ -1,133 +1,162 @@
-Headlines · janela 24h até 24/09 09:17 (Lisboa) · 104 títulos
-
-Bloomberg
-        09:15  Bond Selloff Deepens as Fed Rate-Hike Bets Build: Markets Wrap
-        07:57  Oil Extends Advance on Renewed Tensions Between the US and Iran
-        07:52  Gold Holds Drop as Higher Oil and Hot US Data Fan Rate-Hike Bets
-        07:36  Tumbling Global Government Bonds Put Yields on Brink of 4%
-        03:37  Pentagon-Backed Elmet to Buy Stake in Vietnam Tungsten Miner
-  23/09 22:41  CoreWeave-Tied Data Center Raises $1.1 Billion in Junk Bonds
-  23/09 21:05  Hassett Blasts Fed Officials Calling for Hikes in Recent Days
-  23/09 16:22  US to Buy Back Up to $6 Billion in Longer-Dated Treasuries
+Headlines · janela 24h até 25/09 08:23 (Lisboa) · 126 títulos
 
 CNBC
-        09:13  Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'  https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html
-        08:58  Switzerland is keeping rates at 0% — for now  https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html
-        08:16  Treasury yields continue to rise after 10-year hit 19-year high as investors ramp-up rate hike bets  https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html
-        07:22  Judge lifts Trump ban on CNN, MS NOW, Politico from White House  https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html
-        07:19  Miami's ultra-luxury housing market booms as cash transactions dominate, high-end brands like Bugatti and Porsche jump in  https://www.cnbc.com/2026/09/24/miami-luxury-housing-boom-bugatti-bubble.html
-        05:55  U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit  https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html
-        05:34  OpenAI says agent hacked Australian government website without being told to do so  https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html
-        02:56  America’s Asian allies want a Trump-Xi truce — but not at their expense  https://www.cnbc.com/2026/09/24/uss-asian-allies-want-a-trump-xi-truce-but-not-at-their-expense.html
-        02:16  Chinese authorities reportedly in possession of F-35 components in Hong Kong  https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html
-        01:01  Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market  https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html
-  23/09 22:25  As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry  https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html
-  23/09 20:51  Bonds are getting thumped as yields surge. Here’s what it means for the 60/40 portfolio  https://www.cnbc.com/2026/09/23/bonds-get-thumped-as-yields-surge-what-it-means-for-60/40-portfolio.html
+        08:16  Stock futures are little changed as Dow heads for fourth straight losing week: Live updates  https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html
+        07:30  Here's who attended the Trump-Xi state dinner  https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html
+        07:13  Crypto platform Bitget suspects North Korea is responsible for $352 million hack  https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html
+        06:59  Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government  https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html
+        06:47  An absence of significant economic slowdown doesn't mean no signs of stagflation risks. Here's why  https://www.cnbc.com/2026/09/25/an-absence-of-significant-economic-slowdown-doesnt-mean-no-signs-of-stagflation-risks-heres-why-.html
+        06:37  Iran says it's up to U.S. to end war as China presses for de-escalation  https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html
+        05:14  CEO who posted 'Lake America' sweatshirt photos is no longer with the company  https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html
+        04:24  U.S. government seeks to join Elon Musk in challenge against EU's fine on X  https://www.cnbc.com/2026/09/25/us-government-seeks-to-join-musk-in-challenge-against-eus-fine-on-x.html
+        02:22  China's Xi urges U.S. to cooperate on AI  https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html
+        02:12  Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.  https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html
+        00:30  Here's why South Korea wants more control over future regional wars  https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html
+        00:08  30-year fixed mortgage rate jumps sharply Thursday to 7.45%  https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html
 
 Jornal de Negócios
-        09:00  Função Pública sem estrutura para reagir a casos de assédio laboral  https://www.jornaldenegocios.pt/economia/funcao-publica/detalhe/funcao-publica-sem-estrutura-para-reagir-a-casos-de-assedio-laboral
-        09:00  Preço do petróleo com novos aumentos. Brent aproxima-se dos 104 dólares por barril  https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-fecham-sessao-em-terreno-negativo-antes-do-encontro-xi-trump-na-casa-branca
-        08:53  Bruxelas pondera "apagões seletivos" para garantir a segurança energética na UE  https://www.jornaldenegocios.pt/empresas/energia/detalhe/bruxelas-pondera-apagoes-seletivos-para-garantir-a-seguranca-energetica-na-ue
-        08:40  Sines vai parar, mas a Galp tem diesel e jet garantidos para outubro  https://www.jornaldenegocios.pt/empresas/energia/detalhe/sines-vai-parar-mas-a-galp-tem-diesel-e-jet-garantidos-para-outubro
-        08:25  Pesos pesados seguram bolsa de Lisboa no verde  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/pesos-pesados-seguram-lisboa-no-verde
-        08:09  Austrália acusa OpenAI de ter "infiltrado" um site oficial de saúde  https://www.jornaldenegocios.pt/empresas/detalhe/australia-acusa-openai-de-ter-infiltrado-um-site-oficial-de-saude
-        08:00  Cartoon SA 24-09-2026  https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-24-09-2026
-        08:00  Sarmento chegou a meio do ano com margem de 800 milhões  https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/sarmento-chegou-a-meio-do-ano-com-margem-de-800-milhoes
-        07:59  CIA alerta para possível ataque russo com drones a Espanha, França e Itália  https://www.jornaldenegocios.pt/economia/europa/detalhe/cia-alerta-para-possivel-ataque-russo-com-drones-a-espanha-franca-e-italia
-        07:36  António Costa pede a Teerão que permita navegação em Ormuz e cesse ataques  https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-pede-a-teerao-que-permita-navegacao-em-ormuz-e-cesse-ataques
-        07:30  Vítor Gaspar: “Se dependermos de máquinas para pensar e falar, temos um problema grave”  https://www.jornaldenegocios.pt/sustentabilidade/detalhe/vitor-gaspar-se-dependermos-de-maquinas-para-pensar-e-falar-temos-um-problema-grave
-        07:00  Portugal foi dos mais penalizados pelas tarifas de Trump apesar de impacto residual na UE  https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/portugal-foi-dos-mais-penalizados-pelas-tarifas-de-trump-apesar-de-impacto-residual-na-ue
-
-FT
-        08:52  Global bond sell-off spreads as oil holds above $100  https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1
-        06:30  The SVB postmortem continues  https://www.ft.com/content/820c02a1-36b6-49ab-b2b2-1f60c77567ab?syn-25a6b1a6=1
-        06:00  Are Big Tech bonds crowding out the US Treasury?  https://www.ft.com/content/6354c1ec-286a-4251-bac8-ca0cd4ac7eac
-        05:00  Shale magnate accuses Exxon of ‘smear campaign’ to block board seat  https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1
-        05:00  Airtel Money IPO signals a route back for London’s market  https://www.ft.com/content/cf60deee-553d-4232-83b6-966b539fa6b9?syn-25a6b1a6=1
-        05:00  Emerging markets sell foreign currency bonds at record rate  https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1
-        05:00  French far left sparks backlash with debt ‘fire’ plan  https://www.ft.com/content/1b416427-0e86-40c0-9536-c31d76635313?syn-25a6b1a6=1
-        00:44  US oil industry pushes back against proposed diesel export ban  https://www.ft.com/content/c902e192-8bbb-4f32-813c-ee255d3aebd0?syn-25a6b1a6=1
-  23/09 21:32  US Treasury yields soar most since ‘liberation day’ tariffs shook markets  https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1
-  23/09 21:00  Rosneft billions fed Kremlin-backed money laundering network  https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1
-  23/09 18:27  How besieged billionaires are turning the tables on litigious shareholders  https://www.ft.com/content/05c5f945-c75a-4adb-a189-121a05b3686a?syn-25a6b1a6=1
-  23/09 17:15  European diesel prices climb over prospect of US export ban  https://www.ft.com/content/a8614065-b38b-426d-b176-192c6cd75f56?syn-25a6b1a6=1
+        08:06  Casa Branca barra emissoras CNN e MS NOW à chegada de Xi para jantar com Trump  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/casa-branca-barra-emissoras-cnn-e-ms-now-a-chegada-de-xi-para-jantar-com-trump
+        08:00  Centeno foi chamado para apoiar Cavaco com a TSU. Conversa terá travado subida a diretor no Banco de Portugal  https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/centeno-foi-chamado-para-apoiar-cavaco-com-a-tsu-conversa-tera-travado-subida-a-diretor-no-banco-de-portugal
+        07:43  Ásia sem rumo apesar de alívio no "sell-off" de obrigações. Europa aponta para ganhos  https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-sem-rumo-apesar-de-alivio-no-sell-off-de-obrigacoes-europa-aponta-para-ganhos
+        07:42  Macron nega alerta da CIA para possível ataque russo com drones na Europa  https://www.jornaldenegocios.pt/economia/europa/detalhe/macron-nega-que-cia-tenha-alertado-para-possivel-ataque-russo-com-drones-na-europa
+        07:30  Mais de 400 camiões em marcha lenta contra preço dos combustíveis  https://www.jornaldenegocios.pt/empresas/energia/detalhe/mais-de-400-camioes-em-marcha-lenta-contra-preco-dos-combustiveis
+        07:30  Subida dos juros ameaça “capacidade financeira” das famílias. Taxa mista é um “seguro”  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/subida-dos-juros-ameaca-capacidade-financeira-das-familias-taxa-mista-e-um-seguro
+        07:00  ENSE afasta racionamento de combustíveis. "Não se justificam medidas extraordinárias"  https://www.jornaldenegocios.pt/empresas/energia/detalhe/ense-afasta-racionamento-de-combustiveis-nao-se-justificam-medidas-extraordinarias
+        06:45  Xi Jinping termina visita aos EUA e 4 outras coisas que precisa de saber para começar o dia  https://www.jornaldenegocios.pt/mercados/detalhe/xi-jinping-termina-visita-aos-eua-e-4-outras-coisas-que-precisa-de-saber-para-comecar-o-dia
+        06:00  Juro da dívida de Portugal a 10 anos à beira dos 4%. Ainda "não é preocupante"  https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/juro-da-divida-de-portugal-a-10-anos-a-beira-dos-4-ainda-nao-e-preocupante
+        00:19  Xi avisa Trump para manter “postura correta contra independência de Taiwan"  https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/xi-avisa-trump-para-manter-postura-correta-contra-independencia-de-taiwan
+  24/09 23:42  Kiev fechou acordo "muito importante" para obter mais mísseis Patriot, diz Zelensky  https://www.jornaldenegocios.pt/economia/detalhe/kiev-fechou-acordo-muito-importante-para-obter-mais-misseis-patriot-diz-zelensky
+  24/09 23:30  Só Grândola rivaliza com Lisboa nas casas mais caras  https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/so-grandola-rivaliza-com-lisboa-nas-casas-mais-caras
 
 ECO
-        08:41  Bugalho desvaloriza Passos, que “não é central” no rumo do Governo  https://eco.sapo.pt/2026/09/24/bugalho-desvaloriza-passos-que-nao-e-central-no-rumo-do-governo/
-        08:38  A homepage está morta? O atual papel no tráfego dos publishers  https://eco.sapo.pt/2026/09/24/a-homepage-esta-morta-o-atual-papel-no-trafego-dos-publishers/
-        08:07  EUA anunciam extensão de trégua comercial com China até 10 de janeiro  https://eco.sapo.pt/2026/09/24/eua-anunciam-extensao-de-tregua-comercial-com-china-ate-10-de-janeiro/
-        07:44  Agente de IA da OpenAI invadiu sistema de saúde australiano  https://eco.sapo.pt/2026/09/24/agente-de-ia-da-openai-invadiu-sistema-de-saude-australiano/
-        07:39  Preço dos combustíveis a caminho de um aumento homólogo de 16% na reta final do ano  https://eco.sapo.pt/2026/09/24/preco-dos-combustiveis-a-caminho-de-um-aumento-homologo-de-16-na-reta-final-do-ano/
-        07:24  Kafka, Little Britain e a burocracia portuguesa  https://eco.sapo.pt/opiniao/kafka-little-britain-e-a-burocracia-portuguesa/
-        07:24  Shortlist: Prada reinventa a sua casa em Milão, relógios em miniatura e um livro de Nadal  https://eco.sapo.pt/2026/09/24/shortlist-prada-reinventa-a-sua-casa-em-milao-relogios-em-miniatura-e-um-livro-de-nadal/
-        07:23  “Teríamos todo o gosto em lançar satélites a partir de Portugal”  https://eco.sapo.pt/entrevista/teriamos-todo-o-gosto-em-lancar-satelites-a-partir-de-portugal/
-        07:22  OCDE alerta para risco oculto da inteligência artificial nas bolsas e na dívida  https://eco.sapo.pt/2026/09/24/ocde-alerta-para-risco-oculto-da-inteligencia-artificial-nas-bolsas-e-na-divida/
-        07:21  O dia em direto nos mercados e na economia – 24 de setembro  https://eco.sapo.pt/2026/09/24/o-dia-em-direto-nos-mercados-e-na-economia-24-de-setembro-3/
-        07:18  STCP prepara venda da sede na Torre das Antas  https://eco.sapo.pt/2026/09/24/stcp-prepara-venda-da-sede-na-torre-das-antas/
-        07:16  Vem aí o ‘passaporte’ europeu de Segurança Social? Sete respostas sobre nova aposta de Bruxelas  https://eco.sapo.pt/descodificador/vem-ai-o-passaporte-europeu-de-seguranca-social-sete-respostas-sobre-nova-aposta-de-bruxelas/
-
-Reuters
-        08:06  Oil extends gains on little sign of progress in US-Iran talks
-        06:03  Fed rate hike cycles have a history of denting US stock prices
-        05:46  Morning Bid: Diplomacy takes a back seat
-        03:23  Gold muted on Fed policy tightening bets, decline in oil
-        03:02  Dollar near 2-month peak as investors pause after rally, geopolitics eyed
-        02:48  Bonds shaky, oil eases off highs amid trade, peace talks
-  23/09 21:24  Inflation pressures raise prospect of Fed rate hike on eve of elections
-  23/09 18:25  As 5% Treasury yields lose shock value, investors start worrying about 6%
-
-Politico Europe
-        08:05  Revealed: Andy Burnham’s route to victory  https://www.politico.eu/podcast/politics-at-sam-and-annes/revealed-andy-burnhams-route-to-victory/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        05:06  The world wants to secure AI. It may have to try without the US.  https://www.politico.com/news/2026/09/23/ai-securty-world-us-china-unga-01090989?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        05:05  Russia’s untouchable tycoons  https://www.politico.eu/podcast/brussels-playbook-podcast/russias-untouchable-tycoons/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:52  Der Rivale im Weißen Haus: Gipfel zwischen Trump und Xi  https://www.politico.eu/podcast/berlin-playbook-podcast/der-rivale-im-weisen-haus-gipfel-zwischen-trump-und-xi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  SONDAGE EXCLUSIF 2027. Face à Le Pen, Mélenchon et Philippe au duel, Glucksmann garde la tête hors de l’eau  https://www.politico.eu/article/sondage-exclusif-2027-face-a-le-pen-melenchon-et-philippe-au-duel-glucksmann-garde-la-tete-hors-de-leau/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Accessibility: Europe’s hidden growth engine  https://www.politico.eu/sponsored-content/accessibility-europes-hidden-growth-engine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Race for traction  https://www.politico.eu/sponsored-content/race-for-traction-hub/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Mélenchon’s allies try to temper his debt write-off rhetoric  https://www.politico.eu/article/france-jean-luc-melenchon-allies-try-to-temper-his-debt-write-off-rhetoric/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Rebellion in a tiny English village reveals Burnham’s peril on migration  https://www.politico.eu/article/rebellion-england-village-piddington-andy-burnham-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Don’t believe the doomers: Europe’s tech industry slams AI panic  https://www.politico.eu/article/dont-believe-the-doomers-europes-tech-industry-slams-ai-panic/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-FT Global
-        07:57  Judge orders White House to restore banned media’s access  https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1
-        05:00  How to think about the end of the world  https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1
-        02:25  OpenAI ‘agent’ hacked an Australian health service website  https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1
-        01:24  Zuckerberg unveils AI ‘charm’ device that can fit on a keychain  https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1
-        00:04  US and China extend trade truce as Trump welcomes Xi  https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1
-        00:01  HSBC moves board meeting from Dubai to London amid safety concerns  https://www.ft.com/content/8b470f65-6fc3-44b6-9295-e07008ce302d?syn-25a6b1a6=1
-  23/09 16:39  Trump lays a new trap for Takaichi  https://www.ft.com/content/8dfae006-c1ac-4713-8497-0e0e59e419f6?syn-25a6b1a6=1
+        08:05  Centeno admite Bloco Central e deixa porta aberta à política: “A palavra ‘nunca’ é demasiado forte”  https://eco.sapo.pt/2026/09/25/centeno-admite-bloco-central-e-deixa-porta-aberta-a-politica-a-palavra-nunca-e-demasiado-forte/
+        07:18  Nova unidade de 20 milhões quer criar polo industrial de defesa em Braga e vai criar 200 empregos  https://eco.sapo.pt/2026/09/25/nova-unidade-de-20-milhoes-quer-criar-polo-industrial-de-defesa-em-braga-e-vai-criar-200-empregos/
+        07:17  O dia em direto nos mercados e na economia – 25 de setembro  https://eco.sapo.pt/2026/09/25/o-dia-em-direto-nos-mercados-e-na-economia-25-de-setembro-4/
+        07:10  Do financiamento à resiliência, empresas de referência na sustentabilidade colhem “benefícios concretos”  https://eco.sapo.pt/2026/09/25/do-financiamento-a-resiliencia-empresas-de-referencia-na-sustentabilidade-colhem-beneficios-concretos/
+        07:09  Inteligência artificial já suporta um terço das marcações de consultas e exames no Hospital da Luz  https://eco.sapo.pt/2026/09/25/inteligencia-artificial-ja-suporta-um-terco-das-marcacoes-de-consultas-e-exames-no-hospital-da-luz/
+        07:09  Justiça leva a leilão 33 lotes de ouro avaliados em meio milhão de euros  https://eco.sapo.pt/2026/09/25/justica-leva-a-leilao-33-lotes-de-ouro-avaliados-em-meio-milhao-de-euros/
+        07:09  “68% das promoções na TP Portugal são internas. Temos muito talento”  https://eco.sapo.pt/entrevista/68-das-promocoes-na-tp-portugal-sao-internas-temos-muito-talento/
+        07:08  Taxa mista do crédito à habitação dispara de 10% para 80% em três anos  https://eco.sapo.pt/2026/09/25/taxa-mista-do-credito-a-habitacao-dispara-de-10-para-80-em-tres-anos/
+        07:07  Entidade da Câmara de Lisboa que vai pagar oito milhões à Web Summit critica o investimento  https://eco.sapo.pt/2026/09/25/entidade-da-camara-de-lisboa-que-vai-pagar-oito-milhoes-a-web-summit-critica-o-investimento/
+        07:06  Lufthansa e Air France entregam oferta melhorada pela TAP no dia 30  https://eco.sapo.pt/2026/09/25/lufthansa-e-air-france-entregam-oferta-melhorada-pela-tap-no-dia-30/
+        07:06  Taxar os combustíveis ao nível de Espanha custaria 2,29 mil milhões de euros a Portugal  https://eco.sapo.pt/2026/09/25/taxar-os-combustiveis-ao-nivel-de-espanha-custaria-229-mil-milhoes-de-euros-a-portugal/
+        07:00  Entrajuda lança calculador de impacto ambiental  https://eco.sapo.pt/2026/09/25/entrajuda-lanca-calculador-de-impacto-ambiental/
 
 Expresso
-        07:24  Do custo de vida às perspetivas económicas, saiba quais os temas a não perder de vista esta quinta-feira
-  23/09 18:20  Quanto vale agora a empresa portuguesa de drones Tekever?
-  23/09 13:18  ANTRAM quer apoio "robusto" ao transporte de mercadorias e admite reunir associados para discutir reação ao disparo dos combustíveis
-  23/09 13:00  Consultora norte-americana Bain alarga negócio em Portugal e traz para Lisboa equipa de IA
-  23/09 11:18  INE revê crescimento em alta e aponta para excedente orçamental de 0,5% no primeiro semestre
-  23/09 11:18  Portugal com excedente orçamental de 0,5% no primeiro semestre
-  23/09 11:00  Tekever levanta mais de 500 milhões no mercado internacional, já vale 5,5 mil milhões e admite novas aquisições
-  23/09 09:41  OCDE revê em baixa crescimento da zona euro para 1% em 2027
+        07:35  Do crédito em Portugal ao PIB espanhol, em dia de Expresso nas bancas
+  24/09 23:07  Economia
+  24/09 22:57  Drones, banca, pasta e papel, distribuição e media nos Altos e Baixos da Economia
+  24/09 22:57  Europa estava muito “desfocada” da realidade do sector automóvel e “não tinha a perceção do que estava a acontecer no mercado”
+  24/09 22:57  Economia. OCDE prevê que PIB da zona euro cresça 1%
+  24/09 22:57  Crédito e dívida: uma história com 5000 anos
+  24/09 15:38  Ministro da Economia apela à "consciência dos portugueses" para fazer descer os preços dos combustíveis
+  24/09 15:31  Melhoria da economia não é estrutural, alerta conselho das finanças públicas
+
+Bloomberg
+        07:00  Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap
+        06:23  Oil Steadies With the US, Iran Said to Be Exploring Phased Deal
+  24/09 22:10  US 30-Year Yield Hits Highest Since 2004 as Bond Selloff Deepens
+  24/09 20:28  France to Send Military Aid, Troops to Defend Saudi Oil Port
+  24/09 20:01  Fed Unveils More Stablecoin Plans As Regulators Embrace Crypto
+  24/09 17:22  A Trump-Backed US Diesel Export Ban Would Cut Prices, at Least Initially
+  24/09 12:45  US Stock Futures Drop as Yields Climb Further, Oil Rises
+  24/09 11:00  Rich People Fleeing Private Credit Haven’t Learned Their Lesson
+
+FT
+        06:41  Japanese government bond yields hit new high as global sell-off continues  https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1
+        06:30  Bonds can keep falling  https://www.ft.com/content/b8817c5a-fc54-4add-bd5c-d1247729b95d?syn-25a6b1a6=1
+        05:58  Trump raised weak yen with Takaichi, Japan finance minister says  https://www.ft.com/content/901ccfbc-6ddb-4fb3-b74d-1f337efca9ff?syn-25a6b1a6=1
+        05:00  The shale wildcatter lambasting Exxon  https://www.ft.com/content/e2658a67-32f7-4444-b0f1-e0e8eddd2d59?syn-25a6b1a6=1
+        05:00  Brussels pushes Trump to maintain ‘free flow’ of diesel  https://www.ft.com/content/91684f96-6c7b-4b25-8486-d810d2088f9e?syn-25a6b1a6=1
+        05:00  Oilman Scott Sheffield: ‘We’re warming. I see it here in this ranch’  https://www.ft.com/content/4bbac5c4-07ef-45af-a263-59a55a819713?syn-25a6b1a6=1
+        05:00  Legal advisers on private capital deals pick up the pace  https://www.ft.com/content/9ca7fff7-3162-4923-a1c3-0b0043ac20ef?syn-25a6b1a6=1
+  24/09 22:57  Shale oil magnate says Exxon chief ‘threw me under the bus’ after $60bn takeover  https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1
+  24/09 21:32  US long-term borrowing costs touch highest level since 2004  https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1
+  24/09 21:00  Bond bombshell  https://www.ft.com/content/c3f21fec-ff2d-40a5-8478-196b91ea5de6?syn-25a6b1a6=1
+  24/09 20:39  SoftBank pays steep price for record bond sale to fund OpenAI bet  https://www.ft.com/content/17b09993-8fed-47d1-9c04-e2d29ca75615?syn-25a6b1a6=1
+  24/09 18:16  Burnham under pressure to lobby Trump on US diesel export ban  https://www.ft.com/content/68173e02-88e8-4819-9543-cff7d024c476?syn-25a6b1a6=1
+
+PSI e cotadas PT
+        06:31  A PSI Securities deixa sua marca no IR Awards 2026, expandindo sua plataforma de crescimento.
+        01:03  EDP, Galp e Jerónimo Martins voltam a liderar o ranking das marcas portuguesas mais valiosas
+  24/09 22:26  Banca e energia lucram milhões mas indústria e empresas exportador­as estão a cair a pique
+  24/09 19:09  Mercados europeus fecham em baixa; PSI 20 é exceção com leve alta
+  24/09 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 0,54% - Investing.com Brasil
+  24/09 16:59  Lisboa contraria perdas europeias. Galp soma mais de 3%
+  24/09 16:40  Bolsas europeias recuam com petróleo e juros em alta. PSI destoa e fecha a subir com ajuda da Galp
+  24/09 13:58  Banca e energia batem recordes: Galp, EDP e BCP com mais de metade dos lucros das maiores empresas cotadas em bolsa
+
+Reuters
+        05:40  Morning Bid: When Treasuries catch Korea's volatility bug, take cover
+        05:31  Five French market hot spots on investors' radars
+        04:33  Japan's bond 'falling knife' stalls repatriation rush
+        03:19  Asian stocks weather bond storm, oil retreats slightly
+        02:11  Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia
+  24/09 22:14  COMMENTARY: Trading Day: Rout of control
+  24/09 19:23  GM, Ford to see US market-share slide, forecaster predicts
+  24/09 15:28  New York, Polymarket sue each other over whether prediction markets are illegal gambling
+
+Reuters Morning Bid
+        05:37  MORNING BID EUROPE-When Treasuries catch Korea's volatility bug, take cover
+  24/09 14:52  Morning Bid: License to yield
+  24/09 12:08  Morning Bid: Bonds bomb By Reuters
+  24/09 11:40  MORNING BID AMERICAS-Bonds bomb
+
+FT Global
+        05:00  EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers  https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1
+        05:00  Russia expands fleet as crackdown on stateless vessels intensifies  https://www.ft.com/content/fe377a54-88d7-4d6c-a763-fd56bc608827?syn-25a6b1a6=1
+        05:00  How can we tackle AI’s financial risks?  https://www.ft.com/content/065dd0d6-804d-4609-8964-e0af05a4603e?syn-25a6b1a6=1
+        05:00  The cheap new AI model taking aim at OpenAI and Anthropic  https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430?syn-25a6b1a6=1
+        05:00  Wall Street boutiques balk at Saudi Arabia’s HQ rules  https://www.ft.com/content/8b1b398d-da7d-4dda-aa64-b7a42c59fd7e?syn-25a6b1a6=1
+        05:00  Can quantum turn ‘magic’ into money?  https://www.ft.com/content/ae9eedd2-4530-47e4-be4b-242d0e2a6253?syn-25a6b1a6=1
+        04:03  Pomp prevails over substance as Trump hosts Xi  https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1
+        03:17  Iran offers US new seven-day ceasefire proposal  https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1
+  24/09 22:06  OpenAI breach of Australian government linked to wider AI hacking campaign  https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1
+
+Politico Europe
+        05:00  Pope’s artificial intelligence guru admits he doesn’t use AI  https://www.politico.eu/article/popes-artificial-intelligence-guru-admits-he-doesnt-use-ai/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:59  Deutschland und Spanien zetteln Papierkrieg zu „Made in Europe“-Auslegung an  https://www.politico.eu/article/deutschland-und-spanien-zetteln-papierkrieg-zu-made-in-europe-auslegung-an/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:35  Hält der Tankrabatt, was Merz verspricht?  https://www.politico.eu/podcast/berlin-playbook-podcast/halt-der-tankrabatt-was-merz-verspricht/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:00  2027 : LE BAROMÈTRE DU REJET  https://www.politico.eu/article/2027-le-barometre-du-rejet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:43  Switzerland’s neutrality vote puts Russia sanctions on the line  https://www.politico.eu/article/swiss-voters-decide-how-far-neutral-alpine-nation-can-lean-west/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:10  The Pope is fretting about frontier AI — what’s the EU’s answer?  https://www.politico.eu/podcast/brussels-playbook-podcast/the-pope-is-fretting-about-frontier-ai-whats-the-eus-answer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:01  Boredom, ranting and clowns: Welcome to the UN’s big bash  https://www.politico.eu/article/boredom-ranting-and-clowns-welcome-to-the-uns-big-bash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/09 23:33  Netanyahu uses UN address to highlight Trump ties — and harangue everyone else  https://www.politico.com/news/2026/09/24/netanyahu-uses-un-address-to-highlight-trump-ties-and-harangue-everyone-else-01092551?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/09 23:10  Europe grudgingly, gingerly moves toward Trump’s Board of Peace  https://www.politico.com/news/2026/09/24/europe-trump-gaza-board-of-peace-01092119?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/09 22:46  EU’s top AI adviser urges commissioners to use the technology to fix bloc’s economy  https://www.politico.eu/article/eu-artificial-intelligence-adviser-ai-economy-productivity-focus-jim-hagemann-snabe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 CNBC Economia
-        07:21  France's fresh budget battle threatens to topple another government  https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html
-        05:02  World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn  https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html
-        03:50  Here's what happens to the economy when Treasury yields soar like they are now  https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html
+        03:38  Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed  https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html
+  24/09 15:37  Here's what happens to the economy when Treasury yields soar like they are now  https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html
+  24/09 12:34  Switzerland is keeping rates at 0% — for now  https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html
+  24/09 09:13  Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'  https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html
+
+Banco de Portugal
+  24/09 22:34  Sistema Bancário Português — 2.º trimestre de 2026
+  24/09 21:37  Jesus estreia-se no banco de Portugal com vitória frente ao País de Gales
+  24/09 20:24  “Mestres do Dinheiro” vão prestar provas no Banco de Portugal
+  24/09 12:43  O cartão Multibanco diz que expira em 10/26? Banco de Portugal explica até que dia ainda o pode utilizar
 
 WSJ
-        06:24  Ukraine’s Economy Hampered by Black Sea, Energy Disruptions, Says EBRD
-        02:00  The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
-  23/09 21:18  U.S. Stocks Drop as Treasury Yields Surge
-  23/09 21:05  Ten-Year Treasury Yield Reaches 19-Year High Amid Broad Bonds Selloff
-  23/09 19:19  U.S. Stocks Decline as Treasury Selloff Deepens
-  23/09 15:11  Dollar Jumps to 8-Week High on Fed Rate-Hike Bets
-  23/09 14:38  Dollar More Attractive After Fed Defies Trump With Rate Rise
-  23/09 09:30  Global Economy Stronger Than Expected, But Threats Mount, OECD Says
-
-BCE
-  23/09 17:30  Philip R. Lane: The Outlook for the Euro Area Economy  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf
-  23/09 17:00  The digitalisation of money, payments and finance  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf
-  23/09 10:00  Almost ten million people took part in ECB survey on new euro banknotes  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html
+  24/09 21:50  U.S. Treasury Yields Hit Multiyear Highs on Economic Data, Fed Rate-Boost Expectations
+  24/09 21:39  Stocks Climb Back To Par
+  24/09 21:20  Raging Conflict in the Middle East and Rising Yields Weigh on U.S. Stocks
+  24/09 19:27  Bond Selloff Worsens, Dinging Stocks
+  24/09 19:24  Gold Futures Settle Lower With As U.S. Yields Rise
+  24/09 15:22  Darden Restaurants’ Earnings Hit by Higher Food and Labor Costs
+  24/09 11:00  Xi’s Economy Is Failing China’s People
+  24/09 08:30  European Stocks Fall at Open as Banks, Tech Slide
 
 EBA
-  23/09 16:00  EBA E-mail alert 23 September, 2026  https://www.eba.europa.eu/node/20027
+  24/09 16:00  EBA E-mail alert 24 September, 2026  https://www.eba.europa.eu/node/20032
 
-Sem novidades na janela: The Economist · Fed · ESMA · CMVM · Banco de Portugal
+BCE
+  24/09 13:00  ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html
+  24/09 10:00  Philip R. Lane: The outlook for the euro area economy  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf
+
+The Economist
+  24/09 10:44  How the Fed should measure inflation  https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation
+  24/09 10:43  Israel’s war economy is thriving  https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving
+  24/09 10:42  The battle between India’s stock exchanges is heating up again  https://www.economist.com/finance-and-economics/2026/09/24/the-battle-between-indias-stock-exchanges-is-heating-up-again
+  24/09 10:40  Turkey’s investment-fund fiasco  https://www.economist.com/finance-and-economics/2026/09/24/turkeys-investment-fund-fiasco
+

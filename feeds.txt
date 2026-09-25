@@ -1,6 +1,9 @@
 # Feeds do Morning Brief. Só títulos com hora e link: leads, nunca factos.
 #
-# Uma linha por feed:   fonte | url
+# Uma linha por feed:   fonte | url | raro
+#
+# "raro" é opcional: marca fontes que publicam poucas vezes por mês (reguladores,
+# semanários). O silêncio delas é normal e não entra na lista de lacunas do brief.
 #
 # {when} é substituído pela janela do dia (1d de terça a sexta, 2d ao fim de semana,
 # 3d à segunda). Serve para as pesquisas do Google News, que é a via para
@@ -8,20 +11,23 @@
 
 FT                | https://www.ft.com/markets?format=rss
 FT Global         | https://www.ft.com/rss/home
-The Economist     | https://www.economist.com/finance-and-economics/rss.xml
+The Economist     | https://www.economist.com/finance-and-economics/rss.xml | raro
 Politico Europe   | https://www.politico.eu/feed/
 CNBC              | https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114
 CNBC Economia     | https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258
 ECO               | https://eco.sapo.pt/feed/
 Jornal de Negócios| https://www.jornaldenegocios.pt/rss
 BCE               | https://www.ecb.europa.eu/rss/press.html
-Fed               | https://www.federalreserve.gov/feeds/press_monetary.xml
-ESMA              | https://www.esma.europa.eu/rss.xml
-EBA               | https://www.eba.europa.eu/rss.xml
+Fed               | https://www.federalreserve.gov/feeds/press_monetary.xml | raro
+ESMA              | https://www.esma.europa.eu/rss.xml | raro
+EBA               | https://www.eba.europa.eu/rss.xml | raro
+SRB               | https://www.srb.europa.eu/en/rss | raro
 
 WSJ               | https://news.google.com/rss/search?q=site:wsj.com+(markets+OR+Fed+OR+economy+OR+bonds+OR+stocks+OR+earnings)+when:{when}&hl=en-US&gl=US&ceid=US:en
 Bloomberg         | https://news.google.com/rss/search?q=site:bloomberg.com+(markets+OR+Fed+OR+ECB+OR+bonds+OR+oil+OR+credit)+when:{when}&hl=en-US&gl=US&ceid=US:en
 Reuters           | https://news.google.com/rss/search?q=site:reuters.com+markets+when:{when}&hl=en-US&gl=US&ceid=US:en
 Expresso          | https://news.google.com/rss/search?q=site:expresso.pt+economia+when:{when}&hl=pt-PT&gl=PT&ceid=PT:pt-150
-CMVM              | https://news.google.com/rss/search?q=intitle:CMVM+when:{when}&hl=pt-PT&gl=PT&ceid=PT:pt-150
-Banco de Portugal | https://news.google.com/rss/search?q=intitle:%22Banco+de+Portugal%22+when:{when}&hl=pt-PT&gl=PT&ceid=PT:pt-150
+CMVM              | https://news.google.com/rss/search?q=intitle:CMVM+when:{when}&hl=pt-PT&gl=PT&ceid=PT:pt-150 | raro
+Banco de Portugal | https://news.google.com/rss/search?q=intitle:%22Banco+de+Portugal%22+when:{when}&hl=pt-PT&gl=PT&ceid=PT:pt-150 | raro
+Reuters Morning Bid | https://news.google.com/rss/search?q=intitle:%22Morning+Bid%22+when:{when}&hl=en-US&gl=US&ceid=US:en
+PSI e cotadas PT  | https://news.google.com/rss/search?q=(PSI+OR+BCP+OR+%22Euronext+Lisbon%22)+when:{when}&hl=pt-PT&gl=PT&ceid=PT:pt-150
