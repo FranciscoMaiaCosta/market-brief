@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24T09:19+01:00",
+ "generated_at": "2026-09-26T09:29+01:00",
  "reference": {
-  "close": "2026-09-23",
-  "prev": "2026-09-22"
+  "close": "2026-09-25",
+  "prev": "2026-09-24"
  },
  "lines": [
   {
@@ -12,13 +12,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^GSPC",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 7706.02978515625,
-   "change": -0.7556043205849572,
-   "level_fmt": "7 706",
-   "change_fmt": "−0,8%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 7743.41015625,
+   "change": 0.5098599586843999,
+   "level_fmt": "7 743",
+   "change_fmt": "+0,5%",
+   "streak": 1
   },
   {
    "group": "Ações",
@@ -27,13 +27,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^NDX",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 30470.2890625,
-   "change": -0.039565673347208286,
-   "level_fmt": "30 470",
-   "change_fmt": "0,0%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 30608.130859375,
+   "change": 0.4241349152358076,
+   "level_fmt": "30 608",
+   "change_fmt": "+0,4%",
+   "streak": 2
   },
   {
    "group": "Ações",
@@ -42,13 +42,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^STOXX",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 639.9199829101562,
-   "change": -0.31311977763285315,
-   "level_fmt": "639,92",
-   "change_fmt": "−0,3%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 638.6500244140625,
+   "change": 0.34882575677293026,
+   "level_fmt": "638,65",
+   "change_fmt": "+0,3%",
+   "streak": 1
   },
   {
    "group": "Ações",
@@ -57,13 +57,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^GDAXI",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 25410.630859375,
-   "change": -0.6427325258383298,
-   "level_fmt": "25 411",
-   "change_fmt": "−0,6%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 25408.640625,
+   "change": 0.5624489475987371,
+   "level_fmt": "25 409",
+   "change_fmt": "+0,6%",
+   "streak": 1
   },
   {
    "group": "Ações",
@@ -72,11 +72,11 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:PSI20.LS",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 9632.4404296875,
-   "change": 0.15649549202205737,
-   "level_fmt": "9 632",
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 9704.599609375,
+   "change": 0.20578592415405605,
+   "level_fmt": "9 705",
    "change_fmt": "+0,2%",
    "streak": 2
   },
@@ -87,13 +87,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^N225",
-   "close_date": "2026-09-24",
-   "prev_date": "2026-09-18",
-   "level": 65513.98828125,
-   "change": 0.7613765962819263,
-   "level_fmt": "65 514",
-   "change_fmt": "+0,8%",
-   "streak": 4
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 66364.203125,
+   "change": 1.2977607775915612,
+   "level_fmt": "66 364",
+   "change_fmt": "+1,3%",
+   "streak": 5
   },
   {
    "group": "Ações",
@@ -102,13 +102,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^HSI",
-   "close_date": "2026-09-24",
-   "prev_date": "2026-09-23",
-   "level": 24763.810546875,
-   "change": -0.2831128954156714,
-   "level_fmt": "24 764",
-   "change_fmt": "−0,3%",
-   "streak": -2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 24510.08984375,
+   "change": -1.0138511728350674,
+   "level_fmt": "24 510",
+   "change_fmt": "−1,0%",
+   "streak": -3
   },
   {
    "group": "Ações",
@@ -118,12 +118,12 @@
    "reason": "",
    "used": "yahoo:^KS11",
    "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
+   "prev_date": "2026-09-22",
    "level": 7080.919921875,
-   "change": 1.044558070058188,
+   "change": 0.8978422952434784,
    "level_fmt": "7 081",
-   "change_fmt": "+1,0%",
-   "streak": 3
+   "change_fmt": "+0,9%",
+   "streak": 4
   },
   {
    "group": "Ações",
@@ -132,13 +132,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:EEM",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 67.70999908447266,
-   "change": -1.6272013900727633,
-   "level_fmt": "67,71",
-   "change_fmt": "−1,6%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 67.9800033569336,
+   "change": 1.0855068504588727,
+   "level_fmt": "67,98",
+   "change_fmt": "+1,1%",
+   "streak": 1
   },
   {
    "group": "Taxas",
@@ -147,13 +147,13 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:US2Y",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 4.895,
-   "change": 14.399999999999924,
-   "level_fmt": "4,89%",
-   "change_fmt": "+14,4 pb",
-   "streak": 1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 4.864,
+   "change": -3.0999999999999694,
+   "level_fmt": "4,86%",
+   "change_fmt": "−3,1 pb",
+   "streak": -1
   },
   {
    "group": "Taxas",
@@ -162,13 +162,13 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:US10Y",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 5.114,
-   "change": 14.700000000000024,
-   "level_fmt": "5,11%",
-   "change_fmt": "+14,7 pb",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 5.179,
+   "change": 1.7000000000000348,
+   "level_fmt": "5,18%",
+   "change_fmt": "+1,7 pb",
+   "streak": 4
   },
   {
    "group": "Taxas",
@@ -177,13 +177,13 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:DE10Y-DE",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 3.5476,
-   "change": 9.460000000000024,
-   "level_fmt": "3,55%",
-   "change_fmt": "+9,5 pb",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 3.6232,
+   "change": 1.2199999999999989,
+   "level_fmt": "3,62%",
+   "change_fmt": "+1,2 pb",
+   "streak": 4
   },
   {
    "group": "Taxas",
@@ -192,13 +192,13 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:PT10Y-PT",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 3.9257,
-   "change": 9.620000000000006,
-   "level_fmt": "3,93%",
-   "change_fmt": "+9,6 pb",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 3.9898,
+   "change": -0.18000000000002458,
+   "level_fmt": "3,99%",
+   "change_fmt": "−0,2 pb",
+   "streak": -1
   },
   {
    "group": "Taxas",
@@ -207,13 +207,13 @@
    "status": "ok",
    "reason": "",
    "used": "spread:PT10Y-PT/DE10Y-DE",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 37.80999999999999,
-   "change": 0.15999999999998238,
-   "level_fmt": "38 pb",
-   "change_fmt": "+0,2 pb",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 36.65999999999996,
+   "change": -1.40000000000002,
+   "level_fmt": "37 pb",
+   "change_fmt": "−1,4 pb",
+   "streak": -1
   },
   {
    "group": "Taxas",
@@ -222,13 +222,13 @@
    "status": "ok",
    "reason": "",
    "used": "spread:IT10Y-IT/DE10Y-DE",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 96.10000000000002,
-   "change": 6.089999999999961,
-   "level_fmt": "96 pb",
-   "change_fmt": "+6,1 pb",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 91.69999999999993,
+   "change": -3.5100000000000904,
+   "level_fmt": "92 pb",
+   "change_fmt": "−3,5 pb",
+   "streak": -2
   },
   {
    "group": "Crédito",
@@ -244,13 +244,13 @@
    "status": "ok",
    "reason": "",
    "used": "fred:BAMLH0A0HYM2",
-   "close_date": "2026-09-22",
-   "prev_date": "2026-09-21",
-   "level": 268.0,
-   "change": 2.0000000000000018,
-   "level_fmt": "268 pb",
-   "change_fmt": "+2 pb",
-   "streak": 1
+   "close_date": "2026-09-24",
+   "prev_date": "2026-09-23",
+   "level": 280.0,
+   "change": 6.999999999999984,
+   "level_fmt": "280 pb",
+   "change_fmt": "+7 pb",
+   "streak": 3
   },
   {
    "group": "Cambial",
@@ -259,13 +259,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:EURUSD=X",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 1.1447935104370117,
-   "change": -0.14538526054240775,
-   "level_fmt": "1,1448",
-   "change_fmt": "−0,15%",
-   "streak": -2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 1.1374752521514893,
+   "change": -0.06255886823015588,
+   "level_fmt": "1,1375",
+   "change_fmt": "−0,06%",
+   "streak": -4
   },
   {
    "group": "Cambial",
@@ -274,13 +274,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:JPY=X",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 157.46400451660156,
-   "change": 0.06036844531860375,
-   "level_fmt": "157,46",
-   "change_fmt": "+0,06%",
-   "streak": 7
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 158.81100463867188,
+   "change": 0.3449943140486633,
+   "level_fmt": "158,81",
+   "change_fmt": "+0,34%",
+   "streak": 9
   },
   {
    "group": "Cambial",
@@ -289,13 +289,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:DX-Y.NYB",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 101.0999984741211,
-   "change": 0.6671295100163288,
-   "level_fmt": "101,10",
-   "change_fmt": "+0,67%",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 100.97000122070312,
+   "change": -0.31592426886351,
+   "level_fmt": "100,97",
+   "change_fmt": "−0,32%",
+   "streak": -1
   },
   {
    "group": "Cambial",
@@ -304,13 +304,13 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:CNH=",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 6.7107,
-   "change": 0.18063475950198526,
-   "level_fmt": "6,7107",
-   "change_fmt": "+0,18%",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 6.7227,
+   "change": 0.10423336361062852,
+   "level_fmt": "6,7227",
+   "change_fmt": "+0,10%",
+   "streak": 4
   },
   {
    "group": "Volatilidade",
@@ -319,13 +319,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^VIX",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 15.180000305175781,
-   "change": 0.3100004196166992,
-   "level_fmt": "15,18",
-   "change_fmt": "+0,31 pts",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 14.869999885559082,
+   "change": -0.8000001907348633,
+   "level_fmt": "14,87",
+   "change_fmt": "−0,80 pts",
+   "streak": -1
   },
   {
    "group": "Volatilidade",
@@ -334,13 +334,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^MOVE",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 95.44999694824219,
-   "change": 14.25,
-   "level_fmt": "95,45",
-   "change_fmt": "+14,25 pts",
-   "streak": 3
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 96.0,
+   "change": -8.580001831054688,
+   "level_fmt": "96,00",
+   "change_fmt": "−8,58 pts",
+   "streak": -1
   },
   {
    "group": "Mat.-primas",
@@ -349,13 +349,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:BZ=F",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 103.08000183105469,
-   "change": 3.8589439103825507,
-   "level_fmt": "103,08",
-   "change_fmt": "+3,9%",
-   "streak": 1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 104.31999969482422,
+   "change": -2.138835658473659,
+   "level_fmt": "104,32",
+   "change_fmt": "−2,1%",
+   "streak": -1
   },
   {
    "group": "Mat.-primas",
@@ -364,13 +364,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:CL=F",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 92.16000366210938,
-   "change": -2.568974278316838,
-   "level_fmt": "92,16",
-   "change_fmt": "−2,6%",
-   "streak": -6
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 92.41000366210938,
+   "change": -2.3253323475842747,
+   "level_fmt": "92,41",
+   "change_fmt": "−2,3%",
+   "streak": -1
   },
   {
    "group": "Mat.-primas",
@@ -379,13 +379,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:GC=F",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 4318.39990234375,
-   "change": -1.3252902224254792,
-   "level_fmt": "4 318",
-   "change_fmt": "−1,3%",
-   "streak": -3
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 4321.2001953125,
+   "change": 0.5397904912168405,
+   "level_fmt": "4 321",
+   "change_fmt": "+0,5%",
+   "streak": 1
   },
   {
    "group": "Mat.-primas",
@@ -394,13 +394,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:SI=F",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 64.38200378417969,
-   "change": -2.3509000804111224,
-   "level_fmt": "64,38",
-   "change_fmt": "−2,4%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 64.24500274658203,
+   "change": 1.2417889359172651,
+   "level_fmt": "64,25",
+   "change_fmt": "+1,2%",
+   "streak": 1
   },
   {
    "group": "Mat.-primas",
@@ -409,12 +409,12 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:HG=F",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 6.677999973297119,
-   "change": -1.2057112668659276,
-   "level_fmt": "6,678",
-   "change_fmt": "−1,2%",
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 6.695499897003174,
+   "change": -0.34234188964490375,
+   "level_fmt": "6,695",
+   "change_fmt": "−0,3%",
    "streak": -1
   },
   {
@@ -424,12 +424,12 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:TTF=F",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 72.01000213623047,
-   "change": -1.813463687034611,
-   "level_fmt": "72,01",
-   "change_fmt": "−1,8%",
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 72.07099914550781,
+   "change": -4.040960174492958,
+   "level_fmt": "72,07",
+   "change_fmt": "−4,0%",
    "streak": -1
   },
   {
@@ -439,13 +439,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^SOX",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 12534.2802734375,
-   "change": 0.8132306740584738,
-   "level_fmt": "12 534",
-   "change_fmt": "+0,8%",
-   "streak": 6
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 12668.9296875,
+   "change": 1.411959840720578,
+   "level_fmt": "12 669",
+   "change_fmt": "+1,4%",
+   "streak": 1
   },
   {
    "group": "Memória/semis",
@@ -454,13 +454,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:SMH",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 601.4099731445312,
-   "change": -0.9959583526958915,
-   "level_fmt": "601,41",
-   "change_fmt": "−1,0%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 606.5599975585938,
+   "change": 1.0057912860354623,
+   "level_fmt": "606,56",
+   "change_fmt": "+1,0%",
+   "streak": 1
   },
   {
    "group": "Memória/semis",
@@ -469,13 +469,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:MU",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 1071.8800048828125,
-   "change": -2.2150077123588074,
-   "level_fmt": "1 072",
-   "change_fmt": "−2,2%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 1082.280029296875,
+   "change": 0.1619575534739015,
+   "level_fmt": "1 082",
+   "change_fmt": "+0,2%",
+   "streak": 2
   },
   {
    "group": "Memória/semis",
@@ -514,13 +514,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:285A.T",
-   "close_date": "2026-09-24",
-   "prev_date": "2026-09-18",
-   "level": 54580.0,
-   "change": 0.018325087044157584,
-   "level_fmt": "54 580",
-   "change_fmt": "0,0%",
-   "streak": 2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 55780.0,
+   "change": 2.198607548552589,
+   "level_fmt": "55 780",
+   "change_fmt": "+2,2%",
+   "streak": 3
   },
   {
    "group": "Memória/semis",
@@ -529,13 +529,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:SNDK",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 1816.5699462890625,
-   "change": -3.7344248831332583,
-   "level_fmt": "1 817",
-   "change_fmt": "−3,7%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 1777.800048828125,
+   "change": 1.3788650778540967,
+   "level_fmt": "1 778",
+   "change_fmt": "+1,4%",
+   "streak": 1
   },
   {
    "group": "Energia",
@@ -544,13 +544,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:XLE",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 62.369998931884766,
-   "change": 0.9550018845024821,
-   "level_fmt": "62,37",
-   "change_fmt": "+1,0%",
-   "streak": 1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 62.040000915527344,
+   "change": -0.8945648118909411,
+   "level_fmt": "62,04",
+   "change_fmt": "−0,9%",
+   "streak": -1
   },
   {
    "group": "Energia",
@@ -559,13 +559,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:XOP",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 182.64999389648438,
-   "change": -1.1366744809286233,
-   "level_fmt": "182,65",
-   "change_fmt": "−1,1%",
-   "streak": -3
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 181.5,
+   "change": -1.3854947076750168,
+   "level_fmt": "181,50",
+   "change_fmt": "−1,4%",
+   "streak": -1
   },
   {
    "group": "Energia",
@@ -574,13 +574,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:OIH",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-21",
-   "level": 395.6600036621094,
-   "change": -0.24456072630958392,
-   "level_fmt": "395,66",
-   "change_fmt": "−0,2%",
-   "streak": -3
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 393.67999267578125,
+   "change": -0.13191768522241576,
+   "level_fmt": "393,68",
+   "change_fmt": "−0,1%",
+   "streak": -2
   },
   {
    "group": "IA/infra",
@@ -589,13 +589,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:NVDA",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 225.50999450683594,
-   "change": -1.4680826154739757,
-   "level_fmt": "225,51",
-   "change_fmt": "−1,5%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 225.07000732421875,
+   "change": 0.21818750074313886,
+   "level_fmt": "225,07",
+   "change_fmt": "+0,2%",
+   "streak": 1
   },
   {
    "group": "IA/infra",
@@ -604,13 +604,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:AVGO",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 354.989990234375,
-   "change": -2.619744907744481,
-   "level_fmt": "354,99",
-   "change_fmt": "−2,6%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 352.80999755859375,
+   "change": 0.6992842531868604,
+   "level_fmt": "352,81",
+   "change_fmt": "+0,7%",
+   "streak": 1
   },
   {
    "group": "IA/infra",
@@ -634,13 +634,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:9984.T",
-   "close_date": "2026-09-24",
-   "prev_date": "2026-09-18",
-   "level": 6352.0,
-   "change": 0.5859065716547818,
-   "level_fmt": "6 352",
-   "change_fmt": "+0,6%",
-   "streak": 3
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 6150.0,
+   "change": -3.180100755667503,
+   "level_fmt": "6 150",
+   "change_fmt": "−3,2%",
+   "streak": -1
   },
   {
    "group": "Ouro/mineiras",
@@ -649,13 +649,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:GDX",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 93.55999755859375,
-   "change": -4.364718585853577,
-   "level_fmt": "93,56",
-   "change_fmt": "−4,4%",
-   "streak": -1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 92.87000274658203,
+   "change": 0.5630798928563774,
+   "level_fmt": "92,87",
+   "change_fmt": "+0,6%",
+   "streak": 1
   },
   {
    "group": "Banca PT/UE",
@@ -664,13 +664,13 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:BCP-PT",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 1.1865,
-   "change": 1.6274089935760294,
-   "level_fmt": "1,187",
-   "change_fmt": "+1,6%",
-   "streak": 1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 1.21,
+   "change": 1.766190075693852,
+   "level_fmt": "1,210",
+   "change_fmt": "+1,8%",
+   "streak": 3
   },
   {
    "group": "Banca PT/UE",
@@ -679,60 +679,14 @@
    "status": "ok",
    "reason": "",
    "used": "cnbc:.SX7P",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 425.79,
-   "change": -0.4419191919191934,
-   "level_fmt": "425,79",
-   "change_fmt": "−0,4%",
-   "streak": -2
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 427.87,
+   "change": 1.2590226008756256,
+   "level_fmt": "427,87",
+   "change_fmt": "+1,3%",
+   "streak": 1
   }
  ],
- "live": [
-  {
-   "name": "Stoxx Europe 600",
-   "price": 638.32,
-   "change": -0.25002858996213684,
-   "level_fmt": "638,32",
-   "change_fmt": "−0,3%",
-   "time": "09:04",
-   "vs_close": "2026-09-23"
-  },
-  {
-   "name": "DAX",
-   "price": 25313.62,
-   "change": -0.3817727309167185,
-   "level_fmt": "25 314",
-   "change_fmt": "−0,4%",
-   "time": "09:04",
-   "vs_close": "2026-09-23"
-  },
-  {
-   "name": "PSI",
-   "price": 9659.88,
-   "change": 0.28486623418848556,
-   "level_fmt": "9 660",
-   "change_fmt": "+0,3%",
-   "time": "09:04",
-   "vs_close": "2026-09-23"
-  },
-  {
-   "name": "Futuros S&P 500",
-   "price": 7732.25,
-   "change": -0.5178513991637157,
-   "level_fmt": "7 732",
-   "change_fmt": "−0,5%",
-   "time": "09:10",
-   "vs_close": "2026-09-23"
-  },
-  {
-   "name": "Futuros Nasdaq 100",
-   "price": 30522.5,
-   "change": -0.7874271690815005,
-   "level_fmt": "30 522",
-   "change_fmt": "−0,8%",
-   "time": "09:10",
-   "vs_close": "2026-09-23"
-  }
- ]
+ "live": []
 }
