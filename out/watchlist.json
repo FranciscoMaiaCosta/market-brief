@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T09:29+01:00",
+ "generated_at": "2026-09-27T10:08+01:00",
  "reference": {
   "close": "2026-09-25",
   "prev": "2026-09-24"
@@ -259,13 +259,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:EURUSD=X",
-   "close_date": "2026-09-25",
-   "prev_date": "2026-09-24",
-   "level": 1.1374752521514893,
-   "change": -0.06255886823015588,
-   "level_fmt": "1,1375",
-   "change_fmt": "−0,06%",
-   "streak": -4
+   "close_date": "2026-09-26",
+   "prev_date": "2026-09-25",
+   "level": 1.1401208639144897,
+   "change": 0.23258631411948727,
+   "level_fmt": "1,1401",
+   "change_fmt": "+0,23%",
+   "streak": 1
   },
   {
    "group": "Cambial",
@@ -351,10 +351,10 @@
    "used": "yahoo:BZ=F",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 104.31999969482422,
-   "change": -2.138835658473659,
-   "level_fmt": "104,32",
-   "change_fmt": "−2,1%",
+   "level": 97.44000244140625,
+   "change": -8.592866945433009,
+   "level_fmt": "97,44",
+   "change_fmt": "−8,6%",
    "streak": -1
   },
   {
@@ -396,10 +396,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 64.24500274658203,
-   "change": 1.2417889359172651,
-   "level_fmt": "64,25",
-   "change_fmt": "+1,2%",
+   "level": 64.8010025024414,
+   "change": 2.117972413614,
+   "level_fmt": "64,80",
+   "change_fmt": "+2,1%",
    "streak": 1
   },
   {
@@ -411,11 +411,11 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 6.695499897003174,
-   "change": -0.34234188964490375,
-   "level_fmt": "6,695",
-   "change_fmt": "−0,3%",
-   "streak": -1
+   "level": 6.765999794006348,
+   "change": 0.7069979267147808,
+   "level_fmt": "6,766",
+   "change_fmt": "+0,7%",
+   "streak": 2
   },
   {
    "group": "Mat.-primas",
@@ -663,11 +663,11 @@
    "unit": "px",
    "status": "ok",
    "reason": "",
-   "used": "cnbc:BCP-PT",
+   "used": "yahoo:BCP.LS",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 1.21,
-   "change": 1.766190075693852,
+   "level": 1.2100000381469727,
+   "change": 1.7661923861458595,
    "level_fmt": "1,210",
    "change_fmt": "+1,8%",
    "streak": 3
