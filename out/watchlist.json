@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T10:08+01:00",
+ "generated_at": "2026-09-28T10:37+01:00",
  "reference": {
   "close": "2026-09-25",
   "prev": "2026-09-24"
@@ -87,13 +87,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^N225",
-   "close_date": "2026-09-25",
-   "prev_date": "2026-09-24",
-   "level": 66364.203125,
-   "change": 1.2977607775915612,
-   "level_fmt": "66 364",
-   "change_fmt": "+1,3%",
-   "streak": 5
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-25",
+   "level": 65877.6171875,
+   "change": -0.7332054248937347,
+   "level_fmt": "65 878",
+   "change_fmt": "−0,7%",
+   "streak": -1
   },
   {
    "group": "Ações",
@@ -102,13 +102,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^HSI",
-   "close_date": "2026-09-25",
-   "prev_date": "2026-09-24",
-   "level": 24510.08984375,
-   "change": -1.0138511728350674,
-   "level_fmt": "24 510",
-   "change_fmt": "−1,0%",
-   "streak": -3
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-25",
+   "level": 24642.509765625,
+   "change": 0.540266978698023,
+   "level_fmt": "24 643",
+   "change_fmt": "+0,5%",
+   "streak": 1
   },
   {
    "group": "Ações",
@@ -117,13 +117,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^KS11",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 7080.919921875,
-   "change": 0.8978422952434784,
-   "level_fmt": "7 081",
-   "change_fmt": "+0,9%",
-   "streak": 4
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-23",
+   "level": 6889.740234375,
+   "change": -2.6999272638204896,
+   "level_fmt": "6 890",
+   "change_fmt": "−2,7%",
+   "streak": -1
   },
   {
    "group": "Ações",
@@ -259,13 +259,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:EURUSD=X",
-   "close_date": "2026-09-26",
-   "prev_date": "2026-09-25",
-   "level": 1.1401208639144897,
-   "change": 0.23258631411948727,
-   "level_fmt": "1,1401",
-   "change_fmt": "+0,23%",
-   "streak": 1
+   "close_date": "2026-09-25",
+   "prev_date": "2026-09-24",
+   "level": 1.1374752521514893,
+   "change": -0.06255886823015588,
+   "level_fmt": "1,1375",
+   "change_fmt": "−0,06%",
+   "streak": -4
   },
   {
    "group": "Cambial",
@@ -351,10 +351,10 @@
    "used": "yahoo:BZ=F",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 97.44000244140625,
-   "change": -8.592866945433009,
-   "level_fmt": "97,44",
-   "change_fmt": "−8,6%",
+   "level": 104.31999969482422,
+   "change": -2.138835658473659,
+   "level_fmt": "104,32",
+   "change_fmt": "−2,1%",
    "streak": -1
   },
   {
@@ -396,10 +396,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 64.8010025024414,
-   "change": 2.117972413614,
-   "level_fmt": "64,80",
-   "change_fmt": "+2,1%",
+   "level": 64.24500274658203,
+   "change": 1.2417889359172651,
+   "level_fmt": "64,25",
+   "change_fmt": "+1,2%",
    "streak": 1
   },
   {
@@ -411,11 +411,11 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-09-25",
    "prev_date": "2026-09-24",
-   "level": 6.765999794006348,
-   "change": 0.7069979267147808,
-   "level_fmt": "6,766",
-   "change_fmt": "+0,7%",
-   "streak": 2
+   "level": 6.695499897003174,
+   "change": -0.34234188964490375,
+   "level_fmt": "6,695",
+   "change_fmt": "−0,3%",
+   "streak": -1
   },
   {
    "group": "Mat.-primas",
@@ -484,13 +484,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:000660.KS",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 1862000.0,
-   "change": 1.1956521739130421,
-   "level_fmt": "1 862 000",
-   "change_fmt": "+1,2%",
-   "streak": 1
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-23",
+   "level": 1768000.0,
+   "change": -5.0483351235230955,
+   "level_fmt": "1 768 000",
+   "change_fmt": "−5,0%",
+   "streak": -1
   },
   {
    "group": "Memória/semis",
@@ -499,13 +499,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:005930.KS",
-   "close_date": "2026-09-23",
-   "prev_date": "2026-09-22",
-   "level": 285500.0,
-   "change": 3.2549728752260476,
-   "level_fmt": "285 500",
-   "change_fmt": "+3,3%",
-   "streak": 4
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-23",
+   "level": 270000.0,
+   "change": -5.429071803852892,
+   "level_fmt": "270 000",
+   "change_fmt": "−5,4%",
+   "streak": -1
   },
   {
    "group": "Memória/semis",
@@ -514,13 +514,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:285A.T",
-   "close_date": "2026-09-25",
-   "prev_date": "2026-09-24",
-   "level": 55780.0,
-   "change": 2.198607548552589,
-   "level_fmt": "55 780",
-   "change_fmt": "+2,2%",
-   "streak": 3
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-25",
+   "level": 53340.0,
+   "change": -4.374327716027249,
+   "level_fmt": "53 340",
+   "change_fmt": "−4,4%",
+   "streak": -1
   },
   {
    "group": "Memória/semis",
@@ -634,13 +634,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:9984.T",
-   "close_date": "2026-09-25",
-   "prev_date": "2026-09-24",
-   "level": 6150.0,
-   "change": -3.180100755667503,
-   "level_fmt": "6 150",
-   "change_fmt": "−3,2%",
-   "streak": -1
+   "close_date": "2026-09-28",
+   "prev_date": "2026-09-25",
+   "level": 6244.0,
+   "change": 1.5284552845528543,
+   "level_fmt": "6 244",
+   "change_fmt": "+1,5%",
+   "streak": 1
   },
   {
    "group": "Ouro/mineiras",
@@ -688,5 +688,60 @@
    "streak": 1
   }
  ],
- "live": []
+ "live": [
+  {
+   "name": "Stoxx Europe 600",
+   "price": 639.63,
+   "change": 0.153444852184359,
+   "level_fmt": "639,63",
+   "change_fmt": "+0,2%",
+   "time": "10:22",
+   "vs_close": "2026-09-25"
+  },
+  {
+   "name": "DAX",
+   "price": 25412.41,
+   "change": 0.014835012449632146,
+   "level_fmt": "25 412",
+   "change_fmt": "0,0%",
+   "time": "10:22",
+   "vs_close": "2026-09-25"
+  },
+  {
+   "name": "PSI",
+   "price": 9712.2,
+   "change": 0.07831740546677679,
+   "level_fmt": "9 712",
+   "change_fmt": "+0,1%",
+   "time": "10:22",
+   "vs_close": "2026-09-25"
+  },
+  {
+   "name": "BCP",
+   "price": 1.203,
+   "change": -0.5785155310980561,
+   "level_fmt": "1,203",
+   "change_fmt": "−0,6%",
+   "time": "10:22",
+   "vs_close": "2026-09-25"
+  },
+  {
+   "name": "Futuros S&P 500",
+   "price": 7764.25,
+   "change": -0.5061669069357677,
+   "level_fmt": "7 764",
+   "change_fmt": "−0,5%",
+   "time": "10:27",
+   "vs_close": "2026-09-25"
+  },
+  {
+   "name": "Futuros Nasdaq 100",
+   "price": 30573.0,
+   "change": -1.0238189661451846,
+   "level_fmt": "30 573",
+   "change_fmt": "−1,0%",
+   "time": "10:27",
+   "vs_close": "2026-09-25"
+  }
+ ]
 }
