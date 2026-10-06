@@ -1,156 +1,150 @@
-Headlines · janela 72h até 05/10 11:16 (Lisboa) · 120 títulos
+Headlines · janela 24h até 06/10 11:02 (Lisboa) · 116 títulos
 
 CNBC
-        11:06  Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'  https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html
-        11:05  Harley-Davidson has struggled in recent years. Citi says buy the stock  https://www.cnbc.com/2026/10/05/harley-davidson-has-struggled-in-recent-years-citi-says-buy-the-stock.html
-        11:00  Three tax votes in November that will affect high earners  https://www.cnbc.com/2026/10/05/three-tax-votes-in-november-that-will-affect-high-earners.html
-        10:46  Saudi Aramco chief says replenishing global oil stockpiles could take two years  https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html
-        09:59  Stock futures fall as investors grapple with higher yields, await Fed minutes: Live updates  https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html
-        09:52  Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments  https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html
-        08:44  Spain's PM Sanchez calls snap election after housing crisis protests  https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html
-        06:34  Russia hospitalizes almost 200 people after researcher's death from plague: Reports  https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html
-        06:00  The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances  https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html
-        01:47  Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'  https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html
-  04/10 22:46  All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East  https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
-  04/10 21:28  Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom  https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html
+        11:00  Paramount's hard-fought takeover of Warner Bros. Discovery closes Tuesday. Here's how we got here  https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html
+        11:00  Why deep-red Kansas has become an unexpected Senate battleground  https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html
+        10:58  House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline  https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html
+        10:46  Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround  https://www.cnbc.com/2026/10/06/france-student-protests-budget.html
+        09:53  Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive  https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html
+        08:53  Britain is on 'thin ice,' warns ex-Bank of England chief economist — and it must act to 'appease financial markets'  https://www.cnbc.com/2026/10/06/burnham-healey-budget-tax-bonds-gilts.html
+        08:05  Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms  https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html
+        07:57  How quant funds beat the market by being 'early, contrarian and right'  https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html
+  05/10 23:48  This satellite stock has crashed 66%. Jim Cramer says it's time to start buying  https://www.cnbc.com/2026/10/05/jim-cramer-planet-labs-stock-buy.html
+  05/10 22:04  Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand  https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html
+  05/10 19:12  Fairshake crypto PAC network backs 32 House candidates in midterms  https://www.cnbc.com/2026/10/05/fairshake-crypto-super-pac-house-races.html
+  05/10 19:02  Cocoa prices are climbing again. Here’s why this time is different  https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html
 
 ECO
-        11:04  Líder do PP e da oposição em Espanha congratula-se por finalmente haver eleições  https://eco.sapo.pt/2026/10/05/lider-do-pp-e-da-oposicao-em-espanha-congratula-se-por-finalmente-haver-eleicoes/
-        11:00  “A habitação é o nosso maior desafio”, diz Carlos Moedas  https://eco.sapo.pt/2026/10/05/a-habitacao-e-o-nosso-maior-desafio-diz-carlos-moedas/
-        10:31  Flávio Bolsonaro decreta “fim da era do PT”. Lula fala em “passado tenebroso”  https://eco.sapo.pt/2026/10/05/flavio-bolsonaro-muito-feliz-com-resultado-na-primeira-volta-decreta-fim-da-era-do-pt/
-        09:56  O dia em direto nos mercados e na economia – 5 de outubro  https://eco.sapo.pt/2026/10/05/o-dia-em-direto-nos-mercados-e-na-economia-5-de-outubro-2/
-        08:20  Sánchez convoca eleições após derrota sobre habitação no Parlamento. Espanhóis vão a votos a 29 de novemro  https://eco.sapo.pt/2026/10/05/sanchez-convoca-eleicoes-apos-derrota-sobre-habitacao-no-parlamento/
-        08:00  João Figueiredo: “Importante é dar autonomia para a pessoa errar”  https://eco.sapo.pt/2026/10/05/joao-figueiredo-importante-e-dar-autonomia-para-a-pessoa-errar/
-        07:00  Open Cosmos quer lançar 192 satélites até 2030  https://eco.sapo.pt/2026/10/05/open-cosmos-quer-lancar-192-satelites-ate-2030/
-        01:17  Flávio Bolsonaro ganha a Lula da Silva, mas Brasil vai à segunda volta  https://eco.sapo.pt/2026/10/05/flavio-bolsonaro-ganha-mas-brasil-vai-a-segunda-volta/
-        01:17  Flávio Bolsonaro e Lula disputam segunda volta das presidenciais no Brasil  https://eco.sapo.pt/2026/10/05/flavio-bolsonaro-e-lula-disputam-segunda-volta-das-presidenciais-no-brasil/
-        01:13  Brasil: Flávio Bolsonaro com 49,58% com 64,81% das secções de voto contadas  https://eco.sapo.pt/2026/10/05/brasil-flavio-bolsonaro-com-4958-com-6481-das-seccoes-de-voto-contadas/
-  04/10 23:09  Lula vence em Lisboa e Porto e perde em Faro  https://eco.sapo.pt/2026/10/04/lula-vence-em-lisboa-e-porto-e-perde-em-faro/
-  04/10 19:38  Trump cria “Força da Superinteligência” para coordenar o desenvolvimento de IA  https://eco.sapo.pt/2026/10/04/trump-cria-forca-da-superinteligencia-para-coordenar-o-desenvolvimento-de-ia/
+        10:51  Montenegro não vê orçamento de longo prazo da UE como “concurso de pedinchices”  https://eco.sapo.pt/2026/10/06/montenegro-nao-ve-orcamento-de-longo-prazo-da-ue-como-concurso-de-pedinchices/
+        10:08  Desmitos: Contas certas e o próximo nível de “Super” Mário  https://eco.sapo.pt/especiais/desmitos-contas-certas-e-o-proximo-nivel-de-super-mario/
+        09:41  Comissão de inquérito aos exames nacionais vai escrutinar contratos e custos da classificação digital  https://eco.sapo.pt/2026/10/06/comissao-de-inquerito-aos-exames-nacionais-vai-escrutinar-contratos-e-custos-da-classificacao-digital/
+        09:30  O Adicional ao IMI: um imposto que exige planeamento e atenção  https://eco.sapo.pt/opiniao/o-adicional-ao-imi-um-imposto-que-exige-planeamento-e-atencao-2/
+        09:10  Von der Leyen alerta para risco de grandes cortes no orçamento da UE a longo prazo  https://eco.sapo.pt/2026/10/06/von-der-leyen-alerta-para-risco-de-grandes-cortes-no-orcamento-da-ue-a-longo-prazo/
+        08:42  Dono do Novobanco compra participação de 7% no espanhol Sabadell  https://eco.sapo.pt/2026/10/06/dono-do-novobanco-compra-participacao-de-7-no-espanhol-sabadell/
+        07:42  Produtos tradicionais portugueses passam a ter proteção europeia contra imitação e contrafação  https://eco.sapo.pt/2026/10/06/produtos-tradicionais-portugueses-passam-a-ter-protecao-europeia-contra-imitacao-e-contrafacao/
+        07:37  ANA vai investir 687 milhões de euros nos aeroportos nacionais até 2028  https://eco.sapo.pt/2026/10/06/ana-vai-investir-687-milhoes-de-euros-nos-aeroportos-nacionais-ate-2028/
+        07:15  64% dos intervenientes na cadeia alimentar prevêem um consumidor mais sensível ao preço, mas exigente em termos de valor e qualidade  https://eco.sapo.pt/2026/10/06/64-dos-intervenientes-na-cadeia-alimentar-preveem-um-consumidor-mais-sensivel-ao-preco-mas-exigente-em-termos-de-valor-e-qualidade/
+        07:07  IA abre às PME uma nova oportunidade para competir com a capacidade de uma grande empresa  https://eco.sapo.pt/2026/10/06/ia-abre-as-pme-uma-nova-oportunidade-para-competir-com-a-capacidade-de-uma-grande-empresa/
+        07:00  Rafa Nadal inaugura o ano letivo de 2026-2027 na Escola Universitária UAX  https://eco.sapo.pt/2026/10/06/rafa-nadal-inaugura-o-ano-letivo-de-2026-2027-na-escola-universitaria-uax/
+        07:00  “A madeira não está a ganhar espaço por moda”  https://eco.sapo.pt/2026/10/06/a-madeira-nao-esta-a-ganhar-espaco-por-moda/
 
 Jornal de Negócios
-        10:54  Nobel de Medicina atribuído a investigação sobre células nervosas  https://www.jornaldenegocios.pt/economia/detalhe/nobel-de-medicina-atribuido-a-investigacao-sobre-celulas-nervosas
-        10:36  Seguro promulga apoios para transportes e setor social face subida dos combustíveis  https://www.jornaldenegocios.pt/empresas/detalhe/seguro-promulga-apoios-para-transportes-e-setor-social-face-subida-dos-combustiveis
-        10:00  Filipa Calvão vê risco de sobreposição de funções do TdC com Conselho de Finanças Públicas  https://www.jornaldenegocios.pt/economia/detalhe/filipa-calvao-ve-risco-de-sobreposicao-de-funcoes-do-tdc-com-conselho-de-financas-publicas
-        09:21  Espanha com impacto reduzido. Petróleo cai mais de 1%, euro cede e ouro volta ao verde  https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/eleicoes-antecipadas-em-espanha-com-impacto-reduzido-nos-mercados
-        09:00  Carla Esteves sucede a Vieira Lopes que deixa liderança da Unimark ao fim de 20 anos  https://www.jornaldenegocios.pt/empresas/comercio/detalhe/carla-esteves-sucede-a-vieira-lopes-que-deixa-lideranca-da-unimark-ao-fim-de-20-anos
-        08:54  TdC isenta Medina e Manuel Salgado de repor o que a Câmara de Lisboa pagou a Joaquim Morão  https://www.jornaldenegocios.pt/economia/detalhe/tdc-isenta-medina-e-manuel-salgado-de-repor-o-que-a-camara-de-lisboa-pagou-a-joaquim-morao
-        08:25  Sánchez convoca eleições antecipadas após chumbo do pacote para a habitação.  https://www.jornaldenegocios.pt/economia/europa/detalhe/sanchez-convoca-eleicoes-antecipadas-apos-chumbo-do-pacote-para-a-habitacao
-        08:19  Galp e EDP dão abertura no verde à bolsa de Lisboa  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/galp-e-edp-dao-abertura-no-verde-a-bolsa-de-lisboa
-        08:12  Seguro discursa hoje pela primeira vez nas comemorações do 5 de Outubro  https://www.jornaldenegocios.pt/economia/politica/detalhe/seguro-discursa-hoje-pela-primeira-vez-nas-comemoracoes-do-5-de-outubro
-        07:00  Open Cosmos equipa constelação ConnectedCosmos com 192 satélites  https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/open-cosmos-equipa-constelacao-connectedcosmos-com-192-satelites
-        01:01  Bolsonaro (47%) e Lula (44%) vão disputar a segunda volta a 25 de outubro  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/bolsonaro-47-e-lula-44-vao-disputar-a-segunda-volta-a-25-de-outubro
-  04/10 23:59  Proença quer resolver "mal-entendido" com Ronaldo e regresso em novembro  https://www.jornaldenegocios.pt/empresas/desporto/detalhe/proenca-quer-resolver-mal-entendido-com-ronaldo-e-regresso-em-novembro
-
-WSJ
-        10:08  Euro Could Stay Weak on Risk of ECB Repricing as French Yields Surge
-        08:45  European Indexes Fall as Political Pressures Weigh
-  04/10 15:17  FlyDubai Attack Adds New Risks to Dubai’s War-Battered Economy
-  03/10 10:30  Meet the Gen-Z High Rollers Dominating the Prediction Markets
-  03/10 10:30  Luxury Stocks Are Selling at Fast-Fashion Prices
-  03/10 10:30  How the French Bond Trade Backfired on Investors
-  02/10 21:29  September Hiring Trudged Along but Labor Market Still on Steady Track
-  02/10 16:38  ‘A Fabulous Debt’ Review: In the Name of Good Credit
-
-PSI e cotadas PT
-        10:05  MILAE permite aos municípios acompanhar idosos isolados através do telefone
-        09:28  PSI baixa 0,22% na bolsa de Lisboa numa Europa sem tendência definida
-        09:11  Bolsa de Lisboa abre a subir 0,09%
-        07:55  PSI abriu a subir graças às Galp e EDP e Ibersol lidera ganhos. Europa mista com CAC 40 em queda
-        01:00  BCP já executou 70,5% do montante máximo previsto do programa de share buyback
-  04/10 20:41  Corrida Clube Millennium BCP: Triunfos de Roberto Ladeiras e Adriana Fernandes
-  02/10 17:46  Millennium BCP: preço, gráfico e como comprar ações BCP.PT
-  02/10 17:00  PSI contraria otimismo europeu sob pressão do retalho e da Galp
-
-FT Global
-        10:00  Spanish prime minister Pedro Sánchez calls snap election  https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1
-        09:49  Brazil’s Bolsonaro dynasty closes in on stunning comeback  https://www.ft.com/content/1ab64d24-0f32-4dc8-86b5-20d06e3b3588?syn-25a6b1a6=1
-        09:05  Flávio Bolsonaro takes commanding lead in Brazil election  https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1
-        05:00  Russia’s new drive to crush Ukraine  https://www.ft.com/content/cc96ac01-7929-4954-97a3-7b30e00ef324?syn-25a6b1a6=1
-        05:00  Why a booming economy is not helping Trump  https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1
-        05:00  The FT’s stock picking game starts today  https://www.ft.com/content/c2c6a470-b1c9-4f98-af3a-65983371e6b8?syn-25a6b1a6=1
-        05:00  Estonia shifts troops closer to Russia in ‘active defence’ push  https://www.ft.com/content/0293497e-e4b5-473e-be49-67d1fc005fae?syn-25a6b1a6=1
-
-FT
-        09:21  Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’  https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1
-        08:43  Euro slides to 17-month low against dollar  https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1
-        08:24  Takaichi tells markets to ‘rest assured’ over Japan spending plans  https://www.ft.com/content/49526246-46ac-4154-942f-3d4d705f1652?syn-25a6b1a6=1
-        06:30  The jobs market is still fine  https://www.ft.com/content/b26c324e-0384-4c6a-9ccd-56b1cf0939b8?syn-25a6b1a6=1
-        06:00  Quant hedge funds win big from bond sell-off  https://www.ft.com/content/61e4b54a-53f7-43a9-a5dc-d5a6359ba4b0?syn-25a6b1a6=1
-        05:00  Banks will lobby Healey for capital rules cut, says senior MP  https://www.ft.com/content/6296da53-a9e3-4441-ae6d-f579b3c1b414?syn-25a6b1a6=1
-        05:00  Audit watchdog reviews rules to guard against private equity conflicts  https://www.ft.com/content/01b55406-0d07-4e88-ba6e-5b478b32b1f1?syn-25a6b1a6=1
-        05:00  Global pension funds cut US equities over AI concentration risk  https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1
-  04/10 22:00  Bull run for Japan stocks at risk, warns boss of biggest trading house  https://www.ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1
-  04/10 13:00  Investors look to shelter portfolios from rising AI concentration risks  https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1
-  04/10 12:00  What can revive the battered government bond market?  https://www.ft.com/content/1a94931f-421e-4d0e-888a-7727f15c3d5f?syn-25a6b1a6=1
-  04/10 10:29  Why the IPO market is booming and busting  https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62
-
-Expresso
-        09:00  Céu Mateus, presidente da Associação Portuguesa de Economia da Saúde, no podcast “45 Graus”: veja a primeira parte desta conversa
-  04/10 18:58  “Foste mãe. És um tiro no escuro, não sei como virás”: Cátia Azevedo fica sem contrato no Sporting cinco meses após a maternidade
-  03/10 18:20  A Linha de Cascais vai ser privatizada? Saiba o que muda em 2028
-  03/10 12:24  Greve na Easyjet gera cancelamentos de 90% dos voos, segundo o sindicato em Portugal
-  03/10 09:58  Os pesadelos que atormentam Kristalina Georgieva em vésperas da assembleia do FMI
-  02/10 18:20  O que está a fazer a inflação voltar a subir na Europa?
-  02/10 17:10  Com os juros a disparar de novo, já se fala do ‘desembarque’ do FMI em Bruxelas e Paris
-  02/10 16:37  Linha de Cascais: obras vão até início de 2028, primeiros comboios novos chegam em 2029
-
-BCE
-        09:00  Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html
-  02/10 14:00  Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)  https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html
-  02/10 12:30  Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html
-
-Bloomberg
-        08:48  Whispers of Contagion Risk Are Returning to Europe’s Bond Market
-        07:20  Iran’s Oil Minister Resigns as Exports Dry Up Under US Pressure
-        05:00  Our Oil Columnist Got an EV. A Bad Omen for Big Petroleum?
-        03:30  Saudis Cut Flagship Oil Price to Asia to Lowest in Six Years
-  04/10 23:17  Stock Rally Poised to Lose Steam as Euro Declines: Markets Wrap
-  04/10 16:52  Trump Aide Hassett Says Powell Should ‘Move On’ From Fed Board
-  04/10 14:30  Why Oil Is Still Stuck Near $100 a Barrel
-  04/10 11:09  Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz
+        10:50  Erste Group corta preço-alvo da Jerónimo Martins em mais de 3 euros  https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/erste-group-corta-preco-alvo-da-jeronimo-martins-em-mais-de-3-euros
+        10:43  Montenegro rejeita "pedinchiche" e diz que Portugal contribui mais do que os frugais para a UE  https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/montenegro-diz-que-portugal-contribui-mais-do-que-os-frugais-para-a-ue
+        10:30  Habitação: a ironia da estabilidade  https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/carlos-albuquerque/detalhe/habitacao-a-ironia-da-estabilidade
+        10:21  Le Pen quer défice francês perto dos 2% até 2032  https://www.jornaldenegocios.pt/economia/detalhe/le-pen-quer-defice-frances-perto-dos-2-ate-2032
+        10:17  Europa pinta-se de verde com queda do crude e dos juros das dívidas  https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-fecha-em-alta-com-queda-do-crude-a-alimentar-apetite-por-acoes
+        10:00  Defesa: não precisamos de mais do mesmo  https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/paulo-carmona/detalhe/defesa-nao-precisamos-de-mais-do-mesmo
+        09:58  Empresa que ganhou concurso há três anos acusa Governo: “204 casas desenhadas, zero construídas”  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/empresa-que-ganhou-concurso-ha-tres-anos-acusa-governo-204-casas-desenhadas-zero-construidas
+        09:30  Investimento europeu em biometano deverá atingir 34,9 mil milhões até 2030  https://www.jornaldenegocios.pt/empresas/energia/detalhe/investimento-europeu-em-biometano-devera-atingir-34-9-mil-milhoes-ate-2030
+        09:20  Dono do Novo Banco compra 7% do Sabadell e quer lugar no conselho de administração  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/dono-do-novo-banco-compra-7-do-sabadell-e-quer-lugar-no-conselho-de-administracao
+        09:16  Crise de preços na energia pode agravar-se com chegada do inverno, alerta Bruxelas  https://www.jornaldenegocios.pt/economia/detalhe/crise-de-precos-na-energia-pode-agravar-se-com-chegada-do-inverno-alerta-bruxelas
+        09:13  Amadeu Guerra extingue grupo antifraude para fundos europeus  https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/amadeu-guerra-extingue-grupo-antifraude-para-fundos-europeus
+        09:00  Governo considera "razoável" ter todas as obras do PRR concluídas até ao final de 2027  https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/governo-considera-razoavel-ter-todas-as-obras-do-prr-concluidas-ate-ao-final-de-2027
 
 Politico Europe
-        08:35  Is Kemi Badenoch abandoning the Red Wall?  https://www.politico.eu/podcast/politics-at-sam-and-annes/is-kemi-badenoch-abandoning-the-red-wall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        08:13  Europe’s last socialist heavyweight Sánchez calls snap Spanish elections for Nov. 29  https://www.politico.eu/article/spain-pedro-sanchez-calls-snap-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        05:05  The race for the EU’s plum diplomatic jobs begins  https://www.politico.eu/podcast/brussels-playbook-podcast/the-race-for-the-eus-plum-diplomatic-jobs-begins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        05:00  Securing energy and trade flows in geo-economic conflicts  https://www.politico.eu/sponsored-content/securing-energy-and-trade-flows-in-geo-economic-conflicts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        05:00  Push to ban EU left group over French riots  https://www.politico.eu/article/push-to-ban-eu-left-group-over-french-riots/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:30  Deutschland im Verteidigungsmodus  https://www.politico.eu/podcast/berlin-playbook-podcast/deutschland-im-verteidigungsmodus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Warum europäische KI allein keine Souveränität garantiert  https://www.politico.eu/sponsored-content/warum-europaische-ki-allein-keine-souveranitat-garantiert/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Europe is fighting the wrong AI sovereignty battle  https://www.politico.eu/sponsored-content/europe-is-fighting-the-wrong-ai-sovereignty-battle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Badenoch ally attacks Burnham’s ‘hope hard enough’ economic message as ‘absolutely mad’  https://www.politico.eu/article/helen-whately-kemi-badenoch-ally-andy-burnham-hope-hard-enough-economic-message-absolutely-mad/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  4 reasons for Kemi Badenoch to be cheerful — and 3 looming headaches  https://www.politico.eu/article/kemi-badenochs-4-reasons-to-be-cheerful-and-3-signs-she-should-be-worried/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        10:40  Former German spy chief arrested for treason and espionage  https://www.politico.eu/article/former-german-spy-chief-bnd-arrested-for-treason-and-espionage-august-hanning/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        09:22  Von der Leyen warns against EU budget cuts  https://www.politico.eu/article/ursula-von-der-leyen-warns-against-eu-budget-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        05:05  How Spain’s snap election could blow up Brussels  https://www.politico.eu/podcast/brussels-playbook-podcast/how-spains-snap-election-could-blow-up-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:30  Der erste Machtbeweis der AfD in Magdeburg  https://www.politico.eu/podcast/berlin-playbook-podcast/der-erste-machtbeweis-der-afd-in-magdeburg/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:18  Spanish election threatens to blow up Brussels’ political balance  https://www.politico.eu/article/spanish-election-threatens-brussels-political-balance-pedro-sanchez-socialists-european-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:02  Tories want to duck Burnham’s social care fight  https://www.politico.eu/article/andy-burnham-kemi-badenoch-jeremy-hunt-tories-social-care-fight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  France’s debt troubles stir memories of the euro crisis  https://www.politico.eu/article/france-debt-trouble-memories-euro-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  France’s Mélenchon doubles down on student protests despite violent clashes  https://www.politico.eu/article/france-jean-luc-melenchon-doubles-down-student-protests-despite-violent-clashes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  05/10 21:12  Diplomat is Romania’s fourth prime ministerial candidate in five months  https://www.politico.eu/article/diplomat-is-romania-fourth-prime-ministerial-candidate-in-5-months/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  05/10 19:36  America’s bomber withdrawal points to wider UK-US friction  https://www.politico.eu/article/b-1-bomber-withdrawal-raf-fairford-uk-us-friction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+
+CMVM
+        10:39  Conta-poupança com isenção fiscal para ativos detidos por três anos proposta pela CMVM
+        10:07  CMVM propõe contas de poupança e de investimento sem impostos ao fim de três anos
+        07:19  CMVM propõe contas-poupança isentas de impostos durante três anos
+  05/10 23:30  Conta-poupança proposta pela CMVM isenta de impostos ativos detidos por três anos
+
+Bloomberg
+        10:30  New World Launches Exchange Offer for Nearly $1 Billion of Bonds
+        04:35  Oil Holds Two-Day Drop on Signs of Increased Mideast Exports
+        00:13  Stocks Edge Up to Near Record, Bonds Extend Slide: Markets Wrap
+  05/10 21:46  Emerging-Market Assets Climb as Fed Hike Bets Cool, Oil Drops
+  05/10 19:36  Treasuries Slump Pushes Long-End Yields to Fresh 24-Year Highs
+  05/10 19:36  Penny-Stock Bet on Athabasca Yields 6,500% Gain for Ninepoint
+  05/10 18:08  JPMorgan Sees US High-Grade Credit Rallying as Supply Falls
+  05/10 14:36  Chevron Names New Energies Head as CFO in Leadership Reshuffle
+
+FT Global
+        10:11  Former German spy chief arrested for treason  https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1
+        08:16  Flydubai attacker received flight training in New Zealand  https://www.ft.com/content/04cac391-0379-4a97-a7fd-354b613f661f?syn-25a6b1a6=1
+        05:00  Sleep has always been a class issue  https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1
+        05:00  German far right set to secure first-ever regional parliament president  https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1
+        05:00  Andy Burnham’s Manchester City problem  https://www.ft.com/content/ffc5d121-9143-4760-86d7-d1a0fc885af4?syn-25a6b1a6=1
+        02:42  India’s bullet train tangle leaves Japan fuming  https://www.ft.com/content/daa3eb19-b6e8-455c-8ec0-9abc8e66751a?syn-25a6b1a6=1
+        02:32  Hong Kong quizzes HSBC over Singapore AI hub decision  https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1
+
+PSI e cotadas PT
+        10:07  PSI com todas as 16 empresas a subir e EDP Renováveis de forma mais acentuada
+        08:33  Bolsa de Lisboa acorda no verde em linha com otimismo europeu
+  05/10 22:06  Pós-eleição e pré-segundo turno: quando a mente não desliga. Psi comenta
+  05/10 18:29  Bolsas da Europa fecham sem rumo único com expectativas sobre juros do BCE
+  05/10 17:36  Bolsa de Lisboa fecha em queda em contraciclo com principais praças europeias
+  05/10 17:05  Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,66% - Investing.com Brasil
+  05/10 16:37  PSI fecha em queda apesar da subida da Galp numa Europa mista afetada pela subida dos preços no produtor
+  05/10 15:56  MILAE permite aos municípios acompanhar idosos isolados através do telefone
+
+WSJ
+        10:01  Luxury Industry Likely to Have Slowed in 3Q
+        08:47  U.S. Treasury, Eurozone Bond Yields Fall in European Trade
+  05/10 21:56  Stocks Up, Yields Up
+  05/10 21:42  U.S. Stocks Rise as AI Bets Offset Bond Yield Fears
+  05/10 21:13  U.S., European Bond Yields Rise
+  05/10 19:34  Trump Accounts’ Extraordinary Expansion Puts Individual Stocks Into Kids’ Holdings
+  05/10 19:29  Nasdaq Poised to Hit New High as Treasury Yields Climb
+  05/10 11:21  Equities Won’t Be Dragged by Spike In Bond Yields
+
+BCE
+        08:00  Philip R. Lane: Interview with Ansa  https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html
+
+Expresso
+        07:55  Da função pública aos robôs humanóides, saiba o que vai marcar esta terça-feira
+        07:17  Dono do Novo Banco compra 7% do banco espanhol Sabadell
+        07:16  A análise macroeconómica do Orçamento do Estado para 2027
+        07:00  Carros elétricos em Portugal ultrapassam pela primeira vez as vendas dos híbridos e alcançam a liderança do mercado
+  05/10 22:38  Adeus, Banco Interatlântico. Olá, Caixa Geral de Depósitos Cabo Verde
+  05/10 14:15  Temporal não dá tréguas a Barcelona. Aeroporto regista novos cancelamentos e atrasos
+  05/10 13:14  Greve na EasyJet gera cancelamentos de 90% dos voos, segundo o sindicato em Portugal
+  05/10 12:54  Greve na easyJet cancelou quase 370 voos e impacto deve manter-se até sexta-feira
+
+FT
+        06:30  How AI could scupper the dollar  https://www.ft.com/content/47061507-f20e-4ff6-961d-e1f1b919cb89?syn-25a6b1a6=1
+        05:00  ICE launches trading in gold futures in London  https://www.ft.com/content/a896cda0-cd0c-4aae-bc51-daec26157e56?syn-25a6b1a6=1
+        05:00  Britain has turned digital ID into a growth industry  https://www.ft.com/content/b3034c7f-e660-412b-87a4-a212539edba2?syn-25a6b1a6=1
+        05:00  Surge in borrowing costs hits corporate America  https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1
+        05:00  The bond market turns on France  https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1
+        05:00  The bond sell-off comes for corporate America  https://www.ft.com/content/016e204f-d6d0-4e31-a359-fb23bcb9cf3a?syn-25a6b1a6=1
+        01:46  Trump eases red diesel limits in attempt to quell fuel inflation  https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1
+        00:01  FCA to examine how it treated whistleblower who died by suicide  https://www.ft.com/content/4087c789-a7ed-4365-bd35-9127bc58c3ae?syn-25a6b1a6=1
+  05/10 21:58  Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic  https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1
+  05/10 21:22  Brazil’s markets surge as investors bet on Bolsonaro win  https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1
+  05/10 21:05  Submit a question: What is driving the global bond sell-off?  https://www.ft.com/content/d51a78a8-67d8-45bd-b32c-1eafe39a0794?syn-25a6b1a6=1
+  05/10 19:00  Big Oil goes to US Supreme Court over pivotal climate damages claim  https://www.ft.com/content/4d2078c4-4773-4d4c-8544-c17169362579?syn-25a6b1a6=1
 
 Reuters
-        06:27  Takaichi pledges fiscal discipline as Japan's debt bill rises
-        05:34  Morning Bid: The euro has a France problem
-        02:53  Euro at 17-month low, dollar near pre-Liberation Day highs
-        02:22  Euro pummelled by France's debt burden; stocks mixed
-        02:09  Middle East oil exports top pre-war levels in September, but tanker attacks increase
-        01:35  India seen kicking off rate hike cycle as inflation broadens, peers turn hawkish
-        00:50  Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows
-  04/10 23:17  Oil falls as Middle East crude exports rise, G7 to release stocks
+        05:32  Morning Bid - Spain to France: hold my cerveza
+        03:15  Gold inches lower as firmer dollar, higher yields weigh
+        02:48  Asian shares track Wall Street higher; Treasury yields near multi-decade highs
+        02:14  Euro trades around 17-month low amid French debt worries, dollar steady
+  05/10 23:05  Trading Day: Nasdaq highs, Brazil surprise
+  05/10 18:05  French bond contagion fears are rattling the euro
+  05/10 17:16  Trump expands access to tax-exempt diesel fuel
+  05/10 16:33  EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say
 
 Reuters Morning Bid
-        05:30  MORNING BID EUROPE-The euro has a France problem
-  02/10 12:20  COMMENTARY: Morning Bid: Yield to worst
-  02/10 12:10  Morning Bid: Jobs on the line
-  02/10 11:46  MORNING BID AMERICAS-Yield to worst
-
-The Economist
-  04/10 18:11  The world is facing an almighty LNG crunch  https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch
-
-Banco de Portugal
-  04/10 15:54  Recebeu um cartão Multibanco pelo correio? Banco de Portugal alerta para nova burla
-  04/10 11:07  Da sede às regras na habitação, o que marcou o primeiro ano de Santos Pereira à frente do Banco de Portugal
-  04/10 10:01  Banco de Portugal avança com cortes de custos e mudanças regulatórias no primeiro ano de Santos Pereira
-  02/10 12:00  Banco de Portugal alerta para nova burla com cartões Multibanco enviados pelo correio
+        05:31  MORNING BID EUROPE-Spain to France: hold my cerveza
+  05/10 14:35  Morning Bid: The euro has a France problem By Reuters
+  05/10 11:46  COMMENTARY: Morning Bid: Francoprone
+  05/10 11:43  MORNING BID AMERICAS-Francoprone
 
 CNBC Economia
-  02/10 18:38  Men are losing ground in the labor market. Here's why  https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html
-  02/10 14:45  Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%  https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html
+        05:07  World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%  https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html
 
-EBA
-  02/10 16:00  EBA E-mail alert 2 October, 2026  https://www.eba.europa.eu/node/20066
+The Economist
+  05/10 20:31  The bond market sell-off is helping the dollar  https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar
 
