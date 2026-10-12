@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T06:41+01:00",
+ "generated_at": "2026-10-12T06:41+01:00",
  "reference": {
   "close": "2026-10-09",
   "prev": "2026-10-08"
@@ -144,16 +144,8 @@
    "group": "Taxas",
    "name": "UST 2A",
    "unit": "yld",
-   "status": "ok",
-   "reason": "",
-   "used": "cnbc:US2Y",
-   "close_date": "2026-10-09",
-   "prev_date": "2026-10-08",
-   "level": 4.791,
-   "change": 3.500000000000014,
-   "level_fmt": "4,79%",
-   "change_fmt": "+3,5 pb",
-   "streak": 1
+   "status": "nd",
+   "reason": "falha na fonte"
   },
   {
    "group": "Taxas",
@@ -174,16 +166,8 @@
    "group": "Taxas",
    "name": "Bund 10A",
    "unit": "yld",
-   "status": "ok",
-   "reason": "",
-   "used": "cnbc:DE10Y-DE",
-   "close_date": "2026-10-09",
-   "prev_date": "2026-10-08",
-   "level": 3.4857,
-   "change": -0.8199999999999985,
-   "level_fmt": "3,49%",
-   "change_fmt": "−0,8 pb",
-   "streak": -1
+   "status": "nd",
+   "reason": "falha na fonte"
   },
   {
    "group": "Taxas",
@@ -204,31 +188,15 @@
    "group": "Taxas",
    "name": "Spread PT–DE",
    "unit": "bp",
-   "status": "ok",
-   "reason": "",
-   "used": "spread:PT10Y-PT/DE10Y-DE",
-   "close_date": "2026-10-09",
-   "prev_date": "2026-10-08",
-   "level": 49.10000000000001,
-   "change": -1.1499999999999844,
-   "level_fmt": "49 pb",
-   "change_fmt": "−1,1 pb",
-   "streak": -2
+   "status": "nd",
+   "reason": "falha na fonte"
   },
   {
    "group": "Taxas",
    "name": "Spread BTP–Bund",
    "unit": "bp",
-   "status": "ok",
-   "reason": "",
-   "used": "spread:IT10Y-IT/DE10Y-DE",
-   "close_date": "2026-10-09",
-   "prev_date": "2026-10-08",
-   "level": 110.96999999999997,
-   "change": -0.700000000000017,
-   "level_fmt": "111 pb",
-   "change_fmt": "−0,7 pb",
-   "streak": -2
+   "status": "nd",
+   "reason": "falha na fonte"
   },
   {
    "group": "Crédito",
@@ -261,10 +229,10 @@
    "used": "yahoo:EURUSD=X",
    "close_date": "2026-10-09",
    "prev_date": "2026-10-08",
-   "level": 1.1205737590789795,
-   "change": 0.03922792295916189,
-   "level_fmt": "1,1206",
-   "change_fmt": "+0,04%",
+   "level": 1.1213024854660034,
+   "change": 0.10428497479026966,
+   "level_fmt": "1,1213",
+   "change_fmt": "+0,10%",
    "streak": 1
   },
   {
@@ -276,10 +244,10 @@
    "used": "yahoo:JPY=X",
    "close_date": "2026-10-09",
    "prev_date": "2026-10-08",
-   "level": 158.24600219726562,
-   "change": 0.11767976815444392,
-   "level_fmt": "158,25",
-   "change_fmt": "+0,12%",
+   "level": 158.06300354003906,
+   "change": 0.0019017977298085853,
+   "level_fmt": "158,06",
+   "change_fmt": "0,00%",
    "streak": 1
   },
   {
@@ -396,10 +364,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-10-09",
    "prev_date": "2026-10-08",
-   "level": 61.04800033569336,
-   "change": 3.359070139756626,
-   "level_fmt": "61,05",
-   "change_fmt": "+3,4%",
+   "level": 60.66999816894531,
+   "change": 2.7190827159089714,
+   "level_fmt": "60,67",
+   "change_fmt": "+2,7%",
    "streak": 1
   },
   {
@@ -411,10 +379,10 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-10-09",
    "prev_date": "2026-10-08",
-   "level": 6.691999912261963,
-   "change": 2.6537790679387996,
-   "level_fmt": "6,692",
-   "change_fmt": "+2,7%",
+   "level": 6.642499923706055,
+   "change": 1.8944603357653245,
+   "level_fmt": "6,642",
+   "change_fmt": "+1,9%",
    "streak": 1
   },
   {
@@ -619,13 +587,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:2330.TW",
-   "close_date": "2026-10-08",
-   "prev_date": "2026-10-07",
-   "level": 2550.0,
-   "change": -1.3539651837524147,
-   "level_fmt": "2 550",
-   "change_fmt": "−1,4%",
-   "streak": -1
+   "close_date": "2026-10-12",
+   "prev_date": "2026-10-08",
+   "level": 2545.0,
+   "change": -0.19607843137254832,
+   "level_fmt": "2 545",
+   "change_fmt": "−0,2%",
+   "streak": -2
   },
   {
    "group": "IA/infra",
@@ -688,5 +656,60 @@
    "streak": 1
   }
  ],
- "live": []
+ "live": [
+  {
+   "name": "Hang Seng",
+   "price": 24222.28,
+   "change": 0.04514573041713987,
+   "level_fmt": "24 222",
+   "change_fmt": "0,0%",
+   "time": "06:26",
+   "vs_close": "2026-10-09"
+  },
+  {
+   "name": "Kospi",
+   "price": 6414.94,
+   "change": -3.1843102807278423,
+   "level_fmt": "6 415",
+   "change_fmt": "−3,2%",
+   "time": "06:21",
+   "vs_close": "2026-10-08"
+  },
+  {
+   "name": "SK Hynix",
+   "price": 1614000.0,
+   "change": -3.985722784057111,
+   "level_fmt": "1 614 000",
+   "change_fmt": "−4,0%",
+   "time": "06:21",
+   "vs_close": "2026-10-08"
+  },
+  {
+   "name": "Samsung Electronics",
+   "price": 251500.0,
+   "change": -4.007633587786263,
+   "level_fmt": "251 500",
+   "change_fmt": "−4,0%",
+   "time": "06:21",
+   "vs_close": "2026-10-08"
+  },
+  {
+   "name": "Futuros S&P 500",
+   "price": 7884.75,
+   "change": 0.3180762746906707,
+   "level_fmt": "7 885",
+   "change_fmt": "+0,3%",
+   "time": "06:31",
+   "vs_close": "2026-10-09"
+  },
+  {
+   "name": "Futuros Nasdaq 100",
+   "price": 31236.5,
+   "change": 0.4106561658697272,
+   "level_fmt": "31 236",
+   "change_fmt": "+0,4%",
+   "time": "06:31",
+   "vs_close": "2026-10-09"
+  }
+ ]
 }
