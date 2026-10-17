@@ -1,161 +1,171 @@
-Headlines · janela 24h até 16/10 06:41 (Lisboa) · 126 títulos
+Headlines · janela 48h até 17/10 06:41 (Lisboa) · 133 títulos
 
-WSJ
-        06:23  Warsh Avoids Signal on October Rate Move
-        02:37  Gold Falls as Investors Await Fed Chairman’s Remarks
-  15/10 23:01  New York City Comptroller Defends Decision Not to Invest in Israeli Bonds
-  15/10 22:03  Stocks Gain as Treasury Yields Give Back Some Recent Gains
-  15/10 19:36  Opinion | Recycling Strengthens the American Economy
-  15/10 19:17  Dow Industrials, Treasurys Rise as Investors Rotate Out of Tech
-  15/10 11:00  Voters Can’t Be Bought (but Politicians Keep Trying)
-  15/10 10:18  TSMC Weighs Texas Expansion, Holds Talks on Musk’s Terafab
-
-CNBC
-        06:07  Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'  https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html
-        06:00  The IPO drought is driving private equity-owned companies to the debt market to pay investors  https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html
-        05:29  One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz  https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html
-        05:18  S&P 500 futures are little changed as index heads for losing week: Live updates  https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html
-        04:53  Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes  https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html
-        03:25  Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe  https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html
-        02:35  Order to limit Starshield for Ukraine came from inside White House: Reuters reports  https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html
-        00:00  People in China are spending nearly as much of their income as Americans on healthcare  https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html
-  15/10 22:33  CoreWeave credit default swaps hit distress levels as investors sour on AI debt  https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html
-  15/10 18:54  Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in  https://www.cnbc.com/2026/10/15/good-debt-access.html
-  15/10 18:53  She made college ‘good debt’ for herself. Can she do the same for her daughter?  https://www.cnbc.com/2026/10/15/college-good-debt-cfp-daughter.html
-  15/10 18:52  The problem with 'good debt': Why borrowers should think twice about the label  https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html
-
-FT Global
-        05:54  The data centre IPO debacle that sparked a market meltdown  https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1
-        05:00  How Trump’s America fell in love with UFC  https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1
-        05:00  US business leaders are waking up to the perils of plutopopulism  https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d
-        05:00  The secret fight around financial flows  https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1
-        05:00  UK government courted UBS over London HQ move  https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1
-        04:35  World’s worst-performing stock market hit by fresh MSCI warning  https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1
-        00:18  Netflix replaces chief content officer in effort to arrest declining share price  https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1
-  15/10 10:17  CoreWeave’s bonds scream financial distress  https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b
-
-Reuters Morning Bid
-        05:31  MORNING BID EUROPE-Calm after CoreWeave shock, but for how long?
-        05:31  Morning Bid: Calm after CoreWeave shock, but for how long?
-  15/10 22:48  Morning Bid: Tech stocks sink
-  15/10 15:46  COMMENTARY: Morning Bid: CoreWeave unravels
-  15/10 12:09  MORNING BID AMERICAS-CoreWeave unravels
-  15/10 07:35  Morning Bid: Market picks CoreWeave as AI rout deepens - KELO-AM
-
-Bloomberg
-        05:05  Fed’s Warsh Says Announces Productivity, Jobs Task Force Hearing
-        02:34  Zelenskyy Defies Trump, Orders New Russian Refinery Attacks
-  15/10 23:03  Oil Set for Weekly Gain With Focus on Middle East, IEA Release
-  15/10 19:09  Morgan Stanley Leads Fundraise for Texas Refinery, Company Says
-  15/10 18:50  Private Markets Are the New AI Markets
-  15/10 16:24  ECB Officials Get Impatient for Lagarde to Clear Up Future Plans
-  15/10 15:01  CoreWeave Credit Risk Hits Record, Pricing 60% Odds of Default
-  15/10 14:52  IEA Agrees to Release of Outstanding 100 Million Oil Barrels
+BCE
+        06:00  Christine Lagarde: IMFC Statement  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html
 
 FT
-        05:00  Anthropic secured highest junk credit rating in June  https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1
-        05:00  Why is the fintech boom failing to improve fin-lit?  https://www.ft.com/content/4dfcf1ba-0b8e-4198-b0a4-e975ebde9066
-  15/10 22:10  Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’  https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1
-  15/10 21:20  Treasuries rally as investors seek shelter from AI turbulence  https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1
-  15/10 21:06  Harvard’s endowment returns surge on back of AI and SpaceX investments  https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1
-  15/10 21:00  The AI boom stumbles  https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c?syn-25a6b1a6=1
-  15/10 19:27  Investors dump data centre bonds as AI borrowers face ‘Darwin moment’  https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1
-  15/10 18:23  Criminals stole $90mn of crypto by hiding password readers in USB-like devices  https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1
-  15/10 17:53  Risk of an AI crunch for stock markets is rising  https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1
-  15/10 16:51  In AI-dominated markets, LatAm debt is a diversifier  https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264
-  15/10 16:43  Mercuria adds first copper to US Project Vault stockpile  https://www.ft.com/content/37d24217-acd8-4f84-a298-4f1ccc359a27?syn-25a6b1a6=1
-  15/10 15:19  Anglo American chief says tech giants show ‘deep interest’ in mining stakes  https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1
+        05:00  UK dividend payments jump 14% in a year  https://www.ft.com/content/169bbf6e-d0af-4c8d-afd0-2c561a58c855?syn-25a6b1a6=1
+        05:00  The dress rehearsal for an AI reckoning  https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1
+        05:00  Stocks are risky right now — but so are all the alternatives  https://www.ft.com/content/c0854b2a-9edd-4bd6-9495-526454033f42
+        03:31  Trump exempts Russia from further sanctions mandated by new law  https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1
+        03:07  SoftBank in talks to buy US security group Allied Universal  https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1
+        01:47  Anthropic offers Blackstone double-digit yield in latest chip financing  https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1
+  16/10 23:57  Oil hits five-month high of $110 on new escalation in Middle East  https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1
+  16/10 21:42  Big Tech stocks suffer biggest weekly drop since ‘liberation day’  https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1
+  16/10 16:21  Apple set for UK legal fight over iPhone tap-to-pay rules  https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6?syn-25a6b1a6=1
+  16/10 15:58  Citi becomes latest US bank to restrict AI agents from accessing accounts  https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1
+  16/10 14:56  Lufthansa exploring sale of software assets in €1bn deal  https://www.ft.com/content/800db28a-9176-4ca3-9334-69ede9a2b3ef?syn-25a6b1a6=1
+  16/10 12:05  Shareholders should have a say on making AI safe  https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd
 
-Politico Europe
-        05:00  EU summit runs out of gas  https://www.politico.eu/podcast/brussels-playbook-podcast/eu-summit-runs-out-of-gas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:15  Merz bei den jungen Wilden: Der nächste Showdown?  https://www.politico.eu/podcast/berlin-playbook-podcast/merz-bei-den-jungen-wilden-der-nachste-showdown/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Are the Brexit wars back?  https://www.politico.eu/podcast/westminster-insider/are-the-brexit-wars-back/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Britain’s Lib Dems are having a mini-meltdown. Here’s what’s going on.  https://www.politico.eu/article/britain-lib-dem-liberal-democrat-ed-davey-meltdown/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Marine Le Pen’s EU dream is a nightmare for Brussels  https://www.politico.eu/article/marine-le-pen-eu-dream-nightmare-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  In Europe, the Trump shock factor is wearing off  https://www.politico.eu/article/in-europe-the-us-donald-trump-shock-factor-is-wearing-off/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        01:56  Budget showdown slips to November as Costa pushes for quick deal  https://www.politico.eu/article/budget-showdown-november-antonio-costa-deal-european-council-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        01:39  Trump and Putin’s ‘terrible’ alliance threatens to strain EU’s resolve on Ukraine  https://www.politico.eu/article/trump-putin-terrible-alliance-threatens-strain-eu-resolve-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        01:03  Costa angers EU leaders as splits mar summit  https://www.politico.eu/article/antonio-costa-angers-eu-leaders-splits-mar-euco-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  15/10 22:22  Late discord delays Franco-German deal on Made in Europe, car emissions  https://www.politico.eu/article/franco-german-made-in-europe-deal-delays-car-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-Reuters
-        03:52  Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade
-        03:29  Indian shares recover from muted start; IT leads gains
-        03:17  Investors see outflow and FX risks as MSCI moves to downgrade Indonesia
-        02:53  MSCI freezes certain Turkey index changes, warns of potential market downgrade
-        01:57  Oil heads for weekly gain with Mideast supply risks
-        00:48  Market selloff, rising rates test AI data centre deal boom
-  15/10 22:18  MSCI gets set to remove Indonesia from global indexes, sparks market slide to six-year low
-  15/10 22:12  Trading Day: Global tech rout loses steam
-
-Expresso
-        01:46  Orçamento do Estado 2027
-        00:28  Economia
-  15/10 22:57  Portugal é a 10ª economia mais lenta do século
-  15/10 22:57  Um orçamento que privilegia a estabilidade ao nível fiscal
-  15/10 22:57  Como garantir contas certas num mundo em guerra?
-  15/10 14:26  “É a primeira vez que compramos uma companhia aérea rentável”: Lufthansa conta com €450 milhões de sinergias na TAP
-  15/10 11:54  Apesar do pessimismo do FMI, a era de ouro dos excedentes em Portugal pode não ter chegado ao fim
-  15/10 07:00  Austeridade vai ter de regressar? FMI não acredita em mais excedentes em Portugal
+FT Global
+        05:00  The Man City theory of politics  https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1
+        05:00  Are we sleepwalking into World War III?  https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1
+        05:00  ‘Inflation will make people poor’: Airlines brace for years of pain  https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1
+        02:29  Trump’s press secretary Katie Zacharia fired after five days  https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1
+  16/10 22:03  Apple blames ‘extraordinary’ demand as foldable iPhones sell out  https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1
+  16/10 11:00  Republicans turn on Trump’s tariffs in battle for ‘political survival’  https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1
 
 PSI e cotadas PT
-        00:00  PSI negoceia em terreno negativo, penalizado pela EDP Renováveis
-  15/10 22:57  Portugal é o país do mundo mais exposto ao capital chinês
-  15/10 22:52  Desde 1976: Memória, Transformação e Futuro
-  15/10 17:05  Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,44% - Investing.com Brasil
-  15/10 16:52  PSI cai com Europa dividida e inflação dos EUA acima do esperado
+        02:00  BCP reforça recompra de ações e já executou 77% do programa de 407 milhões de euros
+        00:42  Anime Saiki Kusuo no Psi-nan retorna à Netflix em dezembro
+  16/10 21:26  Bolsa de Lisboa fecha em alta com 14 das 16 empresas cotadas a subir
+  16/10 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 1,01% - Investing.com Brasil
+  16/10 16:16  Ações europeias resilientes à vaga tecnológica nos EUA. PSI sobe
+  16/10 09:38  PSI em alta com Ibersol a liderar ganhos
   15/10 16:50  Ganhos da Jerónimo Martins insuficientes para manter PSI à tona
   15/10 10:14  Millennium BCP: seria um bom investimento para o Estado português?
-  15/10 08:10  Bolsa de Lisboa abre a subir 0,17%
-
-Jornal de Negócios
-  15/10 23:30  IP pondera partir em duas PPP o terceiro troço da alta velocidade  https://www.jornaldenegocios.pt/empresas/transportes/detalhe/ip-pondera-partir-em-duas-ppp-o-terceiro-troco-da-alta-velocidade
-  15/10 23:00  O poder oculto  https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/o-poder-oculto
-  15/10 22:39  Moedas vai propor fim de trotinetas partilhadas em Lisboa  https://www.jornaldenegocios.pt/empresas/transportes/detalhe/moedas-vai-propor-fim-de-trotinetas-partilhadas-em-lisboa
-  15/10 22:26  Putin acusa Kiev de retomar ataques a refinarias russas  https://www.jornaldenegocios.pt/economia/detalhe/putin-acusa-kiev-de-retomar-ataques-a-refinarias-russas
-  15/10 22:20  Crescer em Lisboa, maior encaixe financeiro e um bom parceiro. Negócio da TAP é aplaudido  https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/crescer-em-lisboa-maior-encaixe-financeiro-e-um-bom-parceiro-negocio-da-tap-e-aplaudido
-  15/10 22:00  Barómetro: Mais de metade dos eleitores diz que nunca votaria em Ventura  https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-mais-de-metade-dos-eleitores-diz-que-nunca-votaria-em-ventura
-  15/10 21:30  Pagar para não produzir  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/pagar-para-nao-produzir
-  15/10 21:25  Líderes europeus entram em modo contrarrelógio  https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/lideres-europeus-entram-em-modo-contrarrelogio
-  15/10 21:22  Banca concedeu 595 mil milhões de dólares a atividades de risco para florestas tropicais  https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/banca-concedeu-595-mil-milhoes-de-dolares-a-atividades-de-risco-para-florestas-tropicais
-  15/10 21:19  Wall Street atenta a sinais de nova intervenção de Bessent nos juros da dívida soberana  https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/wall-street-atenta-a-sinais-de-nova-intervencao-de-bessent-nos-juros-da-divida-soberana
-  15/10 21:16  Wall Street regressa aos ganhos com "earnings season" a todo o gás e IA a centrar atenções  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-regressa-aos-ganhos-com-earnings-season-a-todo-o-gas-e-ia-a-centrar-atencoes
-  15/10 21:14  Habitação: Manifestantes levam protesto até à porta da Câmara do Porto  https://www.jornaldenegocios.pt/economia/detalhe/habitacao-manifestantes-levam-protesto-ate-a-porta-da-camara-do-porto
-
-Banco de Portugal
-  15/10 22:57  Banco de Portugal ‘facilita’ entrada de Centeno no grupo Abanca
-  15/10 18:45  Estudo do Banco de Portugal avisa que crise da habitação só se resolve com mais oferta
-  15/10 07:11  Boletim Económico — outubro 2026
-
-ECO
-  15/10 21:26  PSD, Chega e CDS querem não residentes a pagar no SNS e são acusados de culpar estrangeiros  https://eco.sapo.pt/2026/10/15/psd-chega-e-cds-querem-nao-residentes-a-pagar-no-sns-e-sao-acusados-de-culpar-estrangeiros/
-  15/10 20:24  Manifestantes regressam à Praça D. João I para assembleia popular  https://eco.sapo.pt/2026/10/15/assembleia-popular-no-porto-avalia-mudar-de-local-permanecer-ou-acampar/
-  15/10 20:11  Musk diz que decisão de limitar Starlink na Ucrânia pertence à Administração Trump  https://eco.sapo.pt/2026/10/15/musk-diz-que-decisao-de-limitar-starlink-na-ucrania-pertence-a-administracao-trump/
-  15/10 20:04  Dois falcões e um falcão disfarçado de pomba. Quem vai voar para a liderança do BCE?  https://eco.sapo.pt/2026/10/15/dois-falcoes-e-um-falcao-disfarcado-de-pomba-quem-vai-voar-para-a-lideranca-do-bce/
-  15/10 20:00  ERSE propõe subida de 1,5% no preço regulado da luz em 2027  https://eco.sapo.pt/2026/10/15/erse-propoe-subida-de-15-no-preco-regulado-da-luz-em-2027/
-  15/10 19:54  Ministra apela a que “não se estrague” nova Prestação Social Única  https://eco.sapo.pt/2026/10/15/ministra-apela-a-que-nao-se-estrague-nova-prestacao-social-unica/
-  15/10 19:32  BCE autoriza UniCredit a assumir o controlo do Commerzbank  https://eco.sapo.pt/2026/10/15/bce-autoriza-unicredit-a-assumir-o-controlo-do-commerzbank/
-  15/10 18:58  CNN e Google unem forças em parceria estratégica de IA  https://eco.sapo.pt/2026/10/15/cnn-e-google-unem-forcas-em-parceria-estrategica-de-ia/
-  15/10 18:41  Crise da habitação não se resolve com políticas “do lado da procura”, alerta estudo do BdP  https://eco.sapo.pt/2026/10/15/crise-da-habitacao-nao-se-resolve-com-politicas-do-lado-da-procura-alerta-estudo-do-bdp/
-  15/10 18:38  Renascença regressa ao terceiro lugar das rádios em setembro, pela primeira vez em quase dez anos  https://eco.sapo.pt/2026/10/15/renascenca-regressa-ao-terceiro-lugar-das-radios-em-setembro-pela-primeira-vez-em-quase-dez-anos/
-  15/10 18:16  Eurobest 2026 conta com dois jurados portugueses  https://eco.sapo.pt/2026/10/15/eurobest-2026-conta-com-dois-jurados-portugueses/
-  15/10 18:12  Professores fazem queixa à Provedora de Justiça contra cortes nas pensões  https://eco.sapo.pt/2026/10/15/professores-fazem-queixa-a-provedora-de-justica-contra-cortes-nas-pensoes/
 
 CNBC Economia
+  16/10 23:34  U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year  https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html
+  16/10 23:33  Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge  https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html
+  16/10 17:27  Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all  https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html
   15/10 17:15  Wholesale prices jumped 6.3% annually in September, biggest gain since 2022  https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html
   15/10 16:37  Economists: Hot PPI shows Fed's work is not done  https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html
   15/10 14:42  U.S. Treasury dismisses IMF debt warning and 'messy' forecasting  https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html
-  15/10 13:11  Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge  https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html
   15/10 10:54  In charts: How one of the world's biggest economies got trapped by debt  https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html
   15/10 10:02  China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration  https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html
   15/10 09:44  UK economy grew 0.1% in August, beating expectations  https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html
   15/10 07:35  IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits  https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html
 
-CMVM
-  15/10 15:05  Presidente da CMVM defende “auto-enrolment” para mobilizar poupança das famílias
+CNBC
+  16/10 23:31  Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test  https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html
+  16/10 22:26  Katie Zacharia out as Trump's White House press secretary  https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html
+  16/10 21:50  Major earnings reports are due next week, but strong results may not be enough to quell market fears  https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html
+  16/10 21:28  Trump says White House didn't order Starlink restrictions in Ukraine  https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html
+  16/10 21:02  Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries  https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html
+  16/10 20:40  Here's who Netflix just brought in to run content — and what it means for the streamer  https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html
+  16/10 20:28  Wall Street's fear gauge is ripping. Traders see it going even higher  https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html
+  16/10 19:24  The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis  https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html
+  16/10 18:55  Why Trump and the GOP's billion-dollar midterm blitz isn’t working  https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html
+  16/10 18:02  Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027  https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html
+  16/10 17:46  U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says  https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html
+  16/10 16:52  Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation  https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html
+
+Jornal de Negócios
+  16/10 23:09  Petroleiro com 15 tripulantes indianos atingido no estreito de Ormuz  https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/medio-oriente-petroleiro-com-15-tripulantes-indianos-atingido-no-estreito-de-ormuz
+  16/10 22:02  Habitação: Movimento decide não passar a madrugada na Praça D. João I no Porto  https://www.jornaldenegocios.pt/economia/detalhe/habitacao-movimento-decide-nao-passar-a-madrugada-na-praca-d-joao-i-no-porto
+  16/10 21:48  Libertação não apaga "anos de reclusão indevida", diz Manuel Pinho  https://www.jornaldenegocios.pt/economia/detalhe/libertacao-nao-apaga-anos-de-reclusao-indevida-diz-manuel-pinho
+  16/10 21:19  Porta-voz de Trump deixa Casa Branca após 5 dias no cargo  https://www.jornaldenegocios.pt/economia/detalhe/porta-voz-de-trump-deixa-casa-branca-apos-5-dias-no-cargo
+  16/10 21:10  Wall Street recua com dúvidas sobre o retorno da IA. Chips somam oitava sessão de quedas  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-recua-com-duvidas-sobre-o-retorno-da-ia-chips-somam-oitava-sessao-de-quedas
+  16/10 20:28  Défice público dos EUA dispara 12% e atinge dois biliões de dólares. É 6,25% do PIB  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/defice-publico-dos-eua-dispara-12-e-atinge-dois-bilioes-de-dolares-e-6-25-do-pib
+  16/10 20:11  Barril de petróleo Brent ultrapassa os 110 dólares pela primeira vez desde maio  https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/barril-de-petroleo-brent-ultrapassa-os-110-dolares-pela-primeira-vez-desde-maio
+  16/10 19:53  Carneiro compreende "a indignação das pessoas na rua" mas apela ao respeito  https://www.jornaldenegocios.pt/economia/detalhe/carneiro-compreende-a-indignacao-das-pessoas-na-rua-mas-apela-ao-respeito
+  16/10 19:03  Montenegro nega ter acusado de "egoísmo" manifestantes pela habitação  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/montenegro-nega-ter-acusado-de-egoismo-manifestantes-pela-habitacao
+  16/10 18:58  Antigo ministro Manuel Pinho em liberdade após quase 5 anos de prisão domiciliária  https://www.jornaldenegocios.pt/economia/detalhe/antigo-ministro-manuel-pinho-em-liberdade-apos-quase-5-anos-de-prisao-domiciliaria
+  16/10 18:45  BCP já cumpriu 77% da recompra de ações. Restam 92 milhões de euros  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bcp-ja-cumpriu-77-da-recompra-de-acoes-restam-92-milhoes-de-euros
+  16/10 18:19  Montenegro sobre crise energética: "Esta não é uma altura para hesitações"  https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/montenegro-sobre-crise-energetica-esta-nao-e-uma-altura-para-hesitacoes
+
+ECO
+  16/10 23:08  Aguiar-Branco pede que juízes e MP falem com a imprensa: “O isolamento prejudica a justiça”  https://eco.sapo.pt/2026/10/16/aguiar-branco-pede-que-juizes-e-mp-falem-com-a-imprensa-o-isolamento-prejudica-a-justica/
+  16/10 22:03  Governo prepara novo código com menos regras para a publicidade. “Vai haver viúvas”  https://eco.sapo.pt/2026/10/16/governo-prepara-novo-codigo-com-menos-regras-para-a-publicidade-vai-haver-viuvas/
+  16/10 22:02  Portugal é o quinto melhor destino do mundo para se viver, segundo a Nomad Capitalist  https://eco.sapo.pt/2026/10/16/portugal-e-o-quinto-melhor-destino-do-mundo-para-viver-segundo-a-consultora-nomad-capitalist/
+  16/10 20:43  Montenegro nega ter acusado manifestantes de egoísmo  https://eco.sapo.pt/2026/10/16/montenegro-nega-ter-acusado-manifestantes-de-egoismo/
+  16/10 20:39  Esta é a chave do Euromilhões. Jackpot é de 49 milhões de euros  https://eco.sapo.pt/2026/10/16/esta-e-a-chave-do-euromilhoes-jackpot-e-de-49-milhoes-de-euros-3/
+  16/10 19:50  App, homebanking e MB Way do Banco CTT indisponíveis no fim de semana  https://eco.sapo.pt/2026/10/16/app-homebanking-e-mb-way-do-banco-ctt-indisponiveis-no-fim-de-semana/
+  16/10 19:29  Nova porta-voz da Casa Branca despedida após cinco dias no cargo  https://eco.sapo.pt/2026/10/16/nova-porta-voz-da-casa-branca-despedida-apos-cinco-dias-no-cargo/
+  16/10 19:19  Mais de 480 paraquedistas participam em exercício operacional em Tancos  https://eco.sapo.pt/2026/10/16/mais-de-480-paraquedistas-participam-em-exercicio-operacional-em-tancos/
+  16/10 19:07  Manuel Pinho fica em liberdade após quase cinco anos de prisão domiciliária  https://eco.sapo.pt/2026/10/16/caso-edp-pinho-em-liberdade-apos-quase-5-anos-de-prisao-domiciliaria/
+  16/10 19:00  “Estamos há demasiados anos à espera das interligações” elétricas à Europa, diz Montenegro  https://eco.sapo.pt/2026/10/16/estamos-ha-demasiados-anos-a-espera-das-interligacoes-eletricas-a-europa-diz-montenegro/
+  16/10 18:46  Gestora da Volta já entregou plano para higiene urbana ao Governo  https://eco.sapo.pt/2026/10/16/gestora-da-volta-ja-entregou-plano-para-higiene-urbana-ao-governo/
+  16/10 18:16  Bragança candidata-se a Cidade Europeia do Cereal em 2027  https://eco.sapo.pt/2026/10/16/braganca-candidata-se-a-cidade-europeia-do-cereal-em-2027/
+
+WSJ
+  16/10 22:39  U.S. Stocks Fall as Credit Fears Haunt Tech Sector
+  16/10 11:08  Key Moments From Kevin Warsh’s Speech to the IMF
+  16/10 10:49  The 26-Year-Old Russian Defector Who Fed Ukraine His Army’s Battle Plans
+  16/10 08:18  Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning
+  16/10 05:41  Warsh Avoids Signal on October Rate Move
+  15/10 23:01  New York City Comptroller Defends Decision Not to Invest in Israeli Bonds
+  15/10 19:36  Opinion | Recycling Strengthens the American Economy
+  15/10 11:00  Voters Can’t Be Bought (but Politicians Keep Trying)
+
+Bloomberg
+  16/10 21:31  Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock
+  16/10 20:11  Alberta Achieves $1.6 Billion Surplus on Oil-Price Jump
+  16/10 19:33  Brent Oil Taps $110 for First Time Since May as Risks Swirl
+  16/10 17:31  Long-Term Treasuries Fall as Dealer Survey Offers Little Signal
+  16/10 16:17  Why Tech’s AI Borrowing Binge Is Rattling Markets
+  16/10 15:23  Warsh Boosts Market Expectations of Fed Rate Hold in October
+  16/10 15:01  S&P 500 Steady as Warsh Boosts Expectations of Rate Hold
+  16/10 10:31  Britain’s Growth Has a Lot to Do With the Transition Away From Fossil Fuels
+
+Politico Europe
+  16/10 20:30  EU leaders clash over migration, Ukraine and budget in Brussels — but delay big decisions  https://www.politico.eu/article/eu-summit-decisions-ukraine-funding-budget-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 18:43  EU faces growing pressure to plug Ukraine’s Starlink gap  https://www.politico.eu/article/eu-ukraine-starlink-dependence-european-satellite-alternatives/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 17:30  21 things we learned at the EU leaders’ summit  https://www.politico.eu/article/21-things-we-learned-at-the-eu-leaders-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 16:44  In Europe’s tech capital, Irish labor unions are booming amid AI-driven layoffs  https://www.politico.eu/article/in-europe-tech-capital-ireland-irish-labor-unions-are-booming-amid-ai-layoffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 16:40  Scottish government set to drop opposition to new oil and gas fields  https://www.politico.eu/article/scottish-government-to-drop-opposition-new-oil-gas-fields-north-sea-energy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 13:56  Zelenskyy warns 20M Ukrainians could flee to Europe if Russia wins war  https://www.politico.eu/article/zelenskyy-warns-20m-ukrainians-could-flee-to-europe-if-russia-wins-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 13:50  Denmark, Italy, Poland urge EU leaders to harden stance on irregular migration  https://www.politico.eu/article/denmark-italy-poland-push-eu-tougher-irregular-migration-crackdown/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 12:53  Spanish opposition leader Feijóo calls for navy to be deployed to Ceuta  https://www.politico.eu/article/spain-is-not-for-sale-feijoo-calls-for-navy-to-be-deployed-in-ceuta/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 12:35  EU prosecutors asked to investigate advisory body  https://www.politico.eu/article/eu-antifraud-watchdog-refers-eesc-corruption-allegations-eppo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  16/10 12:04  France, Germany strike bargain on Made in Europe, car emissions  https://www.politico.eu/article/macron-and-merz-say-they-agreed-on-made-in-europe-and-car-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 The Economist
+  16/10 18:58  It’s not just Commerzbank: Italians are eating up German business  https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business
   15/10 10:34  How Ukraine’s biggest bank is run in a war zone  https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone
   15/10 10:32  A shortage of sulphur could hurt mines and farms everywhere  https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere
 
-Sem novidades na janela: BCE · (reguladores e semanários omitidos: o silêncio é normal)
+Reuters
+  16/10 17:57  CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet
+  16/10 17:48  CoreWeave bond rout tests market's math on AI buildout
+  16/10 12:01  Wall Street tumbles as worries about AI trade and high oil prices weigh
+  16/10 05:31  Morning Bid: Calm after CoreWeave shock, but for how long?
+  16/10 04:57  Fed's Warsh sees US resilience, mum on rate-path view
+  16/10 03:52  Stocks slip as dollar heads for weekly loss
+  16/10 03:40  Indonesian stocks sink most since 1998 on MSCI downgrade warning
+  15/10 22:18  Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes
+
+Banco de Portugal
+  16/10 17:57  Estudo do Banco de Portugal indica que apoios à procura agravam a subida dos preços da habitação
+  16/10 10:32  Centeno dispensado por BCE e Banco de Portugal de período de nojo mais alargado
+  15/10 22:57  Banco de Portugal ‘facilita’ entrada de Centeno no grupo Abanca
+  15/10 18:45  Estudo do Banco de Portugal avisa que crise da habitação só se resolve com mais oferta
+
+Expresso
+  16/10 17:30  Sem consolidação orçamental, a dívida pública dos países europeus entra numa trajetória insustentável, avisa o FMI
+  16/10 17:11  Parlamento vai simplificar as isenções de mais-valias na habitação: “não é mais do que uma clarificação para totós”, diz IL
+  16/10 13:08  Grupo Barraqueiro investe €50 milhões em 283 novas viaturas elétricas
+  16/10 11:18  Como mexem os combustíveis na próxima semana: gasóleo aumenta preço e gasolina vai descer
+  16/10 07:40  Da inflação na zona euro à competitividade: o que marca esta sexta-feira, com o Expresso nas bancas
+  15/10 22:57  Portugal é a 10ª economia mais lenta do século
+  15/10 22:57  Um orçamento que privilegia a estabilidade ao nível fiscal
+  15/10 07:00  Austeridade vai ter de regressar? FMI não acredita em mais excedentes em Portugal
+
+CMVM
+  16/10 16:21  CMVM e ESMA organizam em Lisboa seminário sobre supervisão baseada no risco
+  16/10 11:42  CMVM volta a apontar o dedo ao finfluencer “James Pereira”
+  15/10 15:05  Presidente da CMVM defende “auto-enrolment” para mobilizar poupança das famílias
+
+EBA
+  16/10 16:00  EBA E-mail alert 16 October, 2026  https://www.eba.europa.eu/node/20106
+
+Reuters Morning Bid
+  16/10 14:20  COMMENTARY: Morning Bid: Tipping Point
+  16/10 13:10  Morning Bid: AI’s debt burden
+  16/10 12:17  MORNING BID AMERICAS-Tipping Point
+  15/10 22:48  Morning Bid: Tech stocks sink
+  15/10 15:46  COMMENTARY: Morning Bid: CoreWeave unravels
+  15/10 12:09  MORNING BID AMERICAS-CoreWeave unravels
+  15/10 07:35  Morning Bid: Market picks CoreWeave as AI rout deepens - KELO-AM
+
