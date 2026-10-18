@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T06:40+01:00",
+ "generated_at": "2026-10-18T06:41+01:00",
  "reference": {
   "close": "2026-10-16",
   "prev": "2026-10-15"
@@ -259,13 +259,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:EURUSD=X",
-   "close_date": "2026-10-16",
-   "prev_date": "2026-10-15",
-   "level": 1.1243535280227661,
-   "change": 0.4328775227718129,
-   "level_fmt": "1,1244",
-   "change_fmt": "+0,43%",
-   "streak": 1
+   "close_date": "2026-10-17",
+   "prev_date": "2026-10-16",
+   "level": 1.1242270469665527,
+   "change": 0.2596884015592549,
+   "level_fmt": "1,1242",
+   "change_fmt": "+0,26%",
+   "streak": 2
   },
   {
    "group": "Cambial",
@@ -366,10 +366,10 @@
    "used": "yahoo:CL=F",
    "close_date": "2026-10-16",
    "prev_date": "2026-10-15",
-   "level": 101.41000366210938,
-   "change": 3.511281411191103,
-   "level_fmt": "101,41",
-   "change_fmt": "+3,5%",
+   "level": 99.0199966430664,
+   "change": 1.0717519743598691,
+   "level_fmt": "99,02",
+   "change_fmt": "+1,1%",
    "streak": 7
   },
   {
@@ -396,10 +396,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-10-16",
    "prev_date": "2026-10-15",
-   "level": 56.994998931884766,
-   "change": 0.2779828744347457,
-   "level_fmt": "56,99",
-   "change_fmt": "+0,3%",
+   "level": 57.30500030517578,
+   "change": 0.8234046304572029,
+   "level_fmt": "57,31",
+   "change_fmt": "+0,8%",
    "streak": 2
   },
   {
@@ -411,10 +411,10 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-10-16",
    "prev_date": "2026-10-15",
-   "level": 6.531000137329102,
-   "change": 0.2994740987308786,
-   "level_fmt": "6,531",
-   "change_fmt": "+0,3%",
+   "level": 6.573500156402588,
+   "change": 0.9521657956568008,
+   "level_fmt": "6,574",
+   "change_fmt": "+1,0%",
    "streak": 1
   },
   {
@@ -663,12 +663,12 @@
    "unit": "px",
    "status": "ok",
    "reason": "",
-   "used": "cnbc:BCP-PT",
+   "used": "yahoo:BCP.LS",
    "close_date": "2026-10-16",
    "prev_date": "2026-10-15",
-   "level": 1.1205,
-   "change": 0.08932559178205235,
-   "level_fmt": "1,121",
+   "level": 1.1204999685287476,
+   "change": 0.08931911425851258,
+   "level_fmt": "1,120",
    "change_fmt": "+0,1%",
    "streak": 1
   },
