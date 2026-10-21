@@ -1,825 +1,867 @@
 {
- "generated_at": "2026-10-20T06:41+01:00",
+ "generated_at": "2026-10-21T06:41+01:00",
  "window_hours": 24,
  "items": [
   {
-   "outlet": "Expresso",
-   "title": "O mercado da habitação está péssimo. E o que é que mudou ou vai mudar na lei?",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlM3ckxrMGJLUkk4R1J3RUxYX3ZhNnNwYTNwUkVOb3VZZW5ON0NKUmN1ZTluaHloTVZtTzBqOFh1eDQxQ3d5LVdTckthWlZJeE9oVWxDcVJKX203WGNnM1l1aHF4UUE1MWVFS2stbWJLd0xod01ZX2gyVFNyQzJJeG9DU2p2YTIzMXFPWkk4cDhKZk1MVXZJZndJN0pOSUpIX0M1UEwyMk5ncVhHY2J2a2NCMWt3RXVXcnEyODhDVDlBNWV3eWVuaFg2cTB1NU5GbnFhZEktWkcyMHlJ?oc=5",
-   "search": true,
-   "published": "2026-10-20T05:30+00:00"
+   "outlet": "CNBC",
+   "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+   "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+   "search": false,
+   "published": "2026-10-21T05:28+00:00"
   },
   {
    "outlet": "CNBC",
-   "title": "The world’s finance chiefs see new risks — and less China angst",
-   "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+   "title": "Oil prices climb as traders assess Middle East developments",
+   "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
    "search": false,
-   "published": "2026-10-20T05:27+00:00"
-  },
-  {
-   "outlet": "WSJ",
-   "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWNXZkM2UGNrTkpFeEoxaWsxWnEyVFdKbllUR1dfOFB1dGwzMlRtVUJubFdDWE5zd190UEN0bGFQS25wXzN1SHZNQ3dXWUg1U2N4TzVBWG9PYnBGX1RneU1jYWQwa1pJT3g1S3paYnVwQklVbGlndTJsc1NIeGpLT0ZfcmtGblRRMkFkV3ZDNTJyaXZ0bktkZzNhRGIyZnZtdDVOWWl6UnZFVGVyZTFHZm1iVlBDVzBsbEsydGJ3?oc=5",
-   "search": true,
-   "published": "2026-10-20T05:17+00:00"
+   "published": "2026-10-21T05:27+00:00"
   },
   {
    "outlet": "CNBC",
-   "title": "Stock futures mixed after tech shares rebound to start the week: Live updates",
-   "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+   "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
    "search": false,
-   "published": "2026-10-20T05:16+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
-   "url": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
-   "search": false,
-   "published": "2026-10-20T04:48+00:00"
+   "published": "2026-10-21T04:47+00:00"
   },
   {
    "outlet": "Reuters Morning Bid",
-   "title": "Morning Bid: Korean canary in the AI coalmine",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzRvZmQwVmlvWktXS2JobXRlck1ZV28yVl82V3pwWnc2UWFmMFpRcDhPSnFfOU5IN3k5dU1YdTFZMkxfWUIzdHpNOUUxWjJ5dWVnUWRMdjJHelpQNkEwWjJIQjhMeGZZX0VDUzloWXNiZGRhUUNmR0QxOE5UMmxYZ0JvVEpCaVVZanAxcjg1Z0J6dkRkZVNr?oc=5",
+   "title": "MORNING BID EUROPE-Tesla may get rocket boosters for real this time",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkdDYzg2Z2JaakFIT0lOSlpUOWpKQUpiVEJDeVhhUDdBNUh3Qko5Z1VCQVpaUjBfVnJBWm9xSDg3T3dSczNROFh6ZzNiam9meVBhdnJ5aDFnRERIZ3hlZUNPWTl3RWNRU3E4RTVDZG5CWDZwU0NuSnFDMVZXZm12Y3RQNGJJNE1PTnVjUDRaNVpQUW1UQ1owWEp6VjFsSGxtU3Q2bHUwbDFYeEczdUhCWlhLQVI0ZGt1T1N4SQ?oc=5",
    "search": true,
-   "published": "2026-10-20T04:37+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "SoftBank Group Credit Risk Hits 4-Year High on AI Funding Strain",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeS1wRUpLeHV1dDRNeFpaSk1ZNDhuUi16UU13QVpycXpQejNUUmRaMVZocEJZSWZfUHJUX1dzOTdRWnY3UE9UbzNUaXJPNHdha2NlREJ4Z3ZYSWItZmhlU0xIaWlzZzRDRHM1YUFsYmxRMGU5ZGt5d2l0UUNXNThEVjdIQXcxdFVKTVd4NHpLeUJhaWFnREpJVjhQWDRZMG5vR1dIMnp0aUpiTElDT25BODhRUEhNZw?oc=5",
-   "search": true,
-   "published": "2026-10-20T04:29+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "Indonesia expels key stocks in bid to fend off MSCI downgrade",
-   "url": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:24+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "How safe havens stack up as tech, energy and France fears grip markets",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
-   "search": true,
-   "published": "2026-10-20T04:06+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "Macron and Merz edge closer to a budget deal",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/macron-and-merz-edge-closer-to-a-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-20T04:05+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "Japan ‘months’ from running out of critical rare earth as China squeezes supply",
-   "url": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:03+00:00"
-  },
-  {
-   "outlet": "FT Global",
-   "title": "Louis Vuitton and Hermès among luxury retailers looted in French riots",
-   "url": "https://www.ft.com/content/afaa7a1d-ef43-40ca-a042-4da8de9ff476?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "AI debt worries spark surge in default insurance trading",
-   "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "Iran war tilts balance of global oil power towards Americas",
-   "url": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "FT Global",
-   "title": "Can Africa outgrow China?",
-   "url": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "FT Global",
-   "title": "Why the UK government is living on borrowed time",
-   "url": "https://www.ft.com/content/dec723c9-54d5-407c-a275-f302344feeac?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "FT Global",
-   "title": "Private jet charter costs from Saudi Arabia soar after Houthi attacks",
-   "url": "https://www.ft.com/content/c0d1f4c1-20af-4a86-83e3-f26ce5b78aac?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "FT Global",
-   "title": "Britain’s £100,000 tax trap",
-   "url": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T04:00+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-   "url": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
-   "search": false,
-   "published": "2026-10-20T03:59+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "Merz und sein Deutschland-Pitch",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-und-sein-deutschland-pitch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-20T03:30+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "Cyberangriffe kommen nicht nur zu Bürozeiten",
-   "url": "https://www.politico.eu/sponsored-content/cyberangriffe-kommen-nicht-nur-zu-buerozeiten/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-20T03:00+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
-   "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
-   "search": false,
-   "published": "2026-10-20T02:44+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "Data centre builder tumbles on trading debut",
-   "url": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T02:23+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-   "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-   "search": false,
-   "published": "2026-10-20T02:16+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "Shares stumble, oil rises as investors await AI sector earnings",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
-   "search": true,
-   "published": "2026-10-20T02:09+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "French riots lay bare risks and opportunities for 2027 election candidates",
-   "url": "https://www.politico.eu/article/french-riots-lay-bare-risks-and-opportunities-for-2027-election-candidates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-20T02:00+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "Spanish left-wing chaos dampens Sánchez’s hopes of election miracle",
-   "url": "https://www.politico.eu/article/spain-left-wing-chaos-pedro-sanchez-election-miracle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-20T02:00+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-   "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-   "search": false,
-   "published": "2026-10-20T01:53+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
-   "url": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
-   "search": false,
-   "published": "2026-10-20T01:52+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmFOcnFpcDFRNGFKUFNtcFVPY2hINkdvd2cteTh6QnhKaDA2TktIcmlyV3NueEc4Qm5YWXZOcTB4U2YwTEM5WVViOF9IUkFiVHRtS0pPYkdQR2FyOWd6ak5zcmdLTEdhLS1CNXlrV05sQ2hjRllFd2lLaVhjZ0dwdXRjRkczMGlSb1hMTHBtVnlFOEhUVnQ1RmhHZ3lXLXd6dlhiMjRxNFYxbktydWotYzFn?oc=5",
-   "search": true,
-   "published": "2026-10-20T01:37+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-   "search": true,
-   "published": "2026-10-20T01:33+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "Dollar and euro drift, yen slips as markets seek direction",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
-   "search": true,
-   "published": "2026-10-20T01:14+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "Brent crude holds near five-month high on Middle East tension",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvQWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5",
-   "search": true,
-   "published": "2026-10-20T00:58+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "Ambani looks to pull off India’s biggest IPO",
-   "url": "https://www.ft.com/content/94f983a8-aa6b-4153-8796-f0b46b046ed0?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T00:33+00:00"
-  },
-  {
-   "outlet": "Reuters",
-   "title": "South Korea's Elice plunges 30% in market debut as data centre stocks shunned",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1JYM3hYdDlsc1JuLWVCVHlKcld3Skc0Y1M0WWgzbk1JNFVJbzhsNU13eVVmSUNTX0hPX1ZGUXotNzVkV3UxTi1yMTlhNm04S2lzODk4NlRhOXFDMUFfb1cxbXd3TzZoZVl3QS00aldHcmNieDZSZ0x1eDlEYjZ5NmRCbWVEeTQwQ2RreWdkb2ljUXB5cDlKalhpTWZ3SnN5ek5pVzlBRWNEQ0d1SVdOREpqMUE1LUZf?oc=5",
-   "search": true,
-   "published": "2026-10-20T00:17+00:00"
-  },
-  {
-   "outlet": "FT Global",
-   "title": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
-   "url": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-20T00:14+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Trump disponível para reunião com Putin e Xi para negociar fim da guerra na Ucrânia",
-   "url": "https://www.jornaldenegocios.pt/economia/detalhe/trump-disponivel-para-reuniao-com-putin-e-xi-para-negociar-fim-da-guerra-na-ucrania",
-   "search": false,
-   "published": "2026-10-19T23:20+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Dinamarquesa NKT faz crescer antiga Solidal para 580 trabalhadores em Esposende",
-   "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/dinamarquesa-nkt-faz-crescer-antiga-solidal-para-580-trabalhadores-em-esposende",
-   "search": false,
-   "published": "2026-10-19T23:01+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Acampada de Lisboa contesta \"ilegalidade\" do protesto que tem juntado centenas de pessoas",
-   "url": "https://www.jornaldenegocios.pt/economia/detalhe/acampada-de-lisboa-contesta-ilegalidade-do-protesto-que-tem-juntado-centenas-de-pessoas",
-   "search": false,
-   "published": "2026-10-19T22:50+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Carneiro diz que proposta de OE 2027 merecia voto contra mas dever do PS é \"servir o país\"",
-   "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-diz-que-proposta-de-oe-2027-merecia-voto-contra-mas-dever-do-ps-e-servir-o-pais",
-   "search": false,
-   "published": "2026-10-19T22:46+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Quem vai suceder ao Dacia Bigster? Estes são os 39 candidatos a Carro do Ano",
-   "url": "https://www.jornaldenegocios.pt/weekend/automoveis/detalhe/quem-vai-suceder-ao-dacia-bigster-estes-sao-os-39-candidatos-a-carro-do-ano",
-   "search": false,
-   "published": "2026-10-19T22:15+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUdmWVljdmxvdFIzRkRFeDJLQk0wTFVOaTlEMExhUEpUelZOTFJfdDFlZURyWXpjU05OcXBhX09QN0dlblc2aDFhZWFuQUNMOXVLbDN1eFN2Q0xBMU1WQW1KZDRrMEhuUmxlZmhPMmlnckVPcUJrSHpQa0tRWGRab2dXdXZkWTRpNC1kZmRCSndyblZJ?oc=5",
-   "search": true,
-   "published": "2026-10-19T22:09+00:00"
-  },
-  {
-   "outlet": "Expresso",
-   "title": "Trabalhadores da Volkswagen Autoeuropa rejeitam congelamento de salários",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMFR6LWFqZW4tLWpvMkxldW9kYkNUSkxCdDZyNTBIS1BITDlfbllXNUFudDN6WVZzSjZYSlEtUmQ5dzdUbkx5VEVNNUpjNEFDZGwzbFBJTU0ydkdjNFYtV1VRQU9hQ0wwdDIzLVZBTTVCakRtWHVUNmxoSzcwNTBWSWhxRDlMR1NIMWp4UTVicERmc0ZQN0FTNWpZOGxpeEk3YzlTSDJHWFlrajJua0ZsemlPQURUWFNSdGFKTmN1Mzd3TDd4VXM4eTRR?oc=5",
-   "search": true,
-   "published": "2026-10-19T22:05+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "Oil Wavers as Iran Threats Vie With Robust Gulf Crude Flows",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdTg3VzlWcDBwMEpkaGtLOW0wN2VROGM3RDdVZ1JpY0toSUNqS0JVNHlmQkNTa0d3SEg1bkFjektMYUd0ZFVrM0JKcnY3bWo4QlViYlpUdXNRWTZEVTRfR20wZ0VLUjVKT1dVWUtVTjhSaTlqcFZsS1gyRC1kcXdfVHhGUUctV1FJVzNDUUUzRkp5dENkUTRsQmpuXzFRQQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T22:04+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "O triunfo do entretenimento",
-   "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/o-triunfo-do-entretenimento",
-   "search": false,
-   "published": "2026-10-19T22:00+00:00"
-  },
-  {
-   "outlet": "CMVM",
-   "title": "CMVM aprova exclusão da Vista Alegre Atlantis da bolsa de Lisboa",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUxsc2MtOWxUYkdkM1lhaUk2YlBnS1lwUVppQkNLcWVjVmFUelc2STVLMVZKUUhNYzhaMHhMZ2RYQnpON1lwRUdjWkFmOGl5aTNGLURWSEpJVEVGeHJ5TE55MTNEeEoxcUpGV3FLOFRJaEJUWjdFQ2ZZNkxqOTIwYVM1Ml83QkR0bWNTSm9DRm9SZk1SNlFzQjJ6YkxNTkxNemozQ0R1Z1BnZw?oc=5",
-   "search": true,
-   "published": "2026-10-19T21:58+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Resiliência da economia norte-americana pode ficar mais tremida",
-   "url": "https://www.jornaldenegocios.pt/economia/detalhe/resiliencia-da-economia-norte-americana-pode-ficar-mais-tremida",
-   "search": false,
-   "published": "2026-10-19T21:50+00:00"
+   "published": "2026-10-21T04:37+00:00"
   },
   {
    "outlet": "Reuters Morning Bid",
-   "title": "Morning Bid: Mine Field",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41VTRxNDlZc0NhakhnRVBDbGNaZGxiRkhzQVY3THNiNU1HOWdXRmY2WHN1TVR1aVJ3UER1VTdKVmJQSExKYi1SVFFhZXMwcl9udU55N0tLdU9aUE5meV9nTXFDZ3g3Y2M?oc=5",
+   "title": "Morning Bid: Tesla may get rocket boosters for real this time",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sck41bW5HT3otVjRUNXlwN0FZbHZSUXhxeklEdG1Dc1VHVEhPYTltVlZYbFIwWko2S1lQS0c2eE1MWUpkR3RoY3pnRklISm50WHBCUHVSVk45SnY0S0dTaXJ6WXVjcDZ5MFk1a1RMNTJJS3pIZHpTUGFyMXc4aTA?oc=5",
    "search": true,
-   "published": "2026-10-19T21:41+00:00"
+   "published": "2026-10-21T04:37+00:00"
   },
   {
-   "outlet": "PSI e cotadas PT",
-   "title": "Participação estratégica do Estado no BCP \"vai contra tudo o que ouvi do PSD, desde Sá Carneiro ao liberalismo acérrimo de Passos Coelho\"",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaWVmZExja2JmaTFTekd4eVE2cmItV0dwamVSSFJDUzk0SlRSUlQ4eDlsT0lvZDRKbkdpbENvWS1BQ3g4cjE5WFBHOGZjZEJsZUIzODktaEJSTmZfaS1fLXlzdmc0Um1WUEh1TjNQeE1tUmk0R2FsNjlTYzl0eDlJQURMbzFNQjBfQUZkZHJvZkZ1aS1XbElxRzVoWWk1TXc4ZlVVQ0Zwb1p3ODVCQkNCRHhNcVd6dUVmSk9vbTAtbzZUZEZFTU82V05TMXhjSFM4LWhRNlBKUklHTGpHYzBYT0xVdWFFbGRPNXpWRFhlWU9USkdfNWY3bEhlSVRFdkZHYzVCR2tsQ0l1SjRCWU10SkY3VUR2UWZfN2Vzem1hQQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T21:38+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Jornalista Christiane Amanpour vai deixar a CNN em junho do próximo ano",
-   "url": "https://www.jornaldenegocios.pt/empresas/detalhe/jornalista-christiane-amanpour-vai-deixar-a-cnn-em-junho-do-proximo-ano",
+   "outlet": "BCE",
+   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
    "search": false,
-   "published": "2026-10-19T21:32+00:00"
+   "published": "2026-10-21T04:15+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "title": "Trump says he is open to trilateral summit with Putin and Xi",
-   "url": "https://www.politico.eu/article/trump-says-he-is-open-to-trilateral-summit-with-putin-and-xi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "title": "Brussels goes looking for billions to fund Ukraine",
+   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/brussels-goes-looking-for-billions-to-fund-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "search": false,
-   "published": "2026-10-19T21:29+00:00"
+   "published": "2026-10-21T04:05+00:00"
   },
   {
    "outlet": "FT",
-   "title": "New York pensions chief says private equity firm sought to expense jet use",
-   "url": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1",
+   "title": "UK’s top banking regulator to set targets with five-year strategy",
+   "url": "https://www.ft.com/content/f06bdefd-bbc6-4a33-9884-09daa15752a9?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T21:18+00:00"
+   "published": "2026-10-21T04:00+00:00"
   },
   {
-   "outlet": "CNBC",
-   "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-   "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+   "outlet": "FT Global",
+   "title": "Milan riots test Meloni’s law and order credentials",
+   "url": "https://www.ft.com/content/4e402323-c3f8-4aa6-9eba-0c8c9e478b4a?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T21:00+00:00"
+   "published": "2026-10-21T04:00+00:00"
   },
   {
-   "outlet": "Jornal de Negócios",
-   "title": "Banca protegida do stress francês, mas não do contágio",
-   "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banca-protegida-do-stress-frances-mas-nao-do-contagio",
+   "outlet": "FT",
+   "title": "Climate plans found to lower companies’ borrowing costs",
+   "url": "https://www.ft.com/content/52e341e0-b29c-420a-9427-cf08e9982cc5?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T20:58+00:00"
+   "published": "2026-10-21T04:00+00:00"
   },
   {
-   "outlet": "WSJ",
-   "title": "U.S. Stocks Mostly Higher as AI Credit Worries Abate",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlUyMFVFazFiUzkwOVR1LXd1TlBlWWNnd3VPLVJuVHd3Q2pjd0dIbnl5cnBzZ0p6SXpYSGMya21Jb004amZSUHpIQVRIYjhkMTBRdlFMeVNwZmYyZTlJdFdSbU5mLWhWdUF3MGxIWUstRkV4X0dvdmlxd3hIV2M1OEJPQUdmeXhDbzdYc094dHFLU3JsZEZZQjZpczNDcEU?oc=5",
+   "outlet": "FT Global",
+   "title": "EU probes pro-Kremlin disinformation around French riots",
+   "url": "https://www.ft.com/content/d95609cd-1bb9-4995-937b-875277de3a42?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-21T04:00+00:00"
+  },
+  {
+   "outlet": "FT Global",
+   "title": "Britain cannot build its future by returning to the 1970s",
+   "url": "https://www.ft.com/content/8c0ea73d-dc44-455a-b319-148c09f68e0a?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-21T04:00+00:00"
+  },
+  {
+   "outlet": "FT Global",
+   "title": "Netanyahu pushes to resume strikes against Iran",
+   "url": "https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea",
+   "search": false,
+   "published": "2026-10-21T04:00+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "Crypto exchanges race to offer prediction markets to US customers",
+   "url": "https://www.ft.com/content/a7e3153d-ac45-4756-9961-75b892f337da?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-21T04:00+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "Goldman Sachs Says War Spurs Sevenfold Jump in Oil Freight Rates",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2U4a0h6MGo2bjVwQjlTMkQwUndDbkdZb1lLRkpYckxmV0lWWDJvdFNZbXpzSk82M2FwVlF5N2ItbEg3UHpYY0dSSVBMU1ZWem1FaGZwVnAyUWltMVZNNTAwQmJEdTd4Q3ItZm9hbGZMV0hZUC1zWjVJc0Qzd00xZE91dVFqZFRlNWZmLVg5bEY1dzB1QnZBQTlIYWxBZ3BqQjNCTWphaU9CQVV5eldIdnlZQXZvZw?oc=5",
    "search": true,
-   "published": "2026-10-19T20:58+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "Força Aérea quer C-130 a combater fogos em 2027",
-   "url": "https://eco.sapo.pt/2026/10/19/forca-aerea-quer-c-130-a-combater-fogos-em-2027/",
-   "search": false,
-   "published": "2026-10-19T20:55+00:00"
+   "published": "2026-10-21T03:38+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "title": "EU Parliament launches probe into fake email seeking to sway internal election",
-   "url": "https://www.politico.eu/article/eu-parliament-launches-probe-into-fake-email-seeking-to-sway-internal-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "title": "AfD-Hack: Was hinter den geleakten Mails steckt",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/afd-hack-was-hinter-den-geleakten-mails-steckt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "search": false,
-   "published": "2026-10-19T20:54+00:00"
+   "published": "2026-10-21T03:10+00:00"
+  },
+  {
+   "outlet": "FT Global",
+   "title": "China’s nightmare: becoming the next Japan",
+   "url": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-21T03:00+00:00"
   },
   {
    "outlet": "CNBC",
-   "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-   "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+   "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+   "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
    "search": false,
-   "published": "2026-10-19T20:54+00:00"
+   "published": "2026-10-21T02:55+00:00"
   },
   {
-   "outlet": "ECO",
-   "title": "Christiane Amanpour deixa a CNN após uma carreira premiada de 43 anos",
-   "url": "https://eco.sapo.pt/2026/10/19/jornalista-christiane-amanpour-deixa-a-cnn-apos-uma-carreira-premiada-de-43-anos/",
-   "search": false,
-   "published": "2026-10-19T20:42+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Anthropic negoceia investimento de 45 mil milhões de dólares em centros de dados da Nscale",
-   "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/anthropic-negoceia-investimento-de-45-mil-milhoes-de-dolares-em-centros-de-dados-da-nscale",
-   "search": false,
-   "published": "2026-10-19T20:37+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "Governo de Milei planeia cortar mais 20 mil empregos públicos e provoca protesto sindical",
-   "url": "https://eco.sapo.pt/2026/10/19/governo-de-milei-planeia-cortar-mais-20-mil-empregos-publicos-e-provoca-protesto-sindical/",
-   "search": false,
-   "published": "2026-10-19T20:33+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "A demagogia que hipoteca o futuro",
-   "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/a-demagogia-que-hipoteca-o-futuro",
-   "search": false,
-   "published": "2026-10-19T20:30+00:00"
-  },
-  {
-   "outlet": "Jornal de Negócios",
-   "title": "Aeroportos de Lisboa e Açores perderam passageiros neste verão",
-   "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/aeroportos-de-lisboa-e-acores-perderam-passageiros-neste-verao",
-   "search": false,
-   "published": "2026-10-19T20:27+00:00"
-  },
-  {
-   "outlet": "WSJ",
-   "title": "Elon Musk Promises to Give Out SpaceX Shares to U.S. Children",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FsZnFEUFIteUFEY0VHRlBMc3Q4b013RkRYaWdsemgzb0x2MDFPS3RDUmpxWmNtR0NMNWhBaGhpZ1JqWm1YYkw3LVhuTDZhSjc2cmRMcWE1R1YtbTRFMGVySWw2NnZtWWFOSS01QmdSVFdqbHdKaW5mYTFtTDIwTVBiajh2YUJHTFBsak42OTRwdlVlNFh4Wll0Y0U1d3huX2JoVVBPQQ?oc=5",
+   "outlet": "Reuters",
+   "title": "Asian stocks climb as strong earnings buoy Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5",
    "search": true,
-   "published": "2026-10-19T20:19+00:00"
+   "published": "2026-10-21T02:10+00:00"
   },
   {
-   "outlet": "Bloomberg",
-   "title": "Bond Sale Tied to Manhattan Office Building Is Latest On Hold",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTy1YNFIyUEJNSHgxbmptMDZvYVpUQjZhUjNNQ216MGlhdWZzMjZOUGhxYWhUcW9kZ3ZvTFI3QlE5ZTFvS3VLSzRUeXRXdGFEd2w4akNwWjdzWDlTRlM5SGdlTGNHTGRZQ2VOcFltVWJHR0w1MmlpWFVIMFRJNmR4RkFvamVKSFFuZFRYRjN2RHB3VTMtZllkNDFQOTFpQkJjQ193Ylo1LXZhZVctaDJkaVlR?oc=5",
-   "search": true,
-   "published": "2026-10-19T20:13+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "US stocks recover after AI sell-off",
-   "url": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+   "outlet": "FT Global",
+   "title": "Australian data centre group falls 44% on profit warning",
+   "url": "https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T20:08+00:00"
+   "published": "2026-10-21T02:00+00:00"
   },
   {
-   "outlet": "ECO",
-   "title": "Tráfego no aeroporto de Lisboa estagnou no verão",
-   "url": "https://eco.sapo.pt/2026/10/19/trafego-no-aeroporto-de-lisboa-estagnou-no-verao/",
+   "outlet": "Politico Europe",
+   "title": "EU to press Canada and UK for more Ukraine funding",
+   "url": "https://www.politico.eu/article/eu-to-press-canada-and-uk-for-more-ukraine-funding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "search": false,
-   "published": "2026-10-19T20:01+00:00"
+   "published": "2026-10-21T02:00+00:00"
   },
   {
-   "outlet": "ECO",
-   "title": "Seguro pede medidas urgentes para a habitação e outras duradouras “com o contributo de todos”",
-   "url": "https://eco.sapo.pt/2026/10/19/seguro-pede-medidas-urgentes-para-a-habitacao-e-outras-duradouras-com-o-contributo-de-todos/",
+   "outlet": "FT Global",
+   "title": "OpenAI ‘agents’ disabled their own monitoring systems",
+   "url": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T19:42+00:00"
+   "published": "2026-10-21T01:56+00:00"
   },
   {
-   "outlet": "PSI e cotadas PT",
-   "title": "Empresas cotadas na bolsa de Lisboa já foram recomprar mais de 580 milhões de euros em ações",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3h0N2RvLU9tVFNXRUdQQ20wN2ZlSmx3UTk4d3h1NEJ4V2V2X05oRnJFNUF6Y2NvV2htdk1iTldrdXhQLUhUTHhETmtJRE9jN3cydDBJSHJDV2tDamRhLV8xb2dkWlpzeC1CbVNtaExhRUNVdUE4emVYRTFwVlBMakFmb3huV1B1T0xRVW1nR1AxMlhqT1BhNVlMMUtsNzhnakNNeEtkbUFpRHZfWl83VF9ZaVJUUjZDNEVQY1gydkpCUVlFVm9WRU83ZnQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T19:22+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "Como os partidos querem reanimar o mercado de arrendamento",
-   "url": "https://eco.sapo.pt/2026/10/19/como-os-partidos-querem-reanimar-o-mercado-de-arrendamento/",
+   "outlet": "FT Global",
+   "title": "SpaceX and Tesla boards explore potential merger",
+   "url": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T19:21+00:00"
+   "published": "2026-10-21T01:49+00:00"
   },
   {
    "outlet": "CNBC",
-   "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-   "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+   "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+   "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
    "search": false,
-   "published": "2026-10-19T19:13+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "Sindicato da PSP dá prazo ao Governo para apresentar “propostas concretas” e “sérias”",
-   "url": "https://eco.sapo.pt/2026/10/19/sindicato-da-psp-da-prazo-ao-governo-para-apresentar-propostas-concretas-e-serias/",
-   "search": false,
-   "published": "2026-10-19T19:10+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "Preço médio da hotelaria no verão sobe 3%, mas reservas para outono abrandam",
-   "url": "https://eco.sapo.pt/2026/10/19/preco-medio-da-hotelaria-no-verao-sobe-3-mas-reservas-para-outono-abrandam/",
-   "search": false,
-   "published": "2026-10-19T19:02+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "UTAO duvida da previsão de crescimento do emprego na proposta de OE2027",
-   "url": "https://eco.sapo.pt/2026/10/19/utao-duvida-da-previsao-de-crescimento-do-emprego-na-proposta-de-oe2027/",
-   "search": false,
-   "published": "2026-10-19T18:58+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzR2UF9wUDNocnlfSDhDc2xseUM3SjNaR2M2MmpEa1pfYkdTbVFMRE5XVmRmOW9YLV9VaFZzOVUxcXVzRUZZMzhER1VhRW1yb1lPcWp2NEZhOTJMSWpqdkhYSmF4TFdwRlVKclUxSDJtQk1VZldXSXY4aU9jcDFKVHYxRldabHZ2Y09wZF9DSHNRbzRFWDlWNHN6VzV6T2NaeElSM2VoRFQ3aGJmS1pjelNieDU4RV9XMDlwSW5lYw?oc=5",
-   "search": true,
-   "published": "2026-10-19T18:56+00:00"
-  },
-  {
-   "outlet": "Banco de Portugal",
-   "title": "Banco de Portugal fecha mais processos no 3.º trimestre, mas coimas caem 76% para 819 mil euros",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeEd4cDJPdHlVV1g1Y2J4eGxFekwza01takQ3ZmJvcHBwTzZnUFpOcjMtQ1lzbGR6S3ZXZjdiaFh5UDlINmE1bTFfdWxVMUhEZXhYWmVpSTFvMHAzeGVkY1lFT0NtelM1a2JfT0ljOWZJaUxJbF9MUjBuWl9Lb09IZmtaSi1FN2lsV1M0OHAwa0VRMjQ0OXRxc01EUlRIWFRsZVpVZU45X202NVhpZjlzdDNzb2xKNUUwT0c2MWo5ay1lQXVTb2NvYjVYR2pEeWpuRFlVZXpRRQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T18:46+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "“O grande luxo numa marca é o tempo”. O caso da Ferreira da Sá, segundo o seu CEO",
-   "url": "https://eco.sapo.pt/entrevista/o-grande-luxo-numa-marca-e-o-tempo-o-caso-da-ferreira-da-sa-segundo-o-seu-ceo/",
-   "search": false,
-   "published": "2026-10-19T18:38+00:00"
+   "published": "2026-10-21T01:02+00:00"
   },
   {
    "outlet": "CNBC Economia",
-   "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+   "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
    "search": false,
-   "published": "2026-10-19T18:36+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "Aos 80 anos, a Ferreira de Sá está a começar tudo de novo. Cá dentro e lá fora",
-   "url": "https://eco.sapo.pt/especiais/aos-80-anos-a-ferreira-de-sa-esta-a-comecar-tudo-de-novo-ca-dentro-e-la-fora/",
-   "search": false,
-   "published": "2026-10-19T18:34+00:00"
-  },
-  {
-   "outlet": "Banco de Portugal",
-   "title": "Banco de Portugal aplica coimas de 819 mil euros no 3.º trimestre",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0laTVNmdFk2R0ZuYTdGei1zTUxlaFRJbHg1VlpCOGpXVzlrSWlGcFJmOC1oX3BtRlNFM2pmRUR0NUltQ3RvSnAtOGVhOHd2bzJQU3ZROVVnVmdlQVhmYWNjY1Uzb2U2RlVtWnlGb2U3WkZTdjV3SVZ0TDhJQkxoRTlra1p3RUQ5TlRkeGVXd1dHS3BNdHA2c0tveTY4VVlmSm9mcFcxVDRzQVVPdGpBT3UzNEoxb0pvRWFyXzhmcVlIQQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T18:32+00:00"
-  },
-  {
-   "outlet": "ECO",
-   "title": "BdP aplica coimas de 819 mil euros no 3.º trimestre e instaura 239 processos",
-   "url": "https://eco.sapo.pt/2026/10/19/bdp-aplica-coimas-de-819-mil-euros-no-3-o-trimestre-e-instaura-239-processos/",
-   "search": false,
-   "published": "2026-10-19T18:25+00:00"
-  },
-  {
-   "outlet": "WSJ",
-   "title": "Gold Futures Slip As U.S. Dollar Gains, Yields Edge Up",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE?oc=5",
-   "search": true,
-   "published": "2026-10-19T18:14+00:00"
-  },
-  {
-   "outlet": "The Economist",
-   "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
-   "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
-   "search": false,
-   "published": "2026-10-19T18:11+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "Merz Says Quick Decision Can Be Reached on ECB Jobs If Needed",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0otQ0E1LTQwalJGUThHS1BNcGg2cGRybHN5VDhoRWRNT3VfV1lwWk42TkwyT21BTXN2N3FwbEtuQi15am1FSUx4bDJHMER6cTN4MVlPelMwU0VZbmg2eUt5aDg4Q1RMTjNoeDlxMFl0YUV2UmtmeldkallDZjBkUU1OWWZUYm9kcVlybnR5WDktN05BT1g1ZjNGeHZ5ZFdfYTF1aGNaMC1WU0g3dXhyR2VR?oc=5",
-   "search": true,
-   "published": "2026-10-19T17:44+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "Digital gold market triples to $55bn as younger investors pile in",
-   "url": "https://www.ft.com/content/ec362974-2f42-4938-84e6-f8c1e72c256a?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-19T17:24+00:00"
-  },
-  {
-   "outlet": "Expresso",
-   "title": "O que está a acontecer à economia francesa?",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFdldmFfX05nWG93RnZCcnh0dF9MLTMtUFozMElha241Yi1IeTI2dGFQd3ViY2dRd0pKdG5wNm5xQUFybDJYVGEzX2tVeDFaSjF6WXhQUUpvNTVqUjNjemJZSHIzLTdCMnNCOE5LM3RxQ3RsYVp2Z3dPR3BlTWtfT2NyXzZraV9jRlpNV291ZDFZZVFrLVRMZHM0cmFiLTR6VE5ZdFUxRHNzTGZaUVR5MQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T17:20+00:00"
-  },
-  {
-   "outlet": "PSI e cotadas PT",
-   "title": "Bolsa de Lisboa fecha em queda em linha com as principais praças europeias",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWVrYWZiVlItM0ZLQW55R3Q2RnNpMDk1QTNvM2pJYjVNVUl4NnBZS3ZfWlhXTzR5TWF1dUZVemdIc1RmSzlacHBuTzBiSDh1cFhkOTF5WVJzbWtaU2ZxWHlFTlZiMTh1bVNfRGxteENGUTRQV0cxN01fQnRpc1EtWEtwX2xqdUtlVHpCbW9BeHVFVFJDRXpvWXotYXRSTWRLTnhKR1Q3UFBxWlZLRkREMngzRk03cGgzZjRkeA?oc=5",
-   "search": true,
-   "published": "2026-10-19T16:54+00:00"
-  },
-  {
-   "outlet": "Banco de Portugal",
-   "title": "Síntese da atividade sancionatória do Banco de Portugal no 3.º trimestre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1FPVFJyaElDbk1ZMUxxc2g3Q2xBSmVCNC1pa19veE5HYlZmVVVNWVZpWGZ3NG13YktTeFZhQ3pHZXdBMGNMMTJobzF4VmVacW9vM1dXaDRCMDJBSEs2SVByY2ZEZGpCRmNQZ2dpWDNXZ0NOOWVBU1FVM2RLajFFQ2Y2cUlyNFRFVW5ITm5abXpBM1VNVnJTMGVOTmpxYWZRY21DNHdEbFJGbGpLMXJzMWwzekVIQQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T16:52+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "After looting spree, France tells online resellers to crack down on traffic of stolen goods",
-   "url": "https://www.politico.eu/article/france-orders-online-resellers-crack-down-stolen-goods-after-looting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-19T16:09+00:00"
-  },
-  {
-   "outlet": "PSI e cotadas PT",
-   "title": "Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,78% - Investing.com Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXpQb1ZwMTNfeWVDMXJSZTUxY0x1T3JKNnByREZRcVJ0SUpHcF9DT25VSW9LVHYyWVR3SFlHcXRaRTIzT1hzdmdYRW9lX2VDOXhZQVNvTlZZMlhXOXR2dkhiMVZUdDZFd3M2UUNmalJGWER0aUxRaG94bFduSnA5eG12UVhVYkhsQ19rdEJpN2RtR3JLcGxPS1d2RWhTM3hBWVEyZU1zc0FaY0FmcWJhYlp4X255dHBKX1RNTWIwRm85dw?oc=5",
-   "search": true,
-   "published": "2026-10-19T16:05+00:00"
+   "published": "2026-10-21T01:01+00:00"
   },
   {
    "outlet": "Reuters",
-   "title": "Europe EV sales rose 70% in September, around 30% of market share",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0ctREhXOHRCbnByZlQ4RDNoM051bnJjZzZFSzczeEdGWmFHQXpyV1FLM1dMWGNyQnI1b19XbmJENmQxWUtvdWN2NXlGX09xc3RxVWUxWVlaLVl6dVJqM3lMcWwteUROMnhsZUEzaHZxOTF4RldpZ1RsYTBrRjhNeGI0WUo5MTdaN2taeVR5T2JzSmluejd2aTVJVktpUl8tWXVJ?oc=5",
+   "title": "Oil rises on Middle East supply fears, US inventory drawdowns",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5",
    "search": true,
-   "published": "2026-10-19T16:00+00:00"
+   "published": "2026-10-21T00:50+00:00"
   },
   {
-   "outlet": "PSI e cotadas PT",
-   "title": "Lisboa segue maré vermelha europeia. Grupo EDP cai mais de 3%",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkhXNmNkV21BRk5jZzVDUGZzS0t0ZlVJV3ZUUHNzcWFaU0p5eU9QYkd6NWNteDJBSmsxalhuX21DeUFtR3h1MFUyRGItejFBcnFsSnJZY0ZaX1JQdzFxMnhxaXh4Vi1JNlBWRU5LNVpiWHcyZGNRcGJNaWR0VmhpanQ4dktJTG9vZTNhNUtrOGlINXp0VlJYdlJXeW85bnVqQ1VCRHdKUVJPQWFjQ3Q4aEtCbjfSAa8BQVVfeXFMUENRMHRzTjJKUGZwTVBOZmw4ZHQ0R3BROEZUUWpGbHJ1VUc3eWRjQnJwbWw0bV9GV0kzaXNnZU56cjBvVFl2M1ZVYlIxSmhVVzJaN0N6VmFQaXFBTjdjdTUtc1luMFZ5TndNUy16TEF1NmRxcGlSTVZXTTdDVVFMeHo1S19yZXduYUNCclBoM2dqRlpIY1ZJRUpIVE14WWMyd3VZeFFxTEhrNWFseFVLYw?oc=5",
+   "outlet": "CNBC",
+   "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+   "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+   "search": false,
+   "published": "2026-10-21T00:44+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+   "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+   "search": false,
+   "published": "2026-10-21T00:42+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Elon Musk é o responsável pelas limitações da rede de satélites do Starshield, avança WSJ",
+   "url": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/elon-musk-e-o-responsavel-pelas-limitacoes-da-rede-de-satelites-do-starshield-avanca-wsj",
+   "search": false,
+   "published": "2026-10-21T00:16+00:00"
+  },
+  {
+   "outlet": "Reuters",
+   "title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
    "search": true,
-   "published": "2026-10-19T15:56+00:00"
-  },
-  {
-   "outlet": "FT",
-   "title": "EU drops push for global ban on Arctic drilling",
-   "url": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db?syn-25a6b1a6=1",
-   "search": false,
-   "published": "2026-10-19T15:36+00:00"
-  },
-  {
-   "outlet": "PSI e cotadas PT",
-   "title": "PSI e bolsas europeias em queda sob pressão de protestos e incerteza política",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSElWc2cwZ0pJcTc5UTIxV0I1ZXVfQ2VjTHFUdFdBdURreDdaYl9Ualh0dXNVeE9EcXk0NFFNUDItanNxLXAwUXE3aFpRWE5oRzM0UDZ1YzVBTG5RaVJ5OFdfUVF0ODJZNER3QXZlZ2hOeGUxam15VkpIVjIyMVhwMDVvWjNVY0Rlc3JsMnRSUExOcm05SUFjbjhvUnhOSVQ2RWlCT09MaWhaV1lRZXhiaEQ5aDJjMXJ1cFlN?oc=5",
-   "search": true,
-   "published": "2026-10-19T15:29+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "Empêtré dans la crise sécuritaire, le gouvernement n’arrive pas à sortir de la nasse.",
-   "url": "https://www.politico.eu/podcast/playbook-paris-podcast/empetre-dans-la-crise-securitaire-le-gouvernement-narrive-pas-a-sortir-de-la-nasse/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-19T15:28+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "title": "EU’s ‘trust’ and ‘leverage’ at stake over development cuts, UN food aid boss warns",
-   "url": "https://www.politico.eu/article/eu-trust-and-leverage-at-stake-over-cuts-carl-skau-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "search": false,
-   "published": "2026-10-19T15:26+00:00"
+   "published": "2026-10-20T23:44+00:00"
   },
   {
    "outlet": "WSJ",
-   "title": "Treasury Yields Inch Up as Markets Look Ahead To Fed Decision",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWlGZml4V2JESElWVjd5RDgtN0htcHAxSEUwT3p6LUlWQm1nLVNkR2lzSlNxQ2ZaQW5ZMjZiVnZJeWZjaDJNS2o4LXU3TEljOHNjU052OC1laGhOZ0lRbU5XeWZRR0FDSXVpcm04S0FLTDFpQTJpNkIyQUpqdTRNLW9udEk?oc=5",
+   "title": "Five Takeaways From SpaceX’s Earnings Call",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXFsVW11RFNRRmRqS2I3dHk1dUlLOXlzMDc1bFN1d21nanZrNTV0REFMR2hwVXBxTUxtZHlvS1pDR3YwR0ZJeUxWczBaTVJxOGMtVU1TT2xtLUZxQm5BTGRva1FlQkdMMEU5eUREWUJuOHhUd2xpU0tCdTM1X3o0N1luZ29PUQ?oc=5",
    "search": true,
-   "published": "2026-10-19T14:45+00:00"
+   "published": "2026-10-20T23:42+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Zelensky e emissários de Trump assinalam progressos apesar das tensões",
+   "url": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/zelensky-e-emissarios-de-trump-assinalam-progressos-apesar-das-tensoes",
+   "search": false,
+   "published": "2026-10-20T23:26+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Tesla e SpaceX formam comissões para avaliar fusão",
+   "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/tesla-e-spacex-formam-comissoes-para-avaliar-fusao-anuncia-musk",
+   "search": false,
+   "published": "2026-10-20T23:21+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "Pensions invest £11bn in UK private markets despite challenges",
+   "url": "https://www.ft.com/content/98abe089-3c07-4ce3-8ba5-6b6353520c68?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T23:01+00:00"
+  },
+  {
+   "outlet": "WSJ",
+   "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+   "search": true,
+   "published": "2026-10-20T22:47+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Trump pede novamente a Zelensky para fechar acordo de paz com Putin",
+   "url": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/trump-pede-novamente-a-zelensky-para-fechar-um-acordo-de-paz-com-putin",
+   "search": false,
+   "published": "2026-10-20T22:36+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "UK to approve development of Jackdaw gasfield in North Sea",
+   "url": "https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T22:31+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Sonangol forçada a vender no BCP para escapar à lupa do BCE",
+   "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/sonangol-forcada-a-vender-no-bcp-para-escapar-a-lupa-do-bce",
+   "search": false,
+   "published": "2026-10-20T22:30+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+   "search": false,
+   "published": "2026-10-20T22:29+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Ministro da Reforma do Estado vai discutir com Tony Blair uso da IA para medir reformas",
+   "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ministro-da-reforma-do-estado-vai-discutir-com-tony-blair-uso-da-ia-para-medir-reformas",
+   "search": false,
+   "published": "2026-10-20T22:28+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+   "search": true,
+   "published": "2026-10-20T22:05+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblJWeWlxaDBENVkyZVNvTWhzNVFvNldZd01GVE9venlBdk5IRkw1RHpJQ2UtaWFrQmtnR1NNbVpsb0hzcTR2X0VBaWdhckRVd3BwYkphakFYcWJtZk1IZWZlcDAwMmxGbkpOaTk0M1hiaTFpMmZPVFRMUXhEZFpoazZtSnoyczE5akRHNVpBYnBPcHl6dDFoSHV6MjJ4UQ?oc=5",
+   "search": true,
+   "published": "2026-10-20T22:04+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+   "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+   "search": false,
+   "published": "2026-10-20T22:01+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "A riqueza das famílias",
+   "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/a-riqueza-das-familias",
+   "search": false,
+   "published": "2026-10-20T22:00+00:00"
+  },
+  {
+   "outlet": "WSJ",
+   "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEliUElBYzE0WlcxV2VLNkZJSlFYcDJlZXBLeDZxOTZKNmlkMGRlQ003RWRjdE1YUVpZakxYaHZsY2YyVnAwYkhFSmhaUEZzWXJlalBHNFRSb2RhbUk3ZkhMRWJTNmZLaXhLX1NPRFk1Nks4TzNKNEpwUktvYWdKOE5Bb01QeUlVbGM0ZVhuTnNoNFBRd0RxdTd3Zjc4cVd4T1NrcXVaYlF4TWd2dnc?oc=5",
+   "search": true,
+   "published": "2026-10-20T21:46+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Operadores equipam-se com tecnologia para evitar fraude digital e substituir dupla autenticação",
+   "url": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/operadores-equipam-se-com-tecnologia-para-evitar-fraude-digital-e-substituir-dupla-autenticacao",
+   "search": false,
+   "published": "2026-10-20T21:43+00:00"
+  },
+  {
+   "outlet": "Reuters Morning Bid",
+   "title": "Morning Bid: France on edge",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ta2xEeDc0WG5HcTVGV0lta2E0VkdRNWtleEV3Yks4ekZUajF5RmZmMVl3WE1GV25GTDB0NEp4UWN6YTZRR3NSNUVXRUpyeFowcjU3UGxNeU5pODY2X0c3dnBNQkh4Y1U?oc=5",
+   "search": true,
+   "published": "2026-10-20T21:41+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "Maybe it’s personal: Europeans worry Trump just likes Putin more than Zelenskyy",
+   "url": "https://www.politico.eu/article/europe-worries-donald-trump-prefers-vladimir-putin-volodymyr-zelenskyy-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T21:32+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Receitas da SpaceX disparam 161% no terceiro trimestre para 14,6 mil milhões de dólares",
+   "url": "https://eco.sapo.pt/2026/10/20/receitas-da-spacex-disparam-161-no-terceiro-trimestre-para-146-mil-milhoes-de-dolares/",
+   "search": false,
+   "published": "2026-10-20T21:27+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Manifestantes pela habitação decidem voltar a montar tendas no Rossio",
+   "url": "https://www.jornaldenegocios.pt/economia/detalhe/manifestantes-pela-habitacao-decidem-voltar-a-montar-tendas-no-rossio",
+   "search": false,
+   "published": "2026-10-20T21:22+00:00"
+  },
+  {
+   "outlet": "Banco de Portugal",
+   "title": "Leia aqui o DN desta quarta-feira, 21 de outubro",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbnlfekJCbndqVVZtZHRiX01jb2g1Q2ZWcG5maVNnV2l1LS1GZUJ1TWtNR3phd3J6Z1dUa0ZacWV1NGhjWkNNc29qd293NC1aVmlLbDB0QXgzN2pPS0tkQWtfS09KdXl4QTZibXR1cUJLZjUybGtNUzlJX3l4NUd3S3hTTHNkUQ?oc=5",
+   "search": true,
+   "published": "2026-10-20T21:22+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Nicolau Santos nomeia diretora de RH em pleno concurso para novo mandato na RTP",
+   "url": "https://eco.sapo.pt/2026/10/20/rtp-nomeia-diretora-de-rh-em-pleno-concurso-para-a-administracao/",
+   "search": false,
+   "published": "2026-10-20T21:17+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "Conversações entre Irão e EUA continuam, mas diplomata desmente notícias sobre acordo",
+   "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/conversacoes-entre-irao-e-eua-continuam-mas-diplomata-desmente-noticias-sobre-acordo",
+   "search": false,
+   "published": "2026-10-20T21:16+00:00"
+  },
+  {
+   "outlet": "WSJ",
+   "title": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5",
+   "search": true,
+   "published": "2026-10-20T21:06+00:00"
+  },
+  {
+   "outlet": "Reuters",
+   "title": "COMMENTARY: Trading Day: Oil reversal lifts spirits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaU1PVWVqVTFDdTIyTFEwTzRRRm12eVZCd19RNnhPY2tKY29HOURqclNJNnJoeHM5TlBVaDI3SE5JdUROOEtTNXJyZm9NX29jcmVmYVQzZDdiMnllRnA1M3h4VzR5YjBuanlSaXBqUTUzdmE2THI4UGpULUVMNzRpOVRuY2hyQU9sYl94dXFSR1pKQzlKc0ZPNFNBd1A3RXpSSTIwR0hB?oc=5",
+   "search": true,
+   "published": "2026-10-20T21:04+00:00"
   },
   {
    "outlet": "FT",
    "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
    "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
    "search": false,
-   "published": "2026-10-19T14:10+00:00"
+   "published": "2026-10-20T20:57+00:00"
   },
   {
-   "outlet": "FT",
-   "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
-   "url": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
+   "outlet": "Jornal de Negócios",
+   "title": "Netflix regista lucros acima das previsões mas prevê desaceleração nas vendas",
+   "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/netflix-regista-lucros-acima-das-previsoes-mas-preve-desaceleracao-nas-vendas",
    "search": false,
-   "published": "2026-10-19T13:54+00:00"
+   "published": "2026-10-20T20:46+00:00"
+  },
+  {
+   "outlet": "Jornal de Negócios",
+   "title": "BCP antecipa reembolso de 300 milhões em obrigações",
+   "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/bcp-antecipa-reembolso-de-300-milhoes-em-obrigacoes",
+   "search": false,
+   "published": "2026-10-20T20:45+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "Poland’s government votes to ease abortion laws in challenge to conservative president",
+   "url": "https://www.politico.eu/article/poland-parliament-eases-abortion-laws-ichallenge-conservative-president/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T20:25+00:00"
   },
   {
    "outlet": "CNBC",
-   "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+   "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+   "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
    "search": false,
-   "published": "2026-10-19T12:33+00:00"
+   "published": "2026-10-20T20:23+00:00"
   },
   {
    "outlet": "WSJ",
-   "title": "Cleveland-Cliffs Revenue Rises on Higher Volumes, Selling Price",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJPQ1RuOU1NdlJIeHVRRlJVODN6SUNpNnJYbk8zX0xicGgxck5nWXh1aTN6c0VkSTFwY05oU1JHR3lhdVFJLVZJU00xWDZpeHd5VUlkSmZOOTRXeE5mLUVCV0llTTBqcnEtRTRqb2dzTlpveXN3TXp1MGZIU1htSFVmemJGQldKUUpiWHNSZjEzTHpiUWMtWjFuSjhNekJ1bXJaMlBRRXYyclFfTGc?oc=5",
+   "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzhDTTc3VUlaX3lDZDR2V0tYenJpeGllMk54WXloeUdlbXp2eHFYeFMxdGMwQ2xXSXpIcDVqVDlLNkZDb0VwMlFKZzRnbnE2eGUzNzZycUlpS0Q5c29XZDl0Z2RqaFhObjFUeFM4SjR2WXpLM3NRa3F3aWhlMF9FVV91aTVKY0lYal90Y3BwaTg3WWFCcDlxUFRnWQ?oc=5",
    "search": true,
-   "published": "2026-10-19T12:00+00:00"
+   "published": "2026-10-20T20:18+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Governo confirma vitória da Vasp no concurso de distribuição de jornais",
+   "url": "https://eco.sapo.pt/2026/10/20/governo-confirma-vitoria-da-vasp-no-concurso-de-distribuicao-de-jornais/",
+   "search": false,
+   "published": "2026-10-20T20:05+00:00"
+  },
+  {
+   "outlet": "Banco de Portugal",
+   "title": "Perdeu o telemóvel? Banco de Portugal alerta para o que deve fazer de imediato para proteger o seu dinheiro",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjdQc2owV2I1Y3FnRndfNWFkdGVhdFNoNDQza0x6MFViVWgyenloa25lc0hKaHl0Q0NaS3d0LVpNNm5TMWhQUnozREoteDdCZ3lrU25nOEVOcHpJZGpaNUR4aEVQcll4VkxpSlh4TTNJN09ZejViRTZiXzBKQmJCLVJhUFBCVTdRV0VaRkxqSERHam9PeDNvMUhaQXJwbkNPYUYxZGlrQTNkWWRfSjdsOG5sUXpiMlhIR2poX2FtelZPdHlCREZsN2dNTktTeUE?oc=5",
+   "search": true,
+   "published": "2026-10-20T20:02+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "UK bets on a boring budget",
+   "url": "https://www.ft.com/content/50be6960-c609-4849-94bc-7084afc89255?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T20:00+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Manifestantes decidem voltar a montar tendas na quarta-feira no Rossio",
+   "url": "https://eco.sapo.pt/2026/10/20/habitacao-mais-de-mil-manifestantes-levam-protesto-a-camara-do-porto/",
+   "search": false,
+   "published": "2026-10-20T19:54+00:00"
   },
   {
    "outlet": "Expresso",
-   "title": "Função Pública: Governo \"não fecha a porta\" a reforçar aumentos salariais e acena com revisão das carreiras gerais em dezembro",
-   "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxNc1liamJBSDR3UXNiUWRZczQtZnFDTktyUVphWmZ0SzlRN3RYQjBDeUxpYXdZQUtKaFBSLVFCSl9xay0xUjlWN3FHV2QtUUhDODczV09WRWFWZWtGRFVqeXpVN3dwdlRBSUpiVi1Xb3dmNUhXVGJIRDJudjdseThiSHBBMXZUM0xBVmVfNTV4dEgtYktYSnFIeXBNOXNDcGloLVJuR0FHMlhJcVY5cmRWbmZpWGpQcFJDMG1IWEFpb0hOR3JoOHJrbG9DWWs5ZnZPZ0JLOXR4OEgyaEFJNWFZazNCOENFdUx5TWowdjFBc004VkFxRG9Fa0V6cF9CQTI2OXJ1UVc2bHkyNllqQ2JULV8taENjU3czR3QtbXQ0d2hBTHRGWnNDSUYyeXVLdGVmdTNIUE1ncEZ1d2pVV1lfMFpiOGJuZzMtbzhZRHV0SE9XYmx4U1VGblpLSkxuUC1iNkRXY2FjSzdFdG92MXNJdUtkTmlWSTRFZXhJcWRxckt0RGdoUUlna0t3WFpsbmh2RlFXcG5EanAzcVFSLTFSQ1NLYnd3emNZSk5NcWRBeGJfazJReUhwZTBpNXFycU14ODZmYTZubkpGQU4xN3BiMHhzRHAtVWhNRnFiM19lMkJTUUlGc3hEWHFYUk5CX3ZFcmtRT2Y0ai1TUklxRm0yVC1MWlgySWZPMk5yNkQ4WEgycUEyMmNMcFg4ZWNnc0JYUFNYSnR1RGJrSzdlTjlWWQ?oc=5",
+   "title": "Conferência 'Business as Unusual', BCSD, tarde",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMng0LS02b3o1YmZycnJaaGdJT2d2LWJWQ3FOUklIRDNqMGNxOWdsc3FYX3Fvb1o3MGMyR2hnQVZ0OWlLSy1LRmVMVmJCZDFSZkRyLWVhYm9nbEVaX1l3T1lZbTF6d1Y0YWtmSEp0TEhaSzN3cmJMNEhEOVJpZ2JKMlVZeWVGaUNBZ3ZqMm8xUmw4dGl4RHNPS3hycmlWdzRLVkV5M1dLUUVjU0NoRGF4RVVtOUhSbk5QNFRZenZn?oc=5",
    "search": true,
-   "published": "2026-10-19T11:31+00:00"
+   "published": "2026-10-20T19:46+00:00"
   },
   {
-   "outlet": "WSJ",
-   "title": "Jamie Dimon’s View on the U.S. Economy: Booming, but War and Inflation Pose Risks",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM09VcGQwTFJlbHZDcWt0VnUwSml4ZTJuNTdxLU01cGoyYjN0UWVZcVpkOWlzRzU3VlhPZDZ0RmNfZmdOVjQ0TjJNcU5VQUhJWUNGeHJLZnhQOU1ZVlp2VndBZXNPZUNSVHVqMmM5cXBsLVZoQlNlMTNGaW1MOGxpMnA4LThmNDlmSlJHQWg2eWY3eEFQVTNINWE5LXRCT181YUpPMlRXSS1Wc1NWR1B0TElkSmFsekNUQWc?oc=5",
-   "search": true,
-   "published": "2026-10-19T11:14+00:00"
-  },
-  {
-   "outlet": "Expresso",
-   "title": "IA vai ser “motor invisível” na economia do futuro",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbVJpVWNadWY3a0Nja2ozREJEcVNpbGk1Z2lkSUpzdndtR0FNbF91S25VeVRvMXVVMTV6aVNWanJPMHFjdU11dUhPREZLSDJ3YktwZHFiaWtDZFE4UTl5eVl2ZzJnNmM4MDU5QUlZNXhEamNzR1U4THhQUHhPXy1DQUpwb2VzU0pBYkZxZlA5YXZJQWdkbzVfZndaUFJLY0ZpdW9jOTAzSXZPYU02cFVaOTMzbWV0SnVmRlFmTzc0SjF4RXBodHc?oc=5",
-   "search": true,
-   "published": "2026-10-19T11:03+00:00"
-  },
-  {
-   "outlet": "Bloomberg",
-   "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenB5TFdsTXhmTGFUbGdfNE9KemRReTJPZlp1WUdsaGh6VkZOMUZtMWhGRXRJd0tVLUh2WU9OMzhwQ21NOFRRaHBROFg1SVIyUHItRl9GNE1nYUJrQW4xNXd3REZVbURTem9SQ2VFcHJzeHVtV3VJTk9oYnh6ajlINU5XZU1tMDdXV0xNLXFkY1JXcTZyVGNiWGk4QVZtODR0MmNHZGN1Z1JjMkFNakRN?oc=5",
-   "search": true,
-   "published": "2026-10-19T11:02+00:00"
-  },
-  {
-   "outlet": "Reuters Morning Bid",
-   "title": "Morning Bid: Wavering waiver?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWd0aUVmczU2M2Vhcm5sV2xfTWt5YkFIbjFqNmpvTmJrTGJvZzBBaVRZbXV3SU4zRUFBT21Pa3VHdklIUDM0ZEQ5akZnYkhEalV5UFpIc2ExeVMxcGpTcHV3bGZzQUtXNEZHN1BDQlBQNTJscXNvZGY2WEQ3U0hPSU83cm93MG15UG4tcHVwUXVLRTltNHhR?oc=5",
-   "search": true,
-   "published": "2026-10-19T10:38+00:00"
-  },
-  {
-   "outlet": "WSJ",
-   "title": "Netflix Stock Might be a Sleeper Hit",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUdNamdTUENFQy1hVmpBOGtuMERlZGpjNVlTWUYwcEM4R21zNjJKdWtvRzd4bngybUwwV3o1b2VCaTFYTTBUakNaUmd6ZXVhN1p4ejRaRkxobEhQUFBVeFBSU0Z6bGI0MmlJNjQ5cGpVci0xMmxMdGFQajZLQzRLM2JGamZSMk0?oc=5",
-   "search": true,
-   "published": "2026-10-19T10:34+00:00"
-  },
-  {
-   "outlet": "Reuters Morning Bid",
-   "title": "MORNING BID AMERICAS-Wavering waiver?",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmc4Ty1PRVlBdXVqYmVKdTN4aTlNMEJqOC1mLXEzVy15V2FDendXR2hpNzV4LVI5QVhOOU9TM3FjREVpbDExMVFleHBZZnVGMFE2RDdLYnYxY00tWEJhb2ozMngtUXQ5dHlmN0Y1dXNVYk43MUVBd0tsVkQ2LUdMdjJobUR0ZURiRE1EMFp3aXJIX1E?oc=5",
-   "search": true,
-   "published": "2026-10-19T10:33+00:00"
+   "outlet": "ECO",
+   "title": "Seguro promulga diploma que altera código do IRS",
+   "url": "https://eco.sapo.pt/2026/10/20/seguro-promulga-diploma-que-altera-codigo-do-irs/",
+   "search": false,
+   "published": "2026-10-20T19:38+00:00"
   },
   {
    "outlet": "PSI e cotadas PT",
-   "title": "BCP: lucros crescem como esperado",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWNyb3k1Ulpwb3N0WmdFNkpfTlhpbGtaMEwtdjcwNXFNNXRNR1FYUko5WDd4V2NuTzlwaE5NWk9WTmlCNkhGZ2dLa25WekdvQk5waHBfUzNMVlZVd3AyUk9GTlYzWVJkbGx6ckR2ZHJfNWNIRHROQVJsQnRXNG1iT3NxVC13Q00xZXdUYXFmWjdrRW9Jdjh1WHF6VzI4dw?oc=5",
+   "title": "BCP anuncia reembolso antecipado de 300 milhões de euros em obrigações subordinadas",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT0RORmRBcEN2QzlhSl9QRlVvRVBoYjlLVmVOU2doUU53OG5ORFQzXzBnRXM2dmR1NHY2cmJKRTd3a0k3MXFKeXlCMlAyUzBhM2Z3WV90TzVjbVhWQnpfRENjQnhUczA4UkJ0OGQtSDY2Sjh5RC1USl83LWI2dUd1eWthbGswckphSnNZWDJaa3FtSmRtWjdDT0VmR1hxazFDdEgwS1M5aW5pYkRJbzBvUk5uU2dfVW93aGkyZXpjaGZPd1F6UUdhYklhYw?oc=5",
    "search": true,
-   "published": "2026-10-19T10:24+00:00"
+   "published": "2026-10-20T19:38+00:00"
   },
   {
-   "outlet": "Expresso",
-   "title": "Portugal e China definem cinco áreas prioritárias de cooperação científica e tecnológica",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPejlrdlQ3aVRrVHJONzRZM1kycTFpR1JoRGJTNGpDb0lQZnFjeXBtSDVSNk85dEpZdXNoanM3UHdxbkE2anpUOUxUMEhfc2VySzg3Q3JRVFVVWmh1dHhXNWhlVWYtS1U0V3dtT0VTRk9reUNIelJXVVFDWE5HdmNqUm0tNXJzX0lwN1V6RGRXblZRejh1b2owQkJ4YmRGX2RjMFM5dktVMXRMTm8wXzZRY1l6OU9lR1gyX0FsTHBYR05pcUUxcjNESDhTVUhvMnhKWGR3dWZuWnZkRkp0VDdv?oc=5",
-   "search": true,
-   "published": "2026-10-19T10:03+00:00"
+   "outlet": "ECO",
+   "title": "Força Aérea reforça com dois novos satélites Constelação Atlântico",
+   "url": "https://eco.sapo.pt/2026/10/20/forca-aerea-reforca-com-dois-novos-satelites-constelacao-atlantico/",
+   "search": false,
+   "published": "2026-10-20T19:36+00:00"
   },
   {
-   "outlet": "PSI e cotadas PT",
-   "title": "PSI em baixa com CTT e EDP Renováveis a cair mais de 1,5%",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3plTHlUUXJhOTJsWkR2d3NTRVN5dENCaEhLcUpkaVU2VjRNa0ZsVjlYcWZuLTZIeWtsei1jRVNWZUVaZEJvaHk5MWVOTUlLNy1Sdkhic2daLURVTGtWaHdSaDY3OVVEby1GZWV2X01ZV1V4TUpfd2wtSEFQYnhuSkRqLW1WTndrZXAxR0lScS1LV3J1NlI0VlFMeG9xcFJTdnhYMkxYUlQyQQ?oc=5",
-   "search": true,
-   "published": "2026-10-19T08:55+00:00"
+   "outlet": "ECO",
+   "title": "Esta é a chave do Euromilhões. Jackpot é de 59 milhões de euros",
+   "url": "https://eco.sapo.pt/2026/10/20/esta-e-a-chave-do-euromilhoes-jackpot-e-de-59-milhoes-de-euros-2/",
+   "search": false,
+   "published": "2026-10-20T19:32+00:00"
   },
   {
    "outlet": "CNBC Economia",
-   "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
-   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
    "search": false,
-   "published": "2026-10-19T08:23+00:00"
+   "published": "2026-10-20T19:28+00:00"
   },
   {
    "outlet": "Bloomberg",
-   "title": "France’s Bonds Drop as Rioting Heaps Pressure on Government",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVg0eHBZcTVSdUEyTlhhb0F5RFVaSFBsdFFZQkpMWDN0TDhwNnBLZHBLNDhSMy0xMU5LdlN3YjlSRUFtZS1ORFlMYTRWWDltZ01iazlDMDd5elhDOVA0RTJRNU53ZmFhN1MzUzE1bDV3OHo1aE5KblZ5NGc4bWNiMm1KU2Nmc2s2TFp5c0p0TWpXQU5tMXdPSHFRMVlGU3JWMFBfMXpHQmctWmR6bW93?oc=5",
+   "title": "Tech Credit Risk Hits Fresh Highs on Fears of Debt Wave to Come",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemhwQ01EMTZ5dXI5cVBvQkUwZy1SM3M3NXNvYWVqUktRQUt1Sl9NMjE1bFI3elNDRFZ0VFdpUTl0UEt4VXMxM0cyN2Z5OTE4UU9JblhZekZwWkw4bm5BRk5UM3VDRGJQQWR3MGt3WWtqU183ZUpBQmVzYlhHNHlyUmNXd0V4Z1pqVGRPSm80SDRxMjhmajAzSGlDSE1YQm5ZMnBmMG1PMGROSU51b0wzQ0dMLWE?oc=5",
    "search": true,
-   "published": "2026-10-19T07:43+00:00"
+   "published": "2026-10-20T19:24+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "Europe’s conservatives have 2 new targets in their campaign to weaken EU climate laws",
+   "url": "https://www.politico.eu/article/europe-conservatives-new-targets-campaign-weaken-eu-climate-laws/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T19:15+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Trabalhadores em ‘lay-off’ caem 12% em setembro e voltam a ficar abaixo dos 4.000",
+   "url": "https://eco.sapo.pt/2026/10/20/trabalhadores-em-lay-off-caem-12-em-setembro-e-voltam-a-ficar-abaixo-dos-4-000/",
+   "search": false,
+   "published": "2026-10-20T19:13+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "Ed Miliband’s clean energy company is being split apart",
+   "url": "https://www.politico.eu/article/ed-miliband-clean-energy-company-is-being-split-apart/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T19:10+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "Jefferies eleva preço-alvo do BCP para 1,30 euros e mantém recomendação de compra",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalBIRC1UX3daYUU2emVOck15Y3diTkpUaEROTDQ1ZUlobEl0aFVPZHk3bE1rZVdqSm5Kd2dQZWJOYjJRaFpiN1JlZXA5T3p4LWlNT19mVDY0eHU0eDNmZ09QeW05d3RpS3lTQXgzNlo0ak84T3M1VDlKWXpka2pRUFUxaHhOR1NyVXFqZW9hT1V1ZUl3UmJSVDZCbjFCVjllT3Y2dTZUajYxcUk4bGNLOVdpRFltOTdsUktHY05lQQ?oc=5",
+   "search": true,
+   "published": "2026-10-20T19:07+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "A nova estratégia de Von der Leyen para a região do Ártico",
+   "url": "https://eco.sapo.pt/2026/10/20/a-nova-estrategia-de-von-der-leyen-para-a-regiao-do-artico/",
+   "search": false,
+   "published": "2026-10-20T19:02+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Chega admite viabilizar propostas do PS para a habitação e desafia socialistas a aprovarem as suas",
+   "url": "https://eco.sapo.pt/2026/10/20/chega-admite-viabilizar-propostas-do-ps-para-a-habitacao-e-desafia-socialistas-a-aprovarem-as-suas/",
+   "search": false,
+   "published": "2026-10-20T18:49+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Rubio defende diálogo entre EUA, Rússia e China",
+   "url": "https://eco.sapo.pt/2026/10/20/rubio-defende-dialogo-entre-eua-russia-e-china/",
+   "search": false,
+   "published": "2026-10-20T18:45+00:00"
+  },
+  {
+   "outlet": "ECO",
+   "title": "Despesa orçamentada para 2027 arrisca-se a exceder limites vinculativos",
+   "url": "https://eco.sapo.pt/2026/10/20/despesa-orcamentada-para-2027-arrisca-se-a-exceder-limites-vinculativos/",
+   "search": false,
+   "published": "2026-10-20T18:35+00:00"
+  },
+  {
+   "outlet": "FT Global",
+   "title": "UAE official emerges as late contender to lead UN",
+   "url": "https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T18:32+00:00"
+  },
+  {
+   "outlet": "The Economist",
+   "title": "The late Perry Mehrling explained the hierarchy of money",
+   "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+   "search": false,
+   "published": "2026-10-20T18:32+00:00"
+  },
+  {
+   "outlet": "Reuters",
+   "title": "Salesforce deepens AI bets with $5.66 billion Braze deal",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
+   "search": true,
+   "published": "2026-10-20T18:16+00:00"
+  },
+  {
+   "outlet": "FT Global",
+   "title": "Who are the Black Bloc?",
+   "url": "https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T18:15+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "US to offer Putin face-to-face talks with Zelenskyy and Trump",
+   "url": "https://www.politico.eu/article/volodymyr-zelenskyy-vladimir-putin-donald-trump-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T18:13+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "China threatens retaliation if UK follows the EU on tariffs",
+   "url": "https://www.politico.eu/article/china-threatens-retaliation-if-u-k-follows-the-eu-on-tariffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T17:26+00:00"
+  },
+  {
+   "outlet": "Reuters",
+   "title": "Revolut says some services back online after outage",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmtxU0llU3JkYXhuYzZuM21hMGt6cUxxM1JWMWFPRWF1UzdGQzk4MlVhYnV1OTRKU0pOWFhTNmRqdzJZU3lzeXF5MWE1RWoweEVSam9rMG5pQUFnX05INkFZRHpVWnVWRUY3OEF0U0NTS2lPVkc5aUNYSFkxbXc5OHFMV1psOTg3LWM1ZC1obkdUZDFTbTVrSXIyblZicFZqNmVCTW1LNA?oc=5",
+   "search": true,
+   "published": "2026-10-20T17:21+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "Audit regulator takes control of inquiry into Man City accounts",
+   "url": "https://www.ft.com/content/eb8c6c38-3362-49cb-bfd6-4e164d82966d?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T17:21+00:00"
+  },
+  {
+   "outlet": "Expresso",
+   "title": "A riqueza das famílias portuguesas aumentou 67%: quem concentra este património?",
+   "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWl9DNFd3WEtDNWNxYXdiemZTRjNKdWlkdGxRdlN0Z1pxSlg5OXBlMTE2d0dHRDJndm9fZDRHMlFLTFpJcHFNZkRfMGVrQmFuYlRZTDEzT19IbkItdkhKODZrZXQ4c2gwTFpkZEdZZERRZWNUanFDNEhTaHJRODItM2dCMHRDWmlmSWdXTzhXRjJzQU5va2o3Y05Ia3B1dnlpenNFNjlDYmhTT0ZzSWoxSGlNRUdMRWoyRWJjeTFWUlRFNFl0V3ZLei1DUWVhTVhmeW8tQUxUc0VQQmU3S2dETlExM1dBNTY2R0drOU5vZkFqSVVOclA1RmRRcktTX3UybzVERkNhQXVMWFpGeW1EdjJCQW1nZkVVYmx5ZFpDeGtlZEhMX2gtNzRtQl9UdVZaWUpmeTlmTXFFMFh1Sl9BdWEyYlZTRW05RnNwZGhBZDhLVjh4ZkoyWHBETjJOa25reEQ1eXV1VWFMNmdUQm1fR0QwVjlCVEF1dTViR1M2WWgtaE94RFRSUlZQVmgxV1NhMHFIbks5UEFIV0lHcHAtalpNM1VWbUZSN0hFcFp4bEF3bkR6VWdKdVd1OC1lSUZGd0VDZTB5aW83cS02eDJUd1dFclFvSV9zQnNCTXVOdk1LSjBG?oc=5",
+   "search": true,
+   "published": "2026-10-20T17:20+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "title": "French presidential race largely unaffected by unrest, first post-riot poll shows",
+   "url": "https://www.politico.eu/article/first-post-riot-poll-shows-stable-french-presidential-voting-intentions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "search": false,
+   "published": "2026-10-20T17:07+00:00"
+  },
+  {
+   "outlet": "Expresso",
+   "title": "Trabalhadores da TAP acolhem bem a escolha da Lufthansa mas deixam alertas",
+   "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxORzdMdVlPVjRmN1Bva2loVVo3cFBPdl96TWJpLUpHUWR3MHBpOTVxY2pvbDVYQy0xY09VLUdHT1ZLMWpVZS01WDhZTGFxQWg0NEMzbWJXYUJsdldKMXl1QUlaNFMyQmRpMHNWem5TY0NtSGZtWGd3TXJCWW1EYVUtbE9rRnlWWmpSRXBJcFk4TkFjWktzN3MxcDg4WUtvdG41TC1rYlg0SHlVb2liVDU3eG9pQ25YN0J0bjBkaEc5ckV5MmRFT3RrVW1nQko3SDJWd3NxNC1KVzhYVWo3QVE1RjVVbmhHNkE5YzFVMEVjZms5UXkzZnFqTExOc1dDRjFTQjY4cVI5TTdJOE5RSVhSelBGZTVaOXVqdFpXOUVycWtybXQyUXMtcmdOdGZ4c0FOVXpLbXJMbHZhQXBqY1Fxb3drS2hqWDVmVEJ4ZG5UM0FOUDJpSmV4SWZjRDBSY09iSDJwWVR4SkZTWkVISE1md0ZmWW9BbkRkRkoxYmZGWVpYOGRCd2pPNzV2QVkwTGpfeG5HVkRQYVl2U0x3TGhJSVJEMnhiQzA?oc=5",
+   "search": true,
+   "published": "2026-10-20T17:04+00:00"
+  },
+  {
+   "outlet": "Banco de Portugal",
+   "title": "Perdeu o telemóvel? Banco de Portugal deixa um alerta",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmhjajY3VjBPSFlzQXNSMllQUWhSclhSNVpzSVhzc3JEaU94eVY4MEtCLTl3cGhSZFBGbVQ2UmlrbUMyTUY1X1ZxRy1UQVg4NmFhN0FGVFlJRXowMDJiUllsTE5wZndzaVRlUHhZdGpjTW9URUswMEVabnotdlJ4NjcwZ3FNTHNYb0p1RXNObw?oc=5",
+   "search": true,
+   "published": "2026-10-20T16:47+00:00"
+  },
+  {
+   "outlet": "Reuters",
+   "title": "French bond yields dip but remain near 24-year high in volatile trading",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNSV1VKT0t1WFIzSE9fT0Mzck9VVWRTWktvUTFOYXM5Q0w3NWZVWGEyWkROMl9FaGQ0Zk1pbU1WS3lwT1FaQkhxM2NsbEQ2cUtOY01RUi1TR3U0YVhPYlo1N2MwRG5IMzdKMjRqUmJLczAxOXJqSTgzRFMyNmZ2TFdIaldhUXRlN0daZmROMXY5SFBfakpTb3F3eWdqRW80MTl3?oc=5",
+   "search": true,
+   "published": "2026-10-20T16:25+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "Gilt market catches up with peers as investor worries over Budget ease",
+   "url": "https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T16:10+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "Lisboa fecha no vermelho sob pressão das cotadas da energia",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEIwNVhPZzg4aEtTQ2hFNG5zemFUWU9aNjBxZTh2NEhCZEQ0VU9BT0FqcE1tVFB1d1N2di10UkhjdHh0T2dWdjZ5MGZrY2xreFhyOVllTzl4NHRKZzJtOTB5cmxCck8yRWc3aGItVkhLREFNYWxKby1OV0QtdmE3bndOVlk2RmNFR0Z3alMtMll5MkJ2TUF1bnpJMDBveWxBelhMVU14VFFtMV9mSXZFUF9SR1PSAa8BQVVfeXFMTUFiajFSOFlrYk80YmRMTE1BSXktZ00zdjV6TC1TWlprYkRsZ25lSklia2drMFBYeVNTU3lmdU9UOVMxbkFub0ZaU2ExV2FSS0NfbDhMTHhKd280MlJOT3lxenJuaXh1bzBXN3JEeDdhYVh4ZG1oRVBZX25OWndfLUJTQkdOOFNhVUZFZ3BqMG4zWE5jR0NzbVVram1IM1J4VlM2aGZJUDNiSGFFY0JiOA?oc=5",
+   "search": true,
+   "published": "2026-10-20T16:07+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,67% - Investing.com Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakV6bVZDTkRmREZmZzdST2hjcm9VQzMydDg2X2xHMElOM0VXdEZRQ3pLa1ZOMUt6NEFiZXpDcW9HQ3hZWlFmWUFZYlYtcU1wTll0NlN5QzJHdVJTZ2dhZy1tcjVkdThmZXkyVWtqVkptakFPa3RZYzNXdHRlUDBrUUFDSWNDbVc2SHJSM2l6YlVmUDRmYXVzUVFEYTRsUkR3NXB5dW5uNjUtQmZ2Z1E3Q3IwRFdXcUFsazcwMWtDT1J1dw?oc=5",
+   "search": true,
+   "published": "2026-10-20T16:05+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "Vestel Offers 45% Haircut or Six-Year Extension on 2029 Bonds",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVRlSjFSYkZzNlB4N1c0WXhXamVXZjd5RFc3eGVJSjFfOFRJdDByNzg3Q0JuN0prcjhNLWVONml5QTNjZGVfeThwRm5NYTNaX3Iwa1p1dG85bVduSUxRME4xeGNVUHFmbXFVMXRtTkNibW5sV01nWUxvenUzN0dCMThURVpTY3VaYnNZeEt4OGZnbzUxaE16Q250Wm9NNEFIMUNib1U5SUhRWG9PdWdDSA?oc=5",
+   "search": true,
+   "published": "2026-10-20T15:58+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "JPMorgan Asset Sees Bitcoin Beating Stocks, But With a Catch",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVI1VFpGMEhGRzZsaTI1c1lmTDFScjNZaGxLT0tvZVJKeWpaeTZrbWdUampMVzNZemx4OUNKYUFUTFpDelBsdF9jaHVHSk5NTVMycDVEcDdVQW9pSkJBNzBvaEg3cmQ5T09iTGZ2dUhmU0J1S0Y0OHJ6a2QtTlE0eUtGUEt2Wk9Ub1pLcDRhY0pBVmhkTWZ0QWZac3hZZzF1U08zamVpZk41T1JDOUhn?oc=5",
+   "search": true,
+   "published": "2026-10-20T15:56+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "Bolsa de Lisboa fecha em queda em linha com as principais praças europeias",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0dJMTlnUlBpRzVITHBpZU40TUk2RGFmOWhjNXV1T21mU3JCR1NnckdkZWU5Z2taeTl4WXBxb3ZDWVNnTTY1UHBab2ZwbUR0WnNaVjRrNkQxTnhqcHV1WEtiR2lIZlJQWmRXaGtBTk1VZzdRa2pkNjJieU9wdEVDSXRKbmxqMWRmMlBJa2wxYVJqNWxBVnJibk04MmdXa0ZxWFRVbWpiaXpvREt3RURlcNIBsAFBVV95cUxQb0dJMTlnUlBpRzVITHBpZU40TUk2RGFmOWhjNXV1T21mU3JCR1NnckdkZWU5Z2taeTl4WXBxb3ZDWVNnTTY1UHBab2ZwbUR0WnNaVjRrNkQxTnhqcHV1WEtiR2lIZlJQWmRXaGtBTk1VZzdRa2pkNjJieU9wdEVDSXRKbmxqMWRmMlBJa2wxYVJqNWxBVnJibk04MmdXa0ZxWFRVbWpiaXpvREt3RURlcA?oc=5",
+   "search": true,
+   "published": "2026-10-20T15:26+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "PSI fecha em queda pressionado por perdas da Galp e Semapa. Europa a cair com IBEX a ser exceção",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVHhBSTY1cWN4MGVVdk41TC1Qb1NLTjdjTnVWMmxKcFhMMXF1UGRMRWZ5R283ZTJZY1A0UnVXMlhlaGpkeVQyRWUxWEZPbkVJV3RoZnJkWmZYaEVINFA2dFNibC1QNF90WEQtZFJmc29YYzg5QmFHY3FteEZGcXJQTkpaN2Z6c2QzN3Z0Vzh5REdWVi1ZeU1ONlhBeF9VMFF1NmU5VHQyczZ3VGpFMEZYWTc2OEkzQlVtT0pDSTIwM3hkcS1TMnYzUkY1Wl9jUmExY1JRR0JB?oc=5",
+   "search": true,
+   "published": "2026-10-20T15:23+00:00"
+  },
+  {
+   "outlet": "Expresso",
+   "title": "Combate à fraude: empresas vão poder confirmar números de telemóvel e trocas de cartão SIM nas redes da MEO, NOS e Vodafone",
+   "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOaU10QkVrem03QllGOG95VWFma1FhNy1FbzBZempBcGVTNzZhc2dycWNnbVFiTVFPSDBMcERLbXI3VGZrTHc2cTBLdlZPN0FKT2t4NjVuTTVpbmtyanBrNnFUZnptcW1EMWJEYU93Uzc2aGIwZ1c2LTI2Q19kVjZIZGw0SkNPY2RHbjZPRm9LUkoyVWFJS0Zzekp1dTFSUDVNam9RM0RJNGRPdWRiQ3E5Zmpjb0xXOVVrMnRzMzlqc0d2akZJbVdUN0FHaUlFUmY5dG1jeHRQTU9ORWQ5OXVlUGFsaHY2aUxRT2ZIeldHSDBZV0tfcjZEN1M0djE4WjlPM1JVUDg1ekdScjc4dzlkdVlFak5UTk1faWVJbjlqenNjSGhqb284VFFYMzNYWU9YQnlrYmlzWG0xUzI0MldYWmo2bGZ0TGpaMWFiMmJZXzdMZnctb0oyOXE1ZXp6WWVmSFNUd1MzRzR3MHdPemRsZWpqcXlxcnEwV0d5Zng1Q0lMUkRVR2ZiSFk5WURFX1Zfb05KRmtqemozT1RrU0NVdllrTW9MdWdZZWZ6Z1RVVEx3ellGQTZiN0tzWGI5amdqV0lEUUlMYUxiZVFKTkdVNFd6bm1NQmJLb2FhRUgtSTVXd011dTZ3TEhHMTBTWVRqYklEUHR2UmlLcFpkTEY4LTNsM1pxYU1ULVVIMWNNODVnbkhfWWdDcTVzb3FVNDJsTHNRYVdlRkJPMG9zTVFISDlJTmJ0OG9xNkd4ZS1vX3hOcU9rQklqblV0bWtmcXpOTHNF?oc=5",
+   "search": true,
+   "published": "2026-10-20T15:06+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "France to deploy military as it braces for fresh unrest this weekend",
+   "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+   "search": false,
+   "published": "2026-10-20T15:01+00:00"
+  },
+  {
+   "outlet": "WSJ",
+   "title": "Kroger Targets Earnings Growth, Operations Overhaul in New Three-Year Plan",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWG1nbmRMc2hiR1NOSmNmVTRDbWJ2d0x2RUcyaWV4TF9KcEMtMmJvSlpRcTZpTE5mZW1jQ24xa2o2YVBjSTEzUmloZVBPOTh4cUhPYTF1ZnMxdmNFQl9kQ1Z0M2pLV1JmdWZYRDR0eFlfSjhZSk1mVDNaejdZZVd5NTNhYzZiSG9UTUZHZUNONGpuTXVsVmtNT3BWdFVseHpVUHBDZ0Q0RFNRTmNGWEpmQ3FsZ0hBaGIzVEE?oc=5",
+   "search": true,
+   "published": "2026-10-20T14:19+00:00"
+  },
+  {
+   "outlet": "Banco de Portugal",
+   "title": "Economia portuguesa deverá crescer 2,3% em 2026, prevê Banco de Portugal",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkplLWdMV2VrZlhLZW83TndCTWFfTnZONm52amxjNFhGQUptNTJQX0hjSVRMLTREZFpGUXNVVHRKTVpBc2lxQmZxNHFjWDFXZkhlcXdvU1Nha2l4cU81NF8zTW5QbFl1QUo0anZMMS1xVS1HVl9XSXU0Wk8zMml2MTV6RGxYOW5aenRWRk84dlRkMWVhUTVlaVU2X1RDVW5VYUZBV1ZpSlJ6OEwwNFE?oc=5",
+   "search": true,
+   "published": "2026-10-20T12:54+00:00"
+  },
+  {
+   "outlet": "Expresso",
+   "title": "Falhas na Google Cloud afetam vários serviços na internet, incluindo Revolut",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUdIU3dlcy1abXBOak1NazFVYkJYdHZQbFcxeFJTQ2dYbXJhbm1qRUR1U0s5blY5LUNFekFCUUVSY2pZemNSRk9wRnBEeTM4TXBrTGFRZjdXaTlWdWZzYmhBRlRvVWFHdWtrQnlNb1ZOOVlkWWxrelJFcGxJTHNPOUU0czBPQk5jWk1pem1CYW11NGhUeGZPdEZSOURMNWlkTWdVdk53YWVmeVhHS09sR1R2aC1wdmQta3E5dWpScFBmZw?oc=5",
+   "search": true,
+   "published": "2026-10-20T12:11+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "Is CoreWeave the Silicon Valley Bank of 2026?",
+   "url": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159",
+   "search": false,
+   "published": "2026-10-20T11:50+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "Do not worry too much about European gas prices",
+   "url": "https://www.ft.com/content/31df1d21-159c-4c24-be0a-566c00c2d100?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T11:30+00:00"
+  },
+  {
+   "outlet": "FT",
+   "title": "How the Hormuz crisis could trigger a global ‘food shock’",
+   "url": "https://www.ft.com/content/52fab4c1-0561-43ce-bc3c-0d43f6e217c5?syn-25a6b1a6=1",
+   "search": false,
+   "published": "2026-10-20T11:00+00:00"
   },
   {
    "outlet": "Reuters Morning Bid",
-   "title": "Morning Bid: Markets left to figure out sanctions",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmM3WjlzRW1PMnJOdmJxeW5CdDFRUk9GQ1RRYnZfN3dORjBLWVNtZkxjZURoT0QtOFkzeDJHakVTdllrcUxJbHFDVEhLR2k2c1IwRVJYVXZobXdIdVlnVGNpTFkxZHk4bFdoZ3RibFJSLVBNVUhxY2VrM084S3c3eXpNcG85UUtfTkZfWA?oc=5",
+   "title": "Morning Bid: Rain from the neocloud",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nczlKZVJkamhtRkRYTWxRNHlmc2lkenhlVHZkT1dOakZjbWIyQm93U2xWWWFFN0pueWNQbGhSM0FhbU1GNmZoRkhYemJsSDcxbHZtR1BXdTFfU1IyaEQtQnJEc055UkJmS3J2UmV5MmRoNkFH?oc=5",
    "search": true,
-   "published": "2026-10-19T07:34+00:00"
+   "published": "2026-10-20T10:51+00:00"
+  },
+  {
+   "outlet": "Reuters Morning Bid",
+   "title": "MORNING BID AMERICAS-Rain from the neocloud",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVQ4YU00S3FRNTRZb3JaTmhBVm9iWG9BVVk2bUtyNVJOV0tSX0QzVDA3cUtMZGpvNUhuY2ZrbnpSY3hjRk9VbUVKU0c5T0xJODgxbndteDRMOVl4U25rbGRUQUdSdFZieHJ1bEEzZmVGcWY3Yjh2SDNQUi04QzBjcGtnWFczbnpHV0hTSGIyUUhYT0wyUlpwSmpUdDk?oc=5",
+   "search": true,
+   "published": "2026-10-20T10:44+00:00"
   },
   {
    "outlet": "Expresso",
-   "title": "Dos salários da função pública à hotelaria: o que marca esta segunda-feira",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOG8xWjdRSlg3ZjUyRnlqek1nbUR3TS1vZGg0Ykg4TUVxNlhOWlppZEpYMEtyM1ZCcHlCRTMySHZfZkxUSXdsQVFGbW5CTHhMdnhZRFVobmw4N2U5RWF5My0ydnZiWGRzOUNxcXBWclcwVVh5VHVadzcxb1VQZmNMYXJfekJuN3E4MnViQ255QVpXY0ZSUURDaEpzOW55T1BocEY4b2xlUkV3NWpEOHFoUXItTDNscUhLMGlIUGhKVEUyZWJYbm5EcHozY2ZwU2szSEUxemg2X3BjSGM?oc=5",
+   "title": "Comissão Europeia dá 'luz verde' a compra do grupo da FNAC por empresa checa",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYmItVEc1SkNMRkpwMlJZemNFbG5va2VadTRxLTJqZC1jbDdCWmM5S3dac2Q4Nml4UTNEOTFqa21FN1pTRWI5anppR0xRU3RWaXVuR0h1NmhmajRSZldQY05VbVFJTXdxZWdKREpxbXJnekI0ZEtiazZZeGl3QkMxT1FEV2Z1RkdpSlJMV0x1d3EyNmhCRGNRdHE3cmVyeHhYMGRTT053WjlIbm9lZndOeDF6OFA5b3daQlRSLXR2NWoyZjFvaUNXRHI3OUdJZjVJLVE?oc=5",
    "search": true,
-   "published": "2026-10-19T06:46+00:00"
+   "published": "2026-10-20T10:36+00:00"
+  },
+  {
+   "outlet": "Reuters",
+   "title": "Sterling rises as strong labour market data reinforces rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVc2VlJwWldpcmYtQ0FXa2JtemMzSXJtTTM4T01kRl9sTmNTUDk4Sldrc0xONWZEY0ZQcVlWYjhwWjg3Ql9KQWJxQ0psYXlhTXhiZEVvVmVyOE5sSVAyc19JY084LVhLWjNCN3dzV2pPd0RnN3paMTlxdEhYdGl1WmNoWW9BUlRoMTZRMlE3YnM5RkNfYVlULXZydkhFVUt1d1RTUjNwV0JxbHdTTVVkSQ?oc=5",
+   "search": true,
+   "published": "2026-10-20T10:31+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "Private Credit Firm Tikehau Is Said to Seek Strategic Investor",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXNCdU9INE80QTh4UFhjNjJ0cWNnZktBYUw0RUpSYjVIek52dll6SGpRSDRfZjBweWZnQThYbGx1ZndsY1hJSVhMTnhKMVJpYkVUbUNWeHNwcUQ1N1EtRE5lUnM3dlVsbjMzVDVNMHdKX3ctam1tOUZrUy1tMnhwcDgxaW1oaU5xWDFSSW8tWTZzYVZOMlRBY2wxS19VVW13WG5UYWZWS3hjSzIzRmNSQjc3Zw?oc=5",
+   "search": true,
+   "published": "2026-10-20T10:16+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "PSI contraria Europa e regista ganhos a meio da sessão",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTZBdWZoaWJYTzJObzBEaG9SYmxYS0V6ZmJjNm9aUUFNNVdXQkN2RmNWRlp6dGNTVHkzZG5VNFExelA4MHlDdDYyWnIyZVpsOGFoWFJsNlYwTExZU2s1V0dCRWZrd3o2b1VxUnVZazgwYkRwaGE3N0Qwb2ZRdGNJSEVLaTg0SmxmeDBTaEhCN0FtZzRjbWtuWDQ5Z0c?oc=5",
+   "search": true,
+   "published": "2026-10-20T10:16+00:00"
+  },
+  {
+   "outlet": "Bloomberg",
+   "title": "CoreWeave’s Bond Rout Should Make the Fed Cautious",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjFnVTgwSHVqSHFzTS1uWmpTdDMxWGpBaDVneE5JVXJkOW1OUXU0aDdjLWJXRkNYbUFFTno5ZXZ2WktKUWZLaVVROTFwQ3Y2SzVkRWhsOEs0UDlGei0tclJjWWRvSU1vdlEzWEFjTnNMZTdhY2tfcUhuS2FET1VMSzE2Y0ZaelYzU09SS0tra1BERk1xMm50YXN3WkVNUXhBYW1hRDZVaw?oc=5",
+   "search": true,
+   "published": "2026-10-20T10:00+00:00"
+  },
+  {
+   "outlet": "Expresso",
+   "title": "Em Portugal, os 10% mais ricos concentram 59% da riqueza",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnVwTnJOV3ktTnJhLVc4NEJ0dXpNMTFLLVBwVFA1Vm1kZjNXSTR2YTBxNXczOVZObzIyOHRNdjVtZmZGZWVCbG5rVEpPck8xZ1JFR1ZHTVdKV0FNME9IVVAyWnVOTXdDWEpIOXg0blMxcEdUWDZWQmdiUWpqWjg0NTdBU1ROTnRlQ0lYZEZJVThHcHVBWW84R1A3c0ZQT0xHbVRlMUtB?oc=5",
+   "search": true,
+   "published": "2026-10-20T10:00+00:00"
+  },
+  {
+   "outlet": "WSJ",
+   "title": "Yes, the Fed Can Kill the AI Boom",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5tcWhGWmV0bXc2ak9ETmVQdC1QTmM3Mmx0SEt6TkhrN0w3WVY2TDZ4MzlOcnZFWDdkeDFyWmNCdUpIRERqUnFJWFptcFNLUTlkNFI5eHNhenA1SjZteHhodWNDLWZPMmt3TFBvZGxPbkhwQmRZYm5ma1pDMnB2aXlweHBSdw?oc=5",
+   "search": true,
+   "published": "2026-10-20T09:58+00:00"
+  },
+  {
+   "outlet": "WSJ",
+   "title": "How to Play the Retreat in Defense Stocks",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQW9VanZQVElrZ2hITDludDNvMHVXT0ozaENSc2hXcjhGVm9VWW5nb2tlWkZPdTl5TkdHMzZ4bHJqV3FITFJ5VVRGU1gweWxXS0IzQkNSUkk4Y2xJNXVod202MHUyMkRzUFZKTlR4NkMzZDJDWURITUFfeHMwekpvazl3cHVQa0s4Y3dwWFQxelRhdw?oc=5",
+   "search": true,
+   "published": "2026-10-20T09:30+00:00"
+  },
+  {
+   "outlet": "PSI e cotadas PT",
+   "title": "PSI estabilizado com Sonae a subir quase 1% e Semapa a descer 0,90%",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWF83ZEtrRExRRklfU3VScFpsZ3Yzc0owNUZuUG8xUGhVenZtZHNyUS0tZU1VS002VnlfSW1pTF9keWwxT1Y0RXNZa0dpeVRIN1JZdWF1clBaZllzanVwLUZlQ3BBb3V0dFFCQlM1el93SnFLSUNIZndXSWRFTlhUelYzUnFWVm1GTGo3SUlfcG5lMEwweXR4Wk5VWDNVTVlETEdRbkVtU2kyT19QY3owUEE2aW9NZw?oc=5",
+   "search": true,
+   "published": "2026-10-20T09:12+00:00"
+  },
+  {
+   "outlet": "CNBC",
+   "title": "What’s making Europe so angry? The frustration behind the protests",
+   "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+   "search": false,
+   "published": "2026-10-20T07:19+00:00"
   },
   {
    "outlet": "BCE",
-   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+   "title": "Frank Elderson: Interview with Die Presse",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
    "search": false,
-   "published": "2026-10-19T06:00+00:00"
+   "published": "2026-10-20T07:00+00:00"
   },
   {
    "outlet": "Expresso",
-   "title": "Receitas do Estado com a venda de ouro apreendido quadruplicam em dois anos",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUE9Ed2ZMMG1EemVWa1pKSWc2c3NDdG04Mkt5SEY2TVdGUXBYTld2SHlIN2dTVXBqR3hjWnB2N1ZTakZadE9MWHhJU2swcmZLN2N0ZmhLeVFCNDdLNDc5SV9ZVGZ0ZDhONWp6QTFHTno5UGRjcEhkcU9ra3BUeHZoTEFPcWtONGJaYS1ZYVZqX2ZfZnNjWE5IZ1NBZU5YblB0VzlYY194aUg0ODYzNE9aSDd2eS1CMzYzUjY5X0xIMlpUQQ?oc=5",
+   "title": "Dos erros nas pensões às contas da Netflix, saiba o que marca a agenda esta terça-feira",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQUlEWHQ0TmtSalBWOEQ3bGM0SG9TWE1IeUpLejJyQm9TSTBGU2VXZnF3OFdnVG5jb1pDcFVJNzI4NVlFMEVDQXU4dTFFalk3MTJDUFplWFcxVlhnYUdiNDZpQm5zbjhvenkxVngxaG1yV09sbnlFeUdIaldtRDM3SUZjQzJMRVE2eHJxZ2x5Ql9pNlhNemd4TTcwa2VhZndwUS1weDZEc1lKekxxRjNLbUtYQk9WMlRJU2JlZFFhTVBrbXNhWEQyNy1acUtxQ3hQazNvN0dkcFlOUHBWVjU4MVEwa1hTcVhRZ0NGQQ?oc=5",
    "search": true,
-   "published": "2026-10-19T06:00+00:00"
+   "published": "2026-10-20T06:34+00:00"
+  },
+  {
+   "outlet": "Reuters Morning Bid",
+   "title": "Morning Bid: Korean canary in the AI coalmine - KELO-AM",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcWhfYTJpb25QeWdPa2VtZ2RpZC0zVDNGYkt0OVpHUkllMVY0SUpCTzV3ZkxlZXpoUy1GTVZDU1UwdzVBWG83V3B2UUFCV25hYmZrd2VwaXg4LXR1REh6MTBodWdLU1p6RlJkZ3drS3FBZXJvVWpwMGdOV1c0UQ?oc=5",
+   "search": true,
+   "published": "2026-10-20T05:46+00:00"
   }
  ],
  "failed": [],
