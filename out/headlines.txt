@@ -1,130 +1,140 @@
-Headlines · janela 48h até 24/10 06:41 (Lisboa) · 134 títulos
+Headlines · janela 48h até 25/10 06:41 (Lisboa) · 119 títulos
 
-PSI e cotadas PT
-        06:00  BCP adquire quase 13 milhões de ações em mais uma semana de programa de recompra
-  23/10 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 0,07% - Investing.com Brasil
-  23/10 16:57  Lisboa fecha com ganhos ligeiros em dia misto na Europa. Galp soma mais de 3%
-  22/10 21:12  Sonangol admite estar disponível para reforçar a sua posição no BCP caso a Fosun se queira desfazer do seu capital no banco
-  22/10 16:47  Bolsas da Europa caem "à grande e à francesa". PSI fechou a cair com BCP a liderar perdas
-  22/10 15:25  ALDI lança mini compressor recarregável: mas há um mais barato na Amazon por 23,99 €
-  22/10 15:00  SONANGOL ADMITE REFORÇAR POSIÇÃO NO MILLENNIUMBCP
-  22/10 10:09  PSI em baixa com BCP a descer quase 2%
+Politico Europe
+        05:48  Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister  https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-bringen-frankreichs-proteste-marine-le-pen-an-die-macht-mit-martina-meister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/10 12:41  Tensions flare up across France as marches come to an end  https://www.politico.eu/article/france-police-deploy-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/10 11:09  Starlink connection restored at high speed in Ukraine, defense minister says  https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/10 04:00  Ein Spaziergang mit Martin Blessing  https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-martin-blessing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/10 03:00  Inside the cyber flaw scramble that brought the AI threat to life  https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  24/10 03:00  What’s not on the ballot in Israel: Peace  https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  23/10 20:41  EU and China weigh next sectors for trade curbs  https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  23/10 14:31  Ukraine and Russia each exchange 270 prisoners of war  https://www.politico.eu/article/ukraine-russia-exchange-270-prisoners-war-zelenskyy-putin-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  23/10 13:06  French prosecutors open hate crime probe after deadly drive-by shooting  https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  23/10 12:37  EU prosecutor probes EPP over consultant contracts  https://www.politico.eu/article/eu-prosecutor-probes-epp-consultant-contracts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 FT
-        05:00  A little bit of luck is lifting UK Budget expectations  https://www.ft.com/content/6a059ab0-a9fc-4e4c-8ae7-1d110faf5adf
-        05:00  ‘Disrupter’ exchanges battle for ETFs in challenge to NYSE and Nasdaq  https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1
-        01:22  US executives quit $25bn gas venture over claims of secret Russian control  https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1
+        05:00  Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses  https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1
+        05:00  The Black Sea is now the world’s deadliest shipping route  https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1
+  24/10 10:30  French government and corporate bond yields are converging  https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222?syn-25a6b1a6=1
+  24/10 05:00  A little bit of luck is lifting UK Budget expectations  https://www.ft.com/content/6a059ab0-a9fc-4e4c-8ae7-1d110faf5adf
+  24/10 05:00  ‘Disrupter’ exchanges battle for ETFs in challenge to NYSE and Nasdaq  https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1
+  24/10 01:22  US executives quit $25bn gas venture over claims of secret Russian control  https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1
   23/10 23:28  France avoids downgrade from Moody’s in boost for Macron’s government  https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1
   23/10 21:13  Oil hits $117 for first time since April on fears of flare-up in Iran hostilities  https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
   23/10 21:00  Lunch break under threat as Hong Kong looks at longer trading day  https://www.ft.com/content/bc13b5f1-387e-4fae-927e-d96ac24ea645?syn-25a6b1a6=1
   23/10 18:00  The ledger problem  https://www.ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83
   23/10 18:00  Stockpickers: Aberdeen, ITM Power, Tristel  https://www.ft.com/content/2aeaf5c1-1fc2-45ae-a6dd-0634384ae9d7
   23/10 15:37  Gold drops below $4,000 as ‘haven’ asset joins market sell-off  https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1
-  23/10 13:02  KKR founders back Valencia in deal valuing football club at €1.25bn  https://www.ft.com/content/f75c25c2-4164-4dfc-9d56-fc6a86704c47?syn-25a6b1a6=1
-  23/10 12:01  What the coming copper crunch means for the global economy  https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6=1
-  23/10 10:04  Anthropic strikes deal to launch European consultancy  https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1
 
 FT Global
-        05:00  Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?  https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1
-        05:00  France is in revolt. But the real storm is yet to come  https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb
-        05:00  The young are conformists in denial  https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1
-        05:00  Pegasus spyware founder urges governments to trust his tech and ditch US AI  https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1
-        03:47  Intelligence memo warns Iran plotting to kill Americans in Middle East  https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1
-        00:06  Trump moves to block certification of Alaska Senate election if Republican loses  https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1
-  23/10 23:29  Trump to cut Canadian tariffs after pressure from Republicans  https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1
-  23/10 22:11  Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky  https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1
-  23/10 20:14  Ukraine says Starlink speeds still throttled  https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1
-
-Politico Europe
-        04:00  Ein Spaziergang mit Martin Blessing  https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-martin-blessing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Inside the cyber flaw scramble that brought the AI threat to life  https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  What’s not on the ballot in Israel: Peace  https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 14:31  Ukraine and Russia each exchange 270 prisoners of war  https://www.politico.eu/article/ukraine-russia-exchange-270-prisoners-war-zelenskyy-putin-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 13:06  French prosecutors open hate crime probe after deadly drive-by shooting  https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 12:37  EU prosecutor probes EPP over consultant contracts  https://www.politico.eu/article/eu-prosecutor-probes-epp-consultant-contracts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 12:34  Drone hits another ship in Black Sea near Romania, killing at least 1 sailor  https://www.politico.eu/article/drone-hits-another-ship-in-black-sea-near-romania-killing-at-least-one-sailor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 11:53  Top ICC official urges EU to act ‘as soon as possible’ on US sanctions  https://www.politico.eu/article/icc-top-official-urges-eu-reassert-sovereignty-as-soon-as-possible/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 11:02  Feijóo vows conservative overhaul if he wins Spain’s Nov. 29 election  https://www.politico.eu/article/alberto-nunez-feijoo-vows-sweeping-conservative-overhaul-if-he-wins-spains-nov-29-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  23/10 09:09  Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits  https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-WSJ
-        03:35  Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink
-  23/10 22:10  Stocks Pulled in Two Directions, Fall to End Volatile Week
-  23/10 21:34  U.S. Stocks Fall as Oil Prices Hit Five-Month High
-  23/10 21:19  Stock Selloff Continues as Oil Surges
-  23/10 20:21  Live Q&A: Ask Us Your Questions About Midterms and the Economy
-  23/10 17:23  Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus
-  23/10 16:44  American Express to Cut 5% of Global Workforce
-  22/10 21:26  Tech Stocks Fall on AI Concerns
-
-CMVM
-        03:00  CMVM aplicou 347 mil euros em coimas no terceiro trimestre
+        05:00  Luxury groups’ value drops by €250bn as Chinese consumer demand fades  https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1
+        05:00  Bolsonaro and Lula face off in knife-edge Brazil election  https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1
+        05:00  The right’s obsession with ‘civil war’ in Britain  https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1
+        05:00  More than 1mn antiquities returned to countries of origin  https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1
+        01:00  Why 17 is not the magic number in industrial policy  https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1
+  24/10 22:30  Ukraine military says Starlink service restrictions have been lifted  https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8
 
 CNBC
-        02:57  Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO  https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html
-  23/10 23:49  Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields  https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html
+        02:17  Trump announces Audi will build $4 billion U.S. factory in Georgia  https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html
+  24/10 22:28  Trump casts his midterm election ballot early in Florida  https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html
+  24/10 21:38  After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement  https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html
+  24/10 20:57  Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification  https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html
+  24/10 16:18  Why popular airplanes are getting scrapped years early  https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html
+  24/10 16:00  Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager  https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html
+  24/10 15:30  Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer  https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html
+  24/10 12:00  Nvidia's role as AI financier faces first big test as neoclouds take market hit  https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html
+  24/10 11:59  Trump is pushing a massive AI buildout. His own voters are wary of what comes with it  https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html
+  24/10 11:58  America by the numbers: How voters feel about the economy, inflation, AI and Trump  https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html
+  24/10 07:23  What next for France as riots rattle markets? Three questions facing investors ahead of more protests  https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html
   23/10 23:27  Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers  https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html
-  23/10 22:31  All-America Economic Survey  https://www.cnbc.com/all-america-economic-survey/
-  23/10 22:26  Trump dropping some Canada tariffs but 'replacing' them with other products  https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html
-  23/10 21:52  In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE  https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html
-  23/10 21:16  Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors  https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html
-  23/10 21:06  Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch  https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html
-  23/10 20:50  Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising  https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html
-  23/10 20:25  Meta shares are down 9% this week. Here's why Mike Khouw is buying now  https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html
-  23/10 20:07  Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top  https://www.cnbc.com/2026/10/23/apple-nvidia-market-cap-earnings.html
-  23/10 17:55  AI's 'Black October': Critical PHP flaws set off global security scramble  https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html
 
-Expresso
-        01:27  Indústria europeia de componentes automóveis perdeu quase 19 mil empregos no primeiro semestre
-  23/10 17:34  Abel Mateus defende que o Estado não pode renovar licenças de telecomunicações com objetivo de maximizar receitas e critica relatório Draghi
-  23/10 16:33  Digi admite sair de Portugal se não tiver condições para concorrer e apela a Anacom que reconsidere prorrogação automática das licenças
-  23/10 09:25  Novas regras de preços dos táxis entram em vigor, mas taxímetros podem ser adaptados até 2027
-  23/10 07:32  Ministro das Finanças vai ao Parlamento responder aos deputados sobre OE, e é sexta-feira, dia de nova edição do Expresso
-  22/10 22:57  Vizelpas, a fábrica que precisou de uma máquina demasiado cara conseguiu vingar
-  22/10 22:57  Fundos europeus, transportes e telecomunicações nos Altos e Baixos da Economia
-  22/10 14:00  Trocar Lisboa ou o Porto pelos arredores pode gerar 'poupança' de €900 por mês nas despesas com a habitação
-
-Reuters
-        00:46  Wall Street closes lower to end rocky week
-  23/10 20:54  After previous day's slump, trading is quieter among AI shares
-  23/10 14:34  PODCAST: The AI reset
-  23/10 11:02  GLP-1 boom in China, India, Brazil could create $22 bln market by 2035, J.P. Morgan says
-  23/10 10:16  Hedge fund returns worsen this week as tech selloff deepens
-  23/10 07:28  Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids
-  23/10 05:31  Morning Bid: Wake up! The long bond's up two points!
-  23/10 02:50  Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months
-
-Jornal de Negócios
-  23/10 22:57  Carneiro justifica viabilização do OE2027 com crises em Portugal e no estrangeiro  https://www.jornaldenegocios.pt/economia/detalhe/carneiro-justifica-viabilizacao-do-oe2027-com-crises-em-portugal-e-no-estrangeiro
-  23/10 22:28  Apesar da instabilidade social e política, Moody's segura rating de França  https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/apesar-da-instabilidade-social-e-politica-moody-s-segura-rating-de-franca
-  23/10 21:47  Após queda em bolsa, Moderna e Merck vão revelar eficácia da sua vacina contra o cancro  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/apos-queda-em-bolsa-moderna-e-merck-vao-revelar-eficacia-da-sua-vacina-contra-o-cancro
-  23/10 21:16  Wall Street termina semana no vermelho. Fatura da IA e petróleo em alta pressionam índices  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/fatura-da-ia-e-petroleo-em-alta-pressionam-wall-street
-  23/10 20:47  BCP já recomprou quase 330 milhões de euros em ações próprias. Detém mais de 2% do capital  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bcp-ja-recomprou-quase-330-milhoes-de-euros-em-acoes-proprias-detem-mais-de-2-do-capital
-  23/10 19:50  Boavista pede adiamento de um mês do encerramento com apoio de credores  https://www.jornaldenegocios.pt/empresas/detalhe/boavista-pede-adiamento-de-um-mes-do-encerramento-com-apoio-de-credores
-  23/10 18:57  Donos de ilha privada na Ria de Aveiro rejeitam única oferta. Volta a leilão por 690 mil euros  https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/donos-de-ilha-privada-na-ria-de-aveiro-rejeitam-unica-oferta-volta-a-leilao-por-690-mil-euros
-  23/10 18:26  Ministério Público abre inquérito a intervenção policial no Porto  https://www.jornaldenegocios.pt/economia/detalhe/ministerio-publico-abre-inquerito-a-intervencao-policial-no-porto
-  23/10 18:20  Europa em terreno misto com resultados preocupantes e tensões geopolíticas  https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/reviravolta-nas-tecnologicas-deixa-asia-dividida-europa-aponta-para-ganhos
-  23/10 17:26  Alentejo apresenta garrafa de vinho mais leve para reduzir custos e emissões  https://www.jornaldenegocios.pt/empresas/detalhe/alentejo-apresenta-garrafa-de-vinho-mais-leve-para-reduzir-custos-e-emissoes
-  23/10 17:20  Zelensky confirma realização de negociações trilaterais com os EUA e a Rússia em Abu Dhabi  https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/zelensky-confirma-realizacao-de-negociacoes-trilaterais-com-os-eua-e-a-russia-em-abu-dhabi
-  23/10 17:17  Pinto Luz considera "suficientes" esclarecimentos do presidente do IHRU sobre declarações polémicas  https://www.jornaldenegocios.pt/economia/detalhe/pinto-luz-considera-suficientes-esclarecimentos-do-presidente-do-ihru-sobre-declaracoes-polemicas
+PSI e cotadas PT
+        02:00  POLÍCIA ACABA COM ACAMPADAS EM LISBOA E PORTO (VÍDEO)
+  24/10 18:00  Usas o Waze todos os dias, mas provavelmente tens estas 3 definições ativadas (e não devias)
+  24/10 09:00  BCP adquire quase 13 milhões de ações em mais uma semana de programa de recompra
+  23/10 20:47  BCP já recomprou quase 330 milhões de euros em ações próprias. Detém mais de 2% do capital
+  23/10 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 0,07% - Investing.com Brasil
+  23/10 16:49  Recolhiam dinheiro num banco em Lisboa quando carrinha de valores foi assaltada. Mala com 30 mil euros foi levada
+  23/10 09:55  PSI em alta com EDP Renováveis e Galp a subirem mais de 2%
+  23/10 08:41  A fusão da Tesla e SpaceX e os resultados do PSI
 
 ECO
-  23/10 22:13  Moody’s mantém rating de França e acredita que Orçamento para 2027 será aprovado  https://eco.sapo.pt/2026/10/23/moodys-mantem-rating-de-franca-e-acredita-que-orcamento-para-2027-sera-aprovado/
-  23/10 21:27  Macron afirma que “atentado terrorista racista” representa “ponto de viragem” em França  https://eco.sapo.pt/2026/10/23/macron-afirma-que-atentado-terrorista-racista-representa-ponto-de-viragem-em-franca/
-  23/10 20:27  Esta é a chave do Euromilhões. Jackpot é de 71 milhões de euros  https://eco.sapo.pt/2026/10/23/esta-e-a-chave-do-euromilhoes-jackpot-e-de-71-milhoes-de-euros-2/
-  23/10 20:13  Menzies vence concurso para handling nos aeroportos de Lisboa, Porto e Faro  https://eco.sapo.pt/2026/10/23/menzies-vence-concurso-para-handling-nos-aeroportos-de-lisboa-porto-e-faro/
-  23/10 20:07  ProPública alerta que lei pode ser insuficiente para proteger Sines no negócio Galp/Moeve  https://eco.sapo.pt/2026/10/23/propublica-alerta-que-lei-pode-ser-insuficiente-para-proteger-sines-no-negocio-galp-moeve/
-  23/10 19:59  Obra de Monet leiloada por valor recorde em França  https://eco.sapo.pt/2026/10/23/obra-de-monet-leiloada-por-valor-recorde-em-franca/
-  23/10 19:27  Segurança Interna acompanha atentamente apelos jihadistas para ataques em protestos  https://eco.sapo.pt/2026/10/23/seguranca-interna-acompanha-atentamente-apelos-jihadistas-para-ataques-em-protestos/
-  23/10 18:51  Chega quer investigar obras, bitcoins e 200 armas desaparecidas nos mandatos de Luís Neves na PJ  https://eco.sapo.pt/2026/10/23/chega-quer-investigar-obras-bitcoins-e-200-armas-desaparecidas-nos-mandatos-de-luis-neves-na-pj/
-  23/10 18:25  Os números que precisa de saber para debater sobre a habitação  https://eco.sapo.pt/2026/10/23/os-numeros-que-precisa-de-saber-para-debater-habitacao/
-  23/10 18:21  Meta adia entrada dos novos termos comerciais após criticas de editores  https://eco.sapo.pt/2026/10/23/meta-adia-entrada-dos-novos-termos-comerciais-apos-criticas-de-editores/
-  23/10 18:17  Há 31.792 casas concluídas no PRR. Só 12 mil são novas  https://eco.sapo.pt/2026/10/23/ha-31-792-casas-concluidas-no-prr-so-12-mil-sao-novas/
-  23/10 17:46  Líder do PP admite governo espanhol com extrema-direita  https://eco.sapo.pt/2026/10/23/lider-do-pp-admite-governo-espanhol-com-extrema-direita/
+  24/10 23:32  Acampada de Lisboa contabiliza 130 tendas no Rossio  https://eco.sapo.pt/2026/10/24/acampada-de-lisboa-contabiliza-130-tendas-no-rossio/
+  24/10 18:49  Georgia Meloni assinou plano com Kuwait que permite manter preços combustíveis na Q8  https://eco.sapo.pt/2026/10/24/georgia-meloni-assinou-plano-com-kuwait-que-permite-manter-precos-combustiveis-na-q8/
+  24/10 18:32  “Maior risco das eleições no Brasil para as empresas é alteração frequente das regras do jogo”  https://eco.sapo.pt/entrevista/maior-risco-das-eleicoes-no-brasil-para-as-empresas-e-alteracao-frequente-das-regras-do-jogo/
+  24/10 18:24  Milhares em Lisboa e Porto protestam contra o custo da habitação  https://eco.sapo.pt/2026/10/24/milhares-em-lisboa-e-porto-protestam-contra-o-custo-da-habitacao/
+  24/10 17:46  Mais de cem mil pessoas manifestam-se em Paris  https://eco.sapo.pt/2026/10/24/mais-de-cem-mil-pessoas-manifestam-se-em-paris/
+  24/10 17:27  Preço das casas em Lisboa e Cascais acima de 5.000 euros/m2  https://eco.sapo.pt/2026/10/24/preco-das-casas-em-lisboa-e-cascais-acima-de-5-000-euros-m2/
+  24/10 17:21  Infantino garante ter um largo apoio das federações nacionais para continuar presidente da FIFA  https://eco.sapo.pt/2026/10/24/infantino-garante-ter-um-largo-apoio-das-federacoes-nacionais-para-continuar-presidente-da-fifa/
+  24/10 16:06  Centenas de pessoas já se concentram em Lisboa para exigir habitação digna  https://eco.sapo.pt/2026/10/24/centenas-de-pessoas-ja-se-concentram-em-lisboa-para-exigir-habitacao-digna/
+  24/10 15:51  Ministro da Administração Interna recusa “braço de ferro” com manifestantes  https://eco.sapo.pt/2026/10/24/ministro-da-administracao-interna-recusa-braco-de-ferro-com-manifestantes/
+  24/10 15:24  Entre a habitação e a manifestação, Governo passou “uma mensagem contraditória”  https://eco.sapo.pt/2026/10/24/entre-a-habitacao-e-a-manifestacao-governo-passou-uma-mensagem-contraditoria/
+  24/10 15:19  📹Dica ECO dos Fundos: como funciona o PME Digital+  https://eco.sapo.pt/2026/10/24/dica-eco-dos-fundos-como-funciona-o-pme-digital/
+  24/10 15:17  Coletes amarelos franceses convocam novos protestos para próximo sábado  https://eco.sapo.pt/2026/10/24/coletes-amarelos-franceses-convocam-novos-protestos-para-proximo-sabado/
+
+Jornal de Negócios
+  24/10 21:00  Armindo Monteiro: "Não é exequível o investimento privado crescer 10%"  https://www.jornaldenegocios.pt/economia/habitacao/rendas/detalhe/armindo-monteiro-nao-e-exequivel-o-investimento-privado-crescer-10
+  24/10 20:19  Organização da manifestação pela habitação em Lisboa estima 25 mil pessoas  https://www.jornaldenegocios.pt/economia/detalhe/organizacao-da-manifestacao-pela-habitacao-em-lisboa-estima-25-mil-pessoas
+  24/10 19:00  Valorização das cartas Pokémon supera Wall Street desde 2019, mas não a Nvidia  https://www.jornaldenegocios.pt/economia/detalhe/valorizacao-das-cartas-pokemon-supera-wall-street-desde-2019-mas-nao-a-nvidia
+  24/10 18:57  Duzentas pessoas concentraram-se em Coimbra contra a crise habitacional  https://www.jornaldenegocios.pt/economia/detalhe/duzentas-pessoas-concentraram-se-em-coimbra-contra-a-crise-habitacional
+  24/10 18:00  Explicador: A lei das rendas  https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-a-lei-das-rendas
+  24/10 18:00  Uma centena de pessoas desfilam em Faro pelo direito à casa própria  https://www.jornaldenegocios.pt/economia/detalhe/uma-centena-de-pessoas-desfilam-em-faro-pelo-direito-a-casa-propria
+  24/10 17:00  Investidores acorrem a seguros contra incumprimentos para se protegerem dos riscos da IA  https://www.jornaldenegocios.pt/mercados/detalhe/investidores-acorrem-a-seguros-contra-default-para-se-protegerem-dos-riscos-da-ia
+  24/10 16:58  Seguro pede cooperação internacional para resolver desafios no mundo  https://www.jornaldenegocios.pt/economia/detalhe/seguro-pede-cooperacao-internacional-para-resolver-desafios-no-mundo
+  24/10 16:04  Milhares na rua em Lisboa e no Porto pelo direito à habitação  https://www.jornaldenegocios.pt/economia/detalhe/habitacao-centenas-de-pessoas-concentram-em-lisboa-para-exigir-habitacao-digna
+  24/10 15:21  ISO/UNDP 53001: dos ODS à sua integração na gestão  https://www.jornaldenegocios.pt/opiniao/detalhe/iso-undp-53001-dos-ods-a-sua-integracao-na-gestao
+  24/10 15:20  APA emite decisão desfavorável à central fotovoltaica na Serra do Marão  https://www.jornaldenegocios.pt/empresas/detalhe/apa-emite-decisao-desfavoravel-a-central-fotovoltaica-na-serra-do-marao
+  24/10 15:14  Milhares de manifestantes em Madrid em defesa do sistema de reformas  https://www.jornaldenegocios.pt/economia/detalhe/milhares-de-manifestantes-em-madrid-em-defesa-do-sistema-de-reformas
+
+Bloomberg
+  24/10 21:00  Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead
+  24/10 16:21  ‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly
+  24/10 08:00  Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets
+  24/10 05:30  Why AI’s Success Could Deeply Damage Markets: Merryn Talks Money
+  24/10 03:43  Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast
+  23/10 21:32  AI Trade Stumbles Again as Investors Rediscover Treasury Haven
+  23/10 16:43  European Stocks Fall as China Woes Hit Volvo Car and Gucci
+  23/10 12:15  Blackstone Bet on Chips Drove a Debt Boom That’s Upending Credit
+
+Expresso
+  24/10 15:54  Proteína de inseto é farinha em "pão que sabe a pão" e dá passos em Portugal
+  24/10 08:20  Comprar casa em Portugal está cada vez mais caro: o que revelam os novos números?
+  24/10 07:25  Da acampada à aconchada
+  24/10 01:27  Indústria europeia de componentes automóveis perdeu quase 19 mil empregos no primeiro semestre
+  23/10 17:34  Abel Mateus defende que o Estado não pode renovar licenças de telecomunicações com objetivo de maximizar receitas e critica relatório Draghi
+  23/10 16:33  Digi admite sair de Portugal se não tiver condições para concorrer e apela a Anacom que reconsidere prorrogação automática das licenças
+  23/10 13:42  Litro de gasolina desce 8 cêntimos e de gasóleo sobe 1 cêntimo na próxima semana
+  23/10 09:25  Novas regras de preços dos táxis entram em vigor, mas taxímetros podem ser adaptados até 2027
+
+Reuters
+  24/10 14:51  China urges US to halt proposed expansion of outbound investment curbs
+  24/10 09:18  Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial
+  24/10 00:46  Wall Street closes lower to end rocky week
+  23/10 23:52  Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months
+  23/10 20:54  After previous day's slump, trading is quieter among AI shares
+  23/10 11:06  Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally
+  23/10 11:02  GLP-1 boom in China, India, Brazil could create $22 bln market by 2035, J.P. Morgan says
+  23/10 10:16  Hedge fund returns worsen this week as tech selloff deepens
+
+BCE
+  24/10 07:00  Piero Cipollone: Interview with Milano Finanza  https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html
+  23/10 09:00  ECB Consumer Expectations Survey results – September 2026  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html
+
+WSJ
+  24/10 03:35  Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink
+  23/10 23:33  Iran Is Now Losing Overland Trade Routes to U.S. Pressure
+  23/10 22:10  Stocks Pulled in Two Directions, Fall to End Volatile Week
+  23/10 21:19  Stock Selloff Continues as Oil Surges | Markets P.M. for October 23
+  23/10 20:21  Live Q&A: Ask Us Your Questions About Midterms and the Economy
+  23/10 17:23  Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus
+  23/10 10:30  How Tariffs Became the Most Hated Word in Politics
+  23/10 10:30  Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?
+
+CMVM
+  24/10 01:00  CMVM aplicou 347 mil euros em coimas no terceiro trimestre
 
 CNBC Economia
   23/10 21:49  Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey  https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html
-  22/10 17:40  Jobless claims near the lowest since the 1960s as low-fire trend continues  https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html
 
 Banco de Portugal
   23/10 21:45  Governador do Banco de Portugal defende novo impulso ao Mercado Único Europeu
@@ -132,44 +142,15 @@ Banco de Portugal
   23/10 15:47  Banco de Portugal e Banco de Espanha lançam cooperação para acelerar transição para criptografia pós-quântica
   23/10 14:31  Economia numa imagem: 23.10.2026
   23/10 11:20  O governador do Banco de Portugal apela a mais construções para combater a crise habitacional.
-  23/10 07:28  Banco de Portugal e Governo negoceiam solução para assegurar contribuições da banca para o Fundo de Resolução
-  22/10 13:09  Episódio 265 | Onde está a riqueza dos portugueses?
-  22/10 08:34  Banco de Portugal instaurou 239 processos de contra-ordenação no terceiro trimestre de 2026 - E-Global
-
-Bloomberg
-  23/10 21:32  AI Trade Stumbles Again as Investors Rediscover Treasury Haven
-  23/10 21:23  AI Tech Fears Push Global Credit Spreads to 17-Month High
-  23/10 12:15  Blackstone Bet on Chips Drove a Debt Boom That’s Upending Credit
-  23/10 01:00  Watch Markets: Hedge Funds Suffer Widest Daily Drawdown Since Covid
-  22/10 23:05  Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap
-  22/10 22:16  Canadian Oil Explorer Logan Energy Said to Weigh Potential Sale
-  22/10 20:46  $80 Million Tanker Bills Are Crushing US Oil Exports to Asia
-  22/10 18:28  Meta Credit Risk Gauge Hits Fresh High on AI Spending Plans
+  23/10 08:57  Banco de Portugal e Governo negoceiam solução para assegurar contribuições da banca para o Fundo de Resolução
 
 EBA
   23/10 16:00  EBA E-mail alert 23 October, 2026  https://www.eba.europa.eu/node/20125
-  22/10 16:00  EBA E-mail alert 22 October, 2026  https://www.eba.europa.eu/node/20121
 
 Reuters Morning Bid
+  23/10 13:41  Morning Bid: Wake up! The long bond’s up two points! By Reuters
   23/10 12:27  Morning Bid: The AI reset
   23/10 11:46  MORNING BID AMERICAS-Safety first
   23/10 11:38  COMMENTARY: Morning Bid: Safety first
-  23/10 05:31  MORNING BID EUROPE-Wake up! The long bond's up two points!
-  22/10 13:10  MORNING BID AMERICAS-Rattled by oil, tech and France
-  22/10 11:40  Morning Bid: Rattled by oil, tech and France
-  22/10 11:30  Morning Bid: Meta's AI bill
-  22/10 07:39  Morning Bid: France's debt strains, AI in focus
-
-BCE
-  23/10 09:00  ECB Consumer Expectations Survey results – September 2026  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html
-
-The Economist
-  22/10 16:51  Sam Bankman-Fried says he has paid his debts  https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts
-  22/10 10:12  New research tries to defuse the “China shock”  https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock
-  22/10 10:11  Brazil’s weird economy needs serious reform  https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform
-  22/10 10:07  AI compute is the new oil—and needs a new market  https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market
-
-SRB
-  22/10 08:47  Internal Auditor  https://www.srb.europa.eu/en/content/internal-auditor
 
 Feeds sem resposta: ESMA (HTTP 403)
