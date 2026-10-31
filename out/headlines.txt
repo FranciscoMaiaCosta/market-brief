@@ -1,165 +1,172 @@
-Headlines · janela 24h até 30/10 09:51 (Lisboa) · 135 títulos
-
-Jornal de Negócios
-        09:47  Região Oeste e Vale do Tejo quer acolher uma das sete grandes áreas empresariais do país  https://www.jornaldenegocios.pt/empresas/detalhe/regiao-oeste-e-vale-do-tejo-quer-acolher-uma-das-sete-grandes-areas-empresariais-do-pais
-        09:40  Sarmento: "Preocupa-me como vão reagir os mercados ao que se passa nos EUA e França"  https://www.jornaldenegocios.pt/economia/politica/detalhe/sarmento-preocupa-me-como-vao-reagir-os-mercados-ao-que-se-passa-nos-eua-e-franca
-        09:39  Economia trava a fundo no terceiro trimestre ao crescer 0,2%  https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/economia-trava-a-fundo-no-terceiro-trimestre-ao-crescer-0-2
-        09:34  Situação das 210 freguesias com corte no financiamento deve ficar corrigida, defende ministro da Economia  https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/situacao-das-210-freguesias-com-corte-no-financiamento-deve-ficar-corrigida-defende-ministro-da-economia
-        09:30  Ministério dos Negócios Estrangeiros confirma morte de português em acidente ferroviário de Toledo  https://www.jornaldenegocios.pt/empresas/transportes/detalhe/ministerio-dos-negocios-estrangeiros-confirma-morte-de-portugues-em-acidente-ferroviario-de-toledo
-        09:28  Perda de fundos europeus por regiões ultraperiféricas "é inaceitável", considera Castro Almeida  https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/perda-de-fundos-europeus-por-regioes-ultraperifericas-e-inaceitavel-considera-castro-almeida
-        09:21  Inteligência artificial leva Critical Software a cortar 200 trabalhadores  https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/inteligencia-artificial-leva-critical-software-a-cortar-200-trabalhadores
-        09:05  Petróleo sobe e passa os 117 dólares por barril. Gás natural avança 2% e negoceia nos 100 euros/MWh  https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/sell-off-no-setor-da-ia-faz-cair-bolsas-asiaticas-taiex-cai-quase-10-num-mes
-        09:00  Poupar exige esforço. Valorizar as poupanças exige oportunidades  https://www.jornaldenegocios.pt/opiniao/colunistas/detalhe/poupar-exige-esforco-valorizar-as-poupancas-exige-oportunidades
-        08:25  Bolsa de Lisboa em queda. Galp valoriza com subida do petróleo, BCP cai 1,6%  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-em-queda-galp-valoriza-com-subida-do-petroleo-bcp-cai-1-6
-        08:08  Rali Dakar 2027 confirmado em Portugal e Marrocos  https://www.jornaldenegocios.pt/empresas/desporto/detalhe/rali-dakar-2027-confirmado-em-portugal-e-marrocos
-        08:00  Cartoon SA 30-10-2026  https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-30-10-2026
+Headlines · janela 48h até 31/10 09:29 (Lisboa) · 143 títulos
 
 ECO
-        09:38  Crescimento da economia desacelera para 0,2% no terceiro trimestre  https://eco.sapo.pt/2026/10/30/crescimento-da-economia-desacelera-para-02-no-terceiro-trimestre/
-        09:32  Como construir (e disponibilizar) as casas que faltam  https://eco.sapo.pt/opiniao/como-construir-e-disponibilizar-as-casas-que-faltam/
-        09:30  Governo confirma morte de português no acidente ferroviário em Espanha. Era membro da tripulação  https://eco.sapo.pt/2026/10/30/governo-confirma-morte-de-portugues-no-acidente-ferroviario-em-espanha-era-membro-da-tripulacao/
-        09:12  Rali Dakar regressa a Portugal em 2027. Primeira etapa vai ser no Algarve  https://eco.sapo.pt/2026/10/30/rali-dakar-regressa-a-portugal-em-2027-primeira-etapa-vai-ser-no-algarve/
-        08:52  Avião que transportou Flávio Bolsonaro para Miami pago a partir dos EUA  https://eco.sapo.pt/2026/10/30/aviao-que-transportou-flavio-bolsonaro-para-miami-pago-a-partir-dos-eua/
-        08:48  Missão cumprida. Qual era a missão?  https://eco.sapo.pt/opiniao/missao-cumprida-qual-era-a-missao/
-        08:12  Os ‘segredos’ do Conservatório de Música do Porto para vencer o ranking das escolas públicas  https://eco.sapo.pt/2026/10/30/os-segredos-do-conservatorio-de-musica-do-porto-para-vencer-o-ranking-das-escolas-publicas/
-        08:03  Canadá interessado em tornar-se “membro associado” da União Europeia  https://eco.sapo.pt/2026/10/30/canada-interessado-em-tornar-se-membro-associado-da-uniao-europeia/
-        07:56  Binance sofre maior ciberataque de sempre nas criptomoedas  https://eco.sapo.pt/2026/10/30/binance-sofre-maior-ciberataque-de-sempre-nas-criptomoedas/
-        07:56  Pedidos de despejo representam apenas 0,5% dos contratos e demoram em média dez meses  https://eco.sapo.pt/2026/10/30/pedidos-de-despejo-representam-apenas-05-dos-contratos-e-demoram-em-media-dez-meses/
-        07:43  Critical Soft­ware de Coimbra corta cerca de 200 empregos por causa da inteligência artificial  https://eco.sapo.pt/2026/10/30/critical-software-de-coimbra-corta-cerca-de-200-empregos-por-causa-da-inteligencia-artificial/
-        07:35  Colégio do Porto lidera ranking das notas, melhor escola pública em 38.º lugar. Veja as melhores e as piores  https://eco.sapo.pt/2026/10/30/colegio-do-porto-lidera-ranking-das-notas-melhor-escola-publica-em-38-o-lugar-veja-as-melhores-e-as-piores/
+        09:03  Manifestações pela habitação voltam a Lisboa e Porto  https://eco.sapo.pt/2026/10/31/manifestacoes-pela-habitacao-voltam-a-lisboa-e-porto/
+        08:27  OpenAI reduz meta da ronda para 20 mil milhões de dólares  https://eco.sapo.pt/2026/10/31/openai-reduz-meta-da-ronda-para-20-mil-milhoes-de-dolares/
+        08:05  Ter 40 anos em Portugal é dever quase dois anos do que se ganha num ano ao banco  https://eco.sapo.pt/2026/10/31/ter-40-anos-em-portugal-e-dever-quase-dois-anos-do-que-se-ganha-num-ano-ao-banco/
+  30/10 21:02  Seguro promulga alterações ao código do IVA e dos Impostos Especiais de Consumo  https://eco.sapo.pt/2026/10/30/seguro-promulga-alteracoes-ao-codigo-do-iva-e-dos-impostos-especiais-de-consumo/
+  30/10 20:53  Esta é a chave do Euromilhões. Jackpot é de 89 milhões de euros  https://eco.sapo.pt/2026/10/30/esta-e-a-chave-do-euromilhoes-jackpot-e-de-89-milhoes-de-euros-2/
+  30/10 20:43  Governo aumenta desconto sobre ISP do gasóleo e gasolina  https://eco.sapo.pt/2026/10/30/governo-aumenta-desconto-sobre-isp-do-gasoleo-e-gasolina/
+  30/10 19:58  PSD entregou proposta de alteração ao OE2027 para travar cortes nas transferências para as freguesia  https://eco.sapo.pt/2026/10/30/psd-entregou-proposta-de-alteracao-ao-oe2027-para-travar-cortes-nas-transferencias-para-as-freguesia/
+  30/10 18:45  Ucraniana Fire Point consegue contornar limitações da Starlink para manter ataques à Rússia  https://eco.sapo.pt/2026/10/30/ucraniana-fire-point-consegue-contornar-limitacoes-da-starlink-para-manter-ataques-a-russia/
+  30/10 18:39  GNR e PSP vão receber 5.200 ‘bodycams’ até ao início do próximo ano  https://eco.sapo.pt/2026/10/30/gnr-e-psp-vao-receber-5-200-bodycams-ate-ao-inicio-do-proximo-ano/
+  30/10 18:33  GMV lidera projeto europeu de vigilância espacial com participação portuguesa  https://eco.sapo.pt/2026/10/30/gmv-lidera-projeto-europeu-de-vigilancia-espacial-com-participacao-portuguesa/
+  30/10 18:24  Estado pagou 528,6 milhões de euros pela participação de 19% na REN  https://eco.sapo.pt/2026/10/30/governo-pagou-1388-milhoes-para-reforcar-na-ren-para-19/
+  30/10 18:22  Beatriz Almeida vence Portfolio Night Lisbon 2026  https://eco.sapo.pt/2026/10/30/beatriz-almeida-vence-portfolio-night-lisbon-2026/
 
-Politico Europe
-        09:34  Russian oil refinery suffers major drone attack  https://www.politico.eu/article/russian-oil-refinery-suffers-major-drone-attack-samara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:30  Elif Eralp und der Palästina-Sumpf  https://www.politico.eu/podcast/berlin-playbook-podcast/elif-eralp-und-der-palastina-sumpf/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  5 things Westminster doesn’t know about the UK economy (but probably should)  https://www.politico.eu/article/5-things-westminster-doesnt-really-know-about-the-uk-economy-but-probably-should/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:30  Inside America’s midterm election battle  https://www.politico.eu/podcast/brussels-playbook-podcast/inside-americas-midterm-election-battle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Got beef? When politics meets meat  https://www.politico.eu/article/got-beef-when-politics-meets-meat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Burnham tries to avoid a slavery reparations ‘disaster’  https://www.politico.eu/article/andy-burnham-slavery-reparations-commonwealth-keir-starmer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Who’s afraid of whom in Brussels?  https://www.politico.eu/article/who-is-afraid-of-whom-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Britain by numbers: everything we don’t know about the country  https://www.politico.eu/podcast/westminster-insider/britain-by-numbers-everything-we-dont-know-about-the-country/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        01:51  Canada and Europe look beyond the US and China — but carefully  https://www.politico.eu/article/eu-canada-summit-montreal-shared-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  29/10 21:50  Europe’s coffin-makers warn Chinese imports could be death knell for industry  https://www.politico.eu/article/europe-coffin-makers-warn-china-imports-risk-sounding-death-knell-industry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+Jornal de Negócios
+        09:00  Preparado durante 36 horas e executado em 20 minutos: o que se sabe sobre o golpe à Binance  https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/preparado-durante-36-horas-e-executado-em-20-minutos-o-que-se-sabe-sobre-o-golpe-a-binance
+        00:01  Famílias pouparam 302 milhões de euros extra em 2025. Inflação corroeu ainda mais  https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/familias-pouparam-302-milhoes-de-euros-extra-em-2025-inflacao-corroeu-ainda-mais
+  30/10 23:00  Ministra da Saúde atribui saldo negativo de 2.679 milhões do SNS a necessidades de financiamento  https://www.jornaldenegocios.pt/economia/detalhe/ministra-da-saude-atribui-saldo-negativo-de-2-679-milhoes-do-sns-a-necessidades-de-financiamento
+  30/10 22:55  EDP vence lote em leilão de transmissão de energia no Brasil  https://www.jornaldenegocios.pt/empresas/detalhe/edp-vence-lote-em-leilao-de-transmissao-de-energia-no-brasil
+  30/10 22:49  Fitch coloca França a caminho do corte de rating. Altera "outlook" para negativo  https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/fitch-coloca-franca-a-caminho-do-corte-de-rating-altera-outlook-para-negativo
+  30/10 22:06  Anacom atribui 172 milhões para cobertura 100% do território em 5G  https://www.jornaldenegocios.pt/empresas/detalhe/anacom-atribui-172-milhoes-para-cobertura-100-do-territorio-em-5g
+  30/10 21:02  CEO e três administradores do BCP vendem 8,35 milhões de euros em ações  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/ceo-e-tres-administradores-do-bcp-vendem-8-35-milhoes-de-euros-em-acoes
+  30/10 20:19  EDP conclui negociação do Acordo Coletivo de Trabalho com maioria dos sindicatos  https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-conclui-negociacao-do-acordo-coletivo-de-trabalho-com-maioria-dos-sindicatos
+  30/10 20:14  Wall Street vive dia negativo com queda histórica da Intel. Fabricante de chips caiu quase 30%  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-vive-dia-negativo-com-queda-historica-da-intel-fabricante-de-chips-caiu-quase-30
+  30/10 19:37  Conselho de Administração da Lusa convida Diana Ramos para diretora de informação  https://www.jornaldenegocios.pt/empresas/detalhe/conselho-de-administracao-da-lusa-convida-diana-ramos-para-diretora-de-informacao
+  30/10 19:20  Dona galega do Motel Portofino investe 12 milhões num hotel de luxo na Avenida da Boavista  https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/dona-galega-do-motel-portofino-investe-12-milhoes-num-hotel-de-luxo-na-avenida-da-boavista
+  30/10 19:16  Modelo de IA Amália é instrumento de soberania digital, diz Gonçalo Matias  https://www.jornaldenegocios.pt/economia/detalhe/modelo-de-ia-amalia-e-instrumento-de-soberania-digital-diz-goncalo-matias
+
+Banco de Portugal
+        07:11  Banco de Portugal altera contrato e só vai ocupar um edifício na sede em Entrecampos
+  30/10 12:28  Banco de Portugal e Espanha: criptografia pós-quântica [2026]
+  30/10 06:18  Banco de Portugal não se compromete a destinar imóveis vazios à habitação acessível
+  29/10 19:07  PS pede explicações ao governador do Banco de Portugal sobre nova sede e acusa-o de opacidade
+  29/10 15:09  Banco de Portugal investe 225 milhões de euros na nova sede em Entrecampos
+  29/10 13:25  Banco de Portugal altera compra em Entrecampos e prevê investimento global de 225M€
+  29/10 12:57  Banco de Portugal passa a ter um edifício em Entrecampos em vez de dois: vai poupar 35 milhões de euros
+  29/10 12:56  Banco de Portugal vai ter apenas um novo edifício em Entrecampos e não dois, como inicialmente previsto. A poupança é de €35 milhões
+
+FT Global
+        07:04  US approves $2.1bn sale of Patriot interceptors to Ukraine  https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1
+        05:01  The right to be apolitical  https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1
+        05:00  Is this the first clear evidence of AI’s impact on the labour market?  https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1
+        05:00  Donald Trump’s endgame  https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1
+  30/10 23:32  Poland suspends top judges as battle over rule of law escalates  https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1
+  30/10 16:57  Lula, Brazil’s 81-year-old comeback kid  https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1
+  30/10 16:13  Russia observes rare Ukraine ceasefire to allow evacuations  https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024
+
+CMVM
+        06:08  Conta de investimento proposta pela CMVM pode ter gestão pessoal ou profissional
+  30/10 16:04  CMVM quer uma CIPI aberta a fundos e ativos de mercados da OCDE, bem como a fundos de capital de risco abertos
+  29/10 17:45  Investimento em capital de risco aumenta 37% em 2025, segundo CMVM
+  29/10 14:13  CMVM: Ativos sob gestão em capital de risco sobem 24% para 12,7 mil milhões de euros em 2025
 
 CNBC
-        09:16  Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings  https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html
-        09:00  BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge  https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html
-        08:18  Trump, Vance scrap planned appearances in final stretch of midterm campaign  https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html
-        08:09  Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout  https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html
-        08:04  Binance's $6.3 billion hack: What we know and what comes next  https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html
-        07:43  Foxconn hopes to own 50% of the global AI server market within a couple years  https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html
-        07:12  Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms  https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html
-        06:00  A pharma giant is moving past one patent cliff — but another is already looming  https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html
-        00:28  Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks  https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html
-  29/10 21:52  Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise  https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html
-  29/10 21:29  Starbucks sales miss expectations, but its U.S. turnaround is gaining steam  https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html
-  29/10 19:59  Firm that correctly called the AI rally slowdown says here's where to hide out  https://www.cnbc.com/2026/10/29/firm-that-correctly-called-the-ai-rally-slowdown-says-heres-where-to-hide-out.html
+        06:00  Trump called out Big Oil profits. Here’s how much their refining earnings have surged since  https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html
+        06:00  AI is coming to construction sites. But does it make workers safer?  https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html
+  30/10 22:57  Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate  https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html
+  30/10 20:30  Intel stock has worst day since 1970s, wiping about $12 billion off government's stake  https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html
+  30/10 20:20  Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates  https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html
+  30/10 20:02  'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack  https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html
+  30/10 20:01  Beware these stock funds for big capital gains distributions this year. How to manage the tax bill  https://www.cnbc.com/2026/10/30/mutual-fund-capital-gains-distributions-2026.html
+  30/10 19:27  Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds  https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html
+  30/10 18:43  Who's liable when AI agents break the rules?  https://www.cnbc.com/video/2026/10/30/ai-rogue-agents-liability-work.html
+  30/10 18:32  Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election  https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html
+  30/10 17:15  Treasury Department announces new Series I bond rate of 5.51% for the next six months  https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html
+  30/10 16:55  Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch  https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html
+
+PSI e cotadas PT
+        06:00  BCP já recomprou 345 milhões de euros em ações próprias, equivalentes a 2,11% do capital
+        00:00  Europa fecha em baixa pressionada por tecnologia e energia. PSI recua com tombo do BCP
+  30/10 18:07  Lisboa segue perdas europeias. Regista pior mês em mais de dois anos
+  30/10 16:16  Oddo BHF e UBS sobem preço-alvo do BCP. AlphaValue corta "target"
+  30/10 10:19  Portugal: Stocks lower in Lisbon with BCP falling 1.40%
+  29/10 19:46  Millenium BCP "bem posicionado" para continuar a crescer mas "choque geopolítico" é ameaça
+  29/10 12:04  BCP quer financiar mais projetos de habitação a custos acessíveis
+  29/10 11:10  BCP dispara em bolsa após lucros crescerem 12,6%
 
 FT
-        09:03  French economy shrinks 0.1% in third quarter  https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1
-        08:36  Global tech rout deepens as US earnings stoke AI spending fears  https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1
-        08:14  Binance halts withdrawals after record $6.3bn heist  https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1
-        07:20  BP’s profits surge to record on high fuel prices  https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1
-        06:00  A half-dozen Halloween charts to haunt and horrify investors  https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc
-        05:30  What moves hyperscaler stocks?  https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a?syn-25a6b1a6=1
-        05:00  The story of Anthropic in three numbers  https://www.ft.com/content/fe539e51-61d4-49e8-ab1f-65fd19a74b66?syn-25a6b1a6=1
-        05:00  Oil spills from Iran’s tanker attacks wash up on UAE beaches  https://www.ft.com/content/2ae8d419-e495-4aa9-9b00-361770a32242?syn-25a6b1a6=1
-        05:00  Gates-backed miner says China is frustrating DR Congo exploration efforts  https://www.ft.com/content/d35c065f-0aef-44fa-a0d8-be1e0e5281c8?syn-25a6b1a6=1
-  29/10 21:53  Alphabet shares tumble in $500bn rout  https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1
-  29/10 20:34  New Jersey governor threatens to block delivery of Russian diesel cargoes  https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1
-  29/10 20:28  Josh Kushner and OpenAI-backed group agree deal for US home security firm  https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1
+        05:00  US midterms loom over jittery investors  https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1
+        05:00  Bank of England explores easing key limit on riskier mortgage lending  https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1
+        05:00  Lula’s surprise election victory sends agri-commodities tumbling  https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1
+        00:05  OpenAI slashes funding target by $10bn as tech anxieties mount  https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1
+  30/10 22:17  $6.3bn in 30 minutes: how the world’s biggest heist unfolded  https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1
+  30/10 22:12  Binance rushes to recover customer money after $6.3bn heist  https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1
+  30/10 21:13  US tech stocks tumble as concerns over AI spending intensify  https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1
+  30/10 18:19  Anthropic may not secure investment-grade rating after IPO, Blackstone says  https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1
+  30/10 18:00  How AI might be deployed for better bank supervision  https://www.ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1
+  30/10 17:24  Apollo and Thrive capitalise on private equity’s generational shift  https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1
+  30/10 17:10  CD&R pursues buyout of $40bn card processor Global Payments  https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1
+  30/10 13:23  What we know about the $6.3bn Binance hack  https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1
+
+Politico Europe
+        05:00  Eralps Tag der Entscheidung und die Suche nach dem Staatsoberhaupt mit Rasmus Buchsteiner  https://www.politico.eu/podcast/berlin-playbook-podcast/eralps-tag-der-entscheidung-und-die-suche-nach-dem-staatsoberhaupt-mit-rasmus-buchsteiner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:00  Special episode: An exclusive interview with Canadian PM Mark Carney  https://www.politico.eu/podcast/brussels-playbook-podcast/special-episode-an-exclusive-interview-with-canadian-pm-mark-carney/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 21:43  8 things we learned at the EU-Canada summit  https://www.politico.eu/article/8-things-we-learned-eu-canada-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 21:12  Tusk-Nawrocki battle escalates as chief judge is ousted from Poland’s top court  https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 19:11  Mark Carney puts deadline on EU ‘associate membership’ push  https://www.politico.eu/article/mark-carney-puts-deadline-on-eu-associate-membership-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 14:32  The Rutte way or the Carney method? Scaramucci says Europe’s Trump strategy is off the Mark  https://www.politico.eu/article/mark-rutte-mark-carney-donald-trump-anthony-scaramucci-white-house-strategy-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 13:35  Russian citizen faces spying charges in Poland after photographing railways  https://www.politico.eu/article/russian-citizen-detained-in-poland-over-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 12:48  Unrest in France is nightmare fuel for Macron’s heirs  https://www.politico.eu/article/unrest-in-france-is-nightmare-fuel-for-emmanuel-macron-heirs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 11:28  Former US ambassadors: America must stand with Ukraine  https://www.politico.eu/article/former-united-states-ambassadors-say-america-must-stand-with-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  30/10 10:43  Streeting insists Burnham won’t make ‘arbitrary’ welfare cuts  https://www.politico.eu/article/uk-budget-streeting-insists-burnham-will-not-make-arbitrary-welfare-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+
+Reuters
+        00:26  Crypto exchanges call for quick moves to bolster defenses after Binance heist
+  30/10 20:50  Intel on course for worst day ever, triggers global chip rout
+  30/10 20:42  Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen
+  30/10 20:34  October ends with a thud for Intel, Reddit, AI stalwarts
+  30/10 19:07  Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending
+  30/10 10:51  COMMENTARY: Morning Bid: Cash burnout
+  30/10 08:46  Wall Street closes sharply lower as AI cash burn fears spark tech selloff
+  30/10 02:45  Stocks fall on AI cash burn worries while bonds rally with oil
+
+Bloomberg
+  30/10 23:23  Meta’s Rating Outlook Cut to Negative by S&P on AI Spending
+  30/10 19:36  Fed’s Logan Sees Two More Hikes, But Says Pace Can Be Gradual
+  30/10 18:15  Arini Gets Bids on Junk Debt From Pimco, Oaktree as Losses Mount
+  30/10 17:17  Big Oil Scores $56 Billion Windfall on War-Driven Refining Spike
+  30/10 15:29  BP Profit Hits 18-Year High as Oil Refining Margins Surge
+  30/10 14:30  Tech Firms’ Debt-Protection Costs are Surging on Profit Concerns
+  30/10 09:30  Trump’s Venezuela Strategy Needs More Than Oil Deals
+  29/10 22:07  Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap
+
+WSJ
+  30/10 22:04  U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling
+  30/10 20:37  Stocks Slide, Intel Plunges, Binance Hacked | Markets P.M. for Oct. 30
+  30/10 18:13  Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says
+  30/10 13:37  Eurozone Economy Slows as French Debt Worries Mount
+  30/10 12:01  AbbVie Revenue Rises on Strength in Immunology, Neuroscience
+  30/10 06:36  Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years
+  29/10 16:26  U.S. Economy Accelerated This Summer Despite High Gas Prices
+  29/10 13:58  Federal Debt Hits 100% of GDP
+
+Expresso
+  30/10 18:20  A economia cresce menos e a inflação acelera: o que está a acontecer em Portugal?
+  30/10 14:27  20 minutos chegaram para tirar €5,6 mil milhões da Binance: o que se sabe sobre o maior roubo de criptomoedas de sempre?
+  30/10 11:19  Inflação volta a subir em outubro para 3,8%
+  30/10 11:10  Portugal cresce abaixo da média da União Europeia no terceiro trimestre
+  30/10 09:53  Economia trava no verão e cresce 0,2% no terceiro trimestre
+  30/10 07:35  Inflação e PIB em destaque na agenda económica, em dia de Expresso nas bancas
+  29/10 15:21  Cheques para compra de elétricos regressam em força em 2027 com €50 milhões no "sapatinho": 6 perguntas e respostas para saber o que vem aí
+  29/10 15:00  Pressionada pelo custo da dívida, França alimentou um monstro que pode ser demasiado grande para ser domado
 
 BCE
-        09:00  Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html
+  30/10 16:10  Philip R. Lane: AI adoption in Europe  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html
+  30/10 14:00  Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)  https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html
+  30/10 09:00  Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html
   29/10 15:50  Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html
   29/10 14:00  Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)  https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html
   29/10 13:15  Monetary policy decisions  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html
   29/10 10:00  ECB President Lagarde to step down on 7 February 2027  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html
 
-WSJ
-        08:31  French Economy Unexpectedly Contracts as Debt Worries Mount
-        06:36  Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years
-        02:49  Cryptocurrencies Slide as News of Major Hack Spooks Markets
-  29/10 22:33  Intel Shares Plunge More Than 20% on Weak PC-Market Outlook
-  29/10 20:43  U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism
-  29/10 20:32  Alphabet Stumbles, U.S. Economy Surges | Markets P.M. for Oct. 29
-  29/10 13:58  Federal Debt Hits 100% of GDP
-  29/10 11:54  Irish Economy Surges Again in Boost to Eurozone
-
-Bloomberg
-        08:12  Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap
-        07:58  BP Profit Hits 18-Year High as Oil Refining Margins Surge
-        05:18  Oil Climbs on Signs US May Resume Military Strikes Against Iran
-        03:46  Chinese Junk Dollar Bonds Head for Worst Week in a Year on Huafa
-        02:13  China’s Oil Majors Get More Firepower for Energy Security Push
-  29/10 23:59  Nvidia in Talks to Offer Credit Support for Nscale Project
-  29/10 15:35  ECB Officials Are Ready to Raise Interest Rates in December
-  29/10 14:42  Lagarde Downplays Risk of Inflation Broadening as ECB Holds
-
-PSI e cotadas PT
-        08:06  Bolsa de Lisboa abre a cair 0,08%
-        07:20  PSI abre sessão no ‘vermelho’. BCP e EDP penalizam índice
-  29/10 19:46  Millenium BCP "bem posicionado" para continuar a crescer mas "choque geopolítico" é ameaça
-  29/10 19:00  Lucro do BCP dispara quase 13% para 874 milhões. Leia aqui o JE Diário
-  29/10 16:43  Bolsa de Lisboa fecha a subir 0,80% numa Europa maioritariamente positiva
-  29/10 12:18  Portugal: Stock market in positive territory, Jerónimo Martins, BCP up over 2%
-  29/10 12:04  BCP quer financiar mais projetos de habitação a custos acessíveis
-  29/10 11:10  BCP dispara em bolsa após lucros crescerem 12,6%
-
-Expresso
-        07:35  Inflação e PIB em destaque na agenda económica, em dia de Expresso nas bancas
-  29/10 23:02  Economia
-  29/10 22:57  Investir na natureza gera retorno na economia
-  29/10 22:57  Portugueses privilegiam a segurança na hora de aplicar o seu dinheiro
-  29/10 22:57  Emprego, construção, sistemas sanitários e energia
-  29/10 22:57  ASF entrega até março proposta de reforço das pensões, afirma Gabriel Bernardino
-  29/10 15:21  Cheques para compra de elétricos regressam em força em 2027 com €50 milhões no "sapatinho": 6 perguntas e respostas para saber o que vem aí
-  29/10 12:56  Banco de Portugal vai ter apenas um novo edifício no Campo Grande e não dois, como inicialmente previsto. A poupança é de €35 milhões
-
-Banco de Portugal
-        06:18  Banco de Portugal não se compromete a destinar imóveis vazios à habitação acessível
-        00:00  Banco de Portugal formaliza acordo para novo edifício sede em Entrecampos que permite poupança de 35 milhões
-  29/10 21:14  Boletim Económico — outubro 2026
-  29/10 19:07  PS pede explicações ao governador do Banco de Portugal sobre nova sede e acusa-o de opacidade
-  29/10 15:09  Banco de Portugal investe 225 milhões de euros na nova sede em Entrecampos
-  29/10 13:25  Banco de Portugal altera compra em Entrecampos e prevê investimento global de 225M€
-  29/10 12:57  Banco de Portugal passa a ter um edifício em Entrecampos em vez de dois: vai poupar 35 milhões de euros
-  29/10 12:33  Banco de Portugal prevê investir 225 milhões de euros na nova sede
-
-Reuters
-        05:36  Morning Bid: One last central bank surprise
-        03:15  BOJ keeps interest rates steady, signals further rate hikes
-        02:45  Stocks sink, bonds leap as AI giants' spending spooks investors
-        02:20  Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries
-        00:35  Bitcoin, cryptocurrency prices fall after Binance reports security issue
-  29/10 21:03  Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets
-  29/10 20:02  Intel shares tumble after hours, hit by chip supply constraints, big cash burn
-  29/10 18:01  Microsoft expects to raise $25 billion in US bond sale, sources say
-
-Reuters Morning Bid
-        05:35  MORNING BID EUROPE-One last central bank surprise
-        00:06  Morning Bid: The Anthropic IPO
-  29/10 16:05  MORNING BID AMERICAS-Firefighting cash burn
-  29/10 12:35  COMMENTARY: Morning Bid: Firefighting cash burn
-  29/10 12:03  Morning Bid: December hike still in question
-  29/10 11:27  Morning Bid: Firefighting cash burn
-
-FT Global
-        05:00  Europe divided over how to influence US-Russia talks  https://www.ft.com/content/ba3a2569-3ff1-4bdc-aa78-657efbd13716?syn-25a6b1a6=1
-        05:00  Why Trump’s tech dreams are quietly crumbling  https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1
-        05:00  ‘A pile of muscle’: Trump closes midterm pitch with surreal messaging  https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1
-        05:00  Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO  https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1
-  29/10 23:45  Intel shares fall 22% as weak sales outlook dents turnaround  https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1
-  29/10 21:17  What killed Weil Gotshal?  https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1
-
 CNBC Economia
+  30/10 11:16  Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts  https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html
   29/10 18:06  Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates  https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html
   29/10 17:32  Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool  https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html
   29/10 14:53  The politics of President Lagarde's European Central Bank early exit — and who could replace her  https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html
   29/10 14:48  European Central Bank keeps key interest rate on hold at 2.5%  https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html
 
-CMVM
-  29/10 17:45  Investimento em capital de risco aumenta 37% em 2025, segundo CMVM
-  29/10 14:13  CMVM: Ativos sob gestão em capital de risco sobem 24% para 12,7 mil milhões de euros em 2025
+Reuters Morning Bid
+  30/10 07:30  Morning Bid: One last central bank surprise
+  30/10 05:35  MORNING BID EUROPE-One last central bank surprise
+  30/10 00:06  Morning Bid: The Anthropic IPO
+  29/10 16:05  MORNING BID AMERICAS-Firefighting cash burn
+  29/10 12:35  COMMENTARY: Morning Bid: Firefighting cash burn
+  29/10 12:03  Morning Bid: December hike still in question
+  29/10 11:27  Morning Bid: Firefighting cash burn
 
 EBA
   29/10 16:00  EBA E-mail alert 29 October, 2026  https://www.eba.europa.eu/node/20143
@@ -172,4 +179,5 @@ The Economist
   29/10 11:16  The never-ending absurdity of global oil markets  https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets
   29/10 10:41  The countries making a fortune from the US-China rivalry  https://www.economist.com/finance-and-economics/2026/10/29/the-countries-making-a-fortune-from-the-us-china-rivalry
   29/10 10:06  The task facing the new head of India’s biggest private bank  https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank
+  29/10 09:47  Ignore AI and ask for that pay rise  https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise
 
