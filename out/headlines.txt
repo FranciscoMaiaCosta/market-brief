@@ -1,152 +1,163 @@
-Headlines · janela 24h até 05/11 06:41 (Lisboa) · 119 títulos
-
-Bloomberg
-        05:59  Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap
-        04:06  Oil Steadies After 8% Plunge on Hopes for End to US-Iran War
-  04/11 21:36  Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap
-  04/11 21:07  CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs
-  04/11 14:26  UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz
-  04/11 14:11  Fed Wins Protection With Democrats Taking Control of the Senate
-  04/11 12:24  Ukraine Bonds Jump as Democrat Win Seen Helping Defense Efforts
-  04/11 10:34  Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto
+Headlines · janela 24h até 06/11 06:41 (Lisboa) · 127 títulos
 
 CNBC
-        05:58  Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings  https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html
-        05:55  Stock futures mixed after big rally following Democrats' decisive midterm wins  https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html
-        03:53  Inside the chip talent war: Trade secrets and rising Chinese rivals  https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html
-        03:11  LIV Golf faces liquidation after BC Partners scraps rescue plan  https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html
-        03:00  Citi employee killed in shooting at Florida office, suspect dead  https://www.cnbc.com/2026/11/05/citi-employee-killed-in-shooting-at-florida-office-suspect-dead.html
-        00:04  Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?  https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html
-  04/11 23:44  Democrats flip dozens of GOP seats. Republicans haven't flipped a single one  https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html
-  04/11 23:17  What Wall Street billionaires are saying about Democrats' midterm sweep  https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html
-  04/11 22:55  What was really behind Wednesday's monster rally? Trump quickly making peace  https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html
-  04/11 22:46  Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it  https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html
-  04/11 21:50  What Republicans' huge loss means for Trump  https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html
-  04/11 20:44  Democrats may go after data centers. That's not a reason to dump all your AI stocks  https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html
-
-Reuters Morning Bid
-        05:52  Morning Bid: Goldilocks or gridlock?
-        05:42  MORNING BID EUROPE-Goldilocks or gridlock?
-  04/11 13:28  Morning Bid: Pricing the Democratic sweep
-  04/11 12:48  COMMENTARY: Morning Bid: Tangled up in blue
-  04/11 12:17  MORNING BID AMERICAS-Tangled up in blue
-  04/11 07:11  Morning Bid: Markets fret blue wave will drown data centres
+        06:02  India as an AI hedge? The country's stocks could see robust inflows as markets globally tank  https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html
+        05:36  The world's best airline is updating its business and first-class experience  https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html
+        05:27  Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy  https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html
+        05:06  Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections  https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html
+        05:06  Stock futures mixed after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates  https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html
+        03:20  Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms  https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html
+        02:40  Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble  https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html
+        01:21  IRS announces new federal income tax brackets for 2027  https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html
+  05/11 23:39  Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge  https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html
+  05/11 21:32  The October jobs report is out Friday. Here's everything to expect  https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html
+  05/11 20:17  Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'  https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html
+  05/11 19:37  Three consumer stocks to buy after the midterm elections  https://www.cnbc.com/2026/11/05/three-consumer-stocks-to-buy-after-the-midterm-elections.html
 
 FT
-        05:12  Asian tech stocks slide on post-midterm AI fears  https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1
-        05:00  Morning in America, twilight in the markets  https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007
-        05:00  How will the Democrats’ sweep shape policy and markets?  https://www.ft.com/content/d0f7a709-3c57-4cd4-8467-4516a58d9749?syn-25a6b1a6=1
-        03:11  US stocks post best day since August after Democrats sweep midterms  https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1
-        03:01  Oil tumbles below $100 on post-election peace hopes  https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1
-        00:01  Copper is booming but not everyone is striking gold  https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491?syn-25a6b1a6=1
-        00:01  China’s critical minerals dominance leaves UK ‘dangerously exposed’, MPs warn  https://www.ft.com/content/9d1f6829-6385-491e-8561-2afd02489190?syn-25a6b1a6=1
-  04/11 18:54  Trump diesel deal with Russia falters as US fuel supplies hit 20-year low  https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1
-  04/11 14:03  Blue wave sweeps markets back towards normality  https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1
-  04/11 13:14  China steps up defence of stock market in bid to revive AI boom  https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5?syn-25a6b1a6=1
-  04/11 13:05  Solvay strikes rare earths deal that will reduce global dependence on China  https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1
-  04/11 11:38  Anthropic is an opportunity to rethink IPO rules  https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b
-
-Politico Europe
-        05:05  How to find a job in the age of AI  https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-find-a-job-in-the-age-of-ai/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:30  Donald Trump: Von allmächtig zu ohnmächtig?  https://www.politico.eu/podcast/berlin-playbook-podcast/donald-trump-von-allmachtig-zu-ohnmachtig/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Beyond crisis management: a new policy agenda for schizophrenia  https://www.politico.eu/sponsored-content/beyond-crisis-management-a-new-policy-agenda-for-schizophrenia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Le Pen keeps Farage hanging over his Paris rendezvous  https://www.politico.eu/article/nigel-farage-marine-le-pen-paris-visit-delayed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Canada spat exposes widening rift between Merz and von der Leyen  https://www.politico.eu/article/ursula-von-der-leyen-friedrich-merz-canada-european-union-associate-member/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  04/11 20:34  What’s bad for Trump is good for Le Pen  https://www.politico.eu/article/cost-of-living-europe-elections-france-spain-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  04/11 19:42  Spanish rail infrastructure chief steps down after Toledo train crash  https://www.politico.eu/article/spain-adif-president-luis-pedro-marco-de-la-pena-step-down-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  04/11 18:43  Hungary releases secret police files from communist era  https://www.politico.eu/article/hungary-releases-secret-police-files-from-communist-era/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  04/11 18:31  MEPs fear fundamental rights will take a hit under plans to expand EU border agency  https://www.politico.eu/article/meps-fear-fundamental-rights-will-take-hit-plans-expand-eu-border-agency/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  04/11 17:55  Midterms : 5 points que l’Europe doit surveiller après l’écrasante victoire des démocrates face à Trump  https://www.politico.eu/article/midterms-5-points-que-leurope-doit-surveiller-apres-lecrasante-victoire-des-democrates-face-a-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-Reuters
-        05:03  Indian benchmarks near three-month highs as oil slides after US Democratic win
-        05:00  Oil falls for a fourth day on expectations for lower risk of Iran war escalation
-        03:46  Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections
-        02:36  India's markets regulator approves Coal India unit Mahanadi Coalfields IPO
-        02:35  Oil and data centre stocks sink after US midterms
-        01:06  Dollar edges lower as US election outcome spurs risk sentiment; sterling gains
-  04/11 22:07  COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms
-  04/11 18:59  Billionaire tax measure trails as California tallies votes
-
-FT Global
-        05:00  Democrats look to reshape America after historic midterm victories  https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1
-        05:00  The next US presidential race has begun  https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1
-        05:00  Republicans paid the price for Trump’s failed policies  https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128
-        01:33  US midterm results herald upheaval in Middle East policy  https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1
-        00:52  Democratic wave keeps US wealth taxes alive despite California loss  https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1
-  04/11 22:38  ‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat  https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1
-  04/11 20:58  ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump  https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1
-  04/11 19:12  How Democrats pulled off the blue wave in maps and charts  https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1
-  04/11 18:33  Voters have put a helpful chill on the US data centre boom  https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1
-  04/11 17:42  The beginning of the end of the age of Trump  https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1
-
-CNBC Economia
-        04:13  The economy brought Trump back to power. Now it's his downfall  https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html
-  04/11 13:49  Private companies added 86,000 jobs in October, slightly higher than expected, ADP says  https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html
-  04/11 10:47  Euro zone inflation hits 4% for first time in three years as interest rate hike looms  https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html
+        06:00  Ark Invest wants to bring some ‘disruptive innovation’ to interval funds  https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0
+        05:07  Asian tech stocks sink  https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1
+        05:00  The AI gamble strains for more cash  https://www.ft.com/content/4e0dbca4-5917-483f-b524-8b8a2b4c54b2?syn-25a6b1a6=1
+        05:00  Why investors soured on the Democrats  https://www.ft.com/content/f49c25d4-d77c-415d-b25b-5aaf7aaaac4a?syn-25a6b1a6=1
+        00:01  Blackstone doubles lock-up periods for some Asian investors  https://www.ft.com/content/97215edc-736f-45f3-84ee-c1ae0c89493a?syn-25a6b1a6=1
+  05/11 22:41  Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges  https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1
+  05/11 21:40  Taking stock of tumbling stocks  https://www.ft.com/content/77afb479-14ce-4ede-80a6-cc10eb5d9ef4?syn-25a6b1a6=1
+  05/11 19:15  Hedge fund Walleye hands back capital as it slims down equity business  https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e?syn-25a6b1a6=1
+  05/11 17:51  Monzo explores fundraising at £7.5bn valuation as private equity talks stall  https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a?syn-25a6b1a6=1
+  05/11 17:41  European stocks overtake Wall Street following Democratic sweep  https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1
+  05/11 17:04  German government close to buying half of tank maker KNDS  https://www.ft.com/content/198d3d9d-b7d4-4c3a-884e-ad7b4e359dfa?syn-25a6b1a6=1
+  05/11 17:01  So, about that Anthropic IPO . . .  https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1
 
 Jornal de Negócios
-        04:00  Energia cara leva um terço dos portugueses a cortar na alimentação ou saúde, revela BEI  https://www.jornaldenegocios.pt/empresas/energia/detalhe/energia-cara-leva-um-terco-dos-portugueses-a-cortar-na-alimentacao-ou-saude-revela-bei
-        00:06  Governador da Florida classifica derrota republicana como perto de "nível de extinção"  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/governador-da-florida-classifica-derrota-republicana-como-perto-de-nivel-de-extincao
-  04/11 23:57  Quem é Abdul El-Sayed, o primeiro senador muçulmano dos EUA?  https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/quem-e-abdul-el-sayed-o-primeiro-senador-muculmano-dos-eua
-  04/11 23:30  Estrangeiros já representam 40% da mão de obra na construção  https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/estrangeiros-ja-representam-40-da-mao-de-obra-na-construcao
-  04/11 23:00  Falta "timing", falta foco  https://www.jornaldenegocios.pt/opiniao/editorial/paulo-moutinho/detalhe/falta-timing-falta-foco
-  04/11 22:41  ERSE aplica coima reduzida de 107.200 euros à Iberdrola por 13 contraordenações, incluindo uma "muito grave"  https://www.jornaldenegocios.pt/empresas/energia/detalhe/erse-aplica-coima-reduzida-de-107-200-euros-a-iberdrola-por-13-contraordenacoes-incluindo-uma-muito-grave
-  04/11 22:04  Miguel Stilwell de Andrade: da banca de investimento a líder da EDP  https://www.jornaldenegocios.pt/empresas/energia/detalhe/miguel-stilwell-d-andrade-da-banca-de-investimento-a-lider-da-edp
-  04/11 21:59  Acampada do Porto aprova encontro com Seguro e pede demissão de Luís Neves  https://www.jornaldenegocios.pt/economia/detalhe/acampada-do-porto-aprova-encontro-com-seguro-e-pede-demissao-de-luis-neves
-  04/11 21:39  Vitória democrata abre dois anos de bloqueio em Washington  https://www.jornaldenegocios.pt/economia/mundo/detalhe/vitoria-democrata-abre-dois-anos-de-bloqueio-em-washington
-  04/11 21:30  O que está a dar é folhetins  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/o-que-esta-a-dar-e-folhetins
-  04/11 21:14  Wall Street otimista com vitória democrata nas intercalares. Dow Jones avança 3%  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-euforia-com-vitoria-democrata-nas-intercalares-norte-americanas
-  04/11 20:43  IA: as universidades continuam em negação; o tempo passa!  https://www.jornaldenegocios.pt/opiniao/deans-corner/jose-crespo-de-carvalho/detalhe/ia-as-universidades-continuam-em-negacao-o-tempo-passa
+        06:00  Bolsa de Lisboa celebrou “midterms” nos EUA, mas não é certo que tragam “boas notícias” à Europa  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-celebrou-midterms-nos-eua-mas-nao-e-certo-que-tragam-boas-noticias-a-europa
+  05/11 23:30  Montenegro abre a porta à isenção de mais-valias proposta pelo PS  https://www.jornaldenegocios.pt/economia/detalhe/montenegro-abre-a-porta-a-isencao-de-mais-valias-proposta-pelo-ps
+  05/11 23:14  Kallas acredita em compromisso sobre orçamento da UE ainda este ano  https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano
+  05/11 23:01  Comissões compensam queda da margem e ajudam CGD a ter lucro recorde  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/comissoes-compensam-queda-da-margem-e-ajudam-cgd-a-ter-lucro-recorde
+  05/11 23:00  Coincidência frutífera  https://www.jornaldenegocios.pt/opiniao/editorial/paulo-moutinho/detalhe/coincidencia-frutifera
+  05/11 22:52  Renováveis dão energia a lucros da EDP. Centros de dados são oportunidade  https://www.jornaldenegocios.pt/empresas/energia/detalhe/renovaveis-dao-energia-a-lucros-da-edp-centros-de-dados-sao-oportunidade
+  05/11 22:08  Longe da vista, longe do coração  https://www.jornaldenegocios.pt/opiniao/detalhe/20261105-220834-longe-da-vista-longe-do-coracao
+  05/11 22:07  PSD acusa PS de negar realidade e diz que "é mais fácil dizer não do que trabalhar"  https://www.jornaldenegocios.pt/economia/detalhe/psd-acusa-ps-de-negar-realidade-e-diz-que-e-mais-facil-dizer-nao-do-que-trabalhar
+  05/11 21:30  Linhas vermelhas na habitação  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/linhas-vermelhas-na-habitacao
+  05/11 21:22  Ventura diz que PS não se pode desresponsabilizar de soluções e apela à intervenção de Seguro  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ventura-diz-que-ps-nao-se-pode-desresponsabilizar-de-solucoes-e-apela-a-intervencao-de-seguro
+  05/11 21:19  Wall Street com dia negro. Tecnológicas dão maior queda desde março de 2020  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-com-dia-negro-tecnologicas-dao-maior-queda-desde-marco-de-2020
+  05/11 20:57  Protestos em França com pelo menos 600 mil pessoas a renovarem desafio ao Governo  https://www.jornaldenegocios.pt/economia/detalhe/protestos-em-franca-com-pelo-menos-600-mil-pessoas-a-renovarem-desafio-a-governo
 
-Expresso
-        00:30  Investimento em telecomunicações sem retorno desde 2020: Apritel espera que Anacom renove licenças por 20 anos
-  04/11 22:57  Mulheres representam mais de dois terços das candidaturas
-  04/11 16:09  Banco Português de Fomento regista lucro de €8,1 milhões até setembro
-  04/11 14:58  Apesar de terceiro trimestre menos positivo, Governo dá como garantido crescimento de 2,3% em 2026
-  04/11 13:16  Almofada das pensões portuguesa foi a terceira que mais cresceu na OCDE no ano passado
-  04/11 13:00  Lisboa tem dos maiores desequilíbrios entre número de novos habitantes e novas casas
-  04/11 10:42  Parlamento Europeu debate travão à especulação imobiliária para aumentar habitação acessível
-  04/11 07:30  Quem quer comprar uma casa montada em legos? “Temos um prédio em Braga e nem abrimos as vendas ao público. Está tudo vendido”
+Bloomberg
+        05:57  Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap
+        04:39  Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand
+        04:36  Oil Heads for Steep Weekly Loss as Mideast Peace Prospects Rise
+        03:57  Copper Moves Lower as US Election Undermines AI and Tariff Trade
+        02:30  Live Q&A: How Trump’s Midterms Defeat Affects Asia, From Markets Rout to Tariffs
+  05/11 20:21  SpaceX Default Risk Hits Fresh Peak as Tech-Led Selloff Builds
+  05/11 18:40  Goldman Traders’ Phones Blow Up With Investors Seeking Answers to AI Rout
+  05/11 14:17  Five Credit Portfolio Managers Leave Hedge Fund Brevan Howard
+
+Reuters Morning Bid
+        05:37  Morning Bid: AI's reality check - Euronext Markets: Real-time Stock Market Data | live
+        05:35  MORNING BID EUROPE-AI's reality check
+  05/11 16:06  MORNING BID AMERICAS-Oil and the blame game
+  05/11 12:08  COMMENTARY: Morning Bid: Oil and the blame game
+  05/11 07:03  Morning Bid: Goldilocks or gridlock? By Reuters
+
+Reuters
+        05:37  AI's reality check
+        02:27  India bucks Asia tech rout as oil slide reverses market fortunes
+        02:04  As high oil prices curb demand, fresh signs of glut appear
+        01:11  Analysts and investors react to AI market rout
+        01:01  South Korea stocks hit 9-month low as US midterm results spark AI selloff
+  05/11 23:55  China's yuan dilemma: too weak abroad and too strong at home
+  05/11 23:41  EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say
+  05/11 22:13  Trading Day: A November 5 market bonfire
+
+FT Global
+        05:00  America turns on Trump’s tech cheerleaders  https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1
+        05:00  Who’s in the line of fire after the midterm drubbing?  https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1
+        05:00  ‘Blue wave’ hopes for US economic change are likely to be disappointed  https://www.ft.com/content/880c8ba8-2967-4d7a-87fb-d34135c676d8?syn-25a6b1a6=1
+        05:00  The post-midterms playbook for America Inc  https://www.ft.com/content/9e62d62b-a464-42fb-b425-553b2364fa98?syn-25a6b1a6=1
+        05:00  Iran celebrates Trump’s election defeat as mediators push for deal to end war  https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1
+  05/11 21:57  Why pollsters underestimated size of the ‘blue wave’  https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1
+  05/11 21:15  Los Angeles elects democratic socialist Nithya Raman as mayor  https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1
+  05/11 20:28  Will Democrats stall the AI boom?  https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1
+  05/11 19:48  Wall Street mega-donors clobbered by Democratic sweep  https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1
+  05/11 16:59  Global stocks tumble as Democratic midterm sweep sparks AI rout  https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1
+  05/11 15:35  AI backlash threatens trillion-dollar data centre boom, say tech leaders  https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1
+
+Politico Europe
+        04:39  Drei Probleme für Friedrich Merz  https://www.politico.eu/podcast/berlin-playbook-podcast/drei-probleme-fur-friedrich-merz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:00  Trump’s final two years: Is the UK ready?  https://www.politico.eu/podcast/westminster-insider/trumps-final-two-years-is-the-uk-ready/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        04:00  How to curry favor with the next US president — without annoying Trump  https://www.politico.eu/article/how-to-curry-favor-with-the-next-us-president-without-annoying-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:15  US voters’ warning to European politicians  https://www.politico.eu/podcast/brussels-playbook-podcast/us-voters-warning-to-european-politicians/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  The curse of Liz Truss brings down the MAGA movement  https://www.politico.eu/article/curse-liz-truss-maga-movement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  From Madrid to MAGA: How Spain’s Vox forged a right-wing network with global reach  https://www.politico.eu/article/from-madrid-to-maga-how-spains-vox-forged-a-right-wing-network-with-global-reach/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Don’t try to ‘please the dictator,’ Estonian leader urges Europe about Putin  https://www.politico.eu/article/estonia-prime-minister-kristen-michal-europe-vladimir-putin-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  05/11 19:00  Andy Burnham’s cost-of-living COP  https://www.politico.eu/article/andy-burnham-cost-of-living-cop/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  05/11 18:22  EU targets large firms to unlock budget deal  https://www.politico.eu/article/eu-targets-large-firms-to-unlock-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  05/11 18:02  Farage criticizes Trump’s ‘broken promise’ on foreign wars after midterms kicking  https://www.politico.eu/article/nigel-farage-criticizes-donald-trump-broken-promise-foreign-wars-after-midterms-kicking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 WSJ
-  04/11 22:47  Zillow Traffic Slides as High Mortgage Rates Freeze Housing Market
-  04/11 22:17  Cava Group Sales Slump on Cyclospora Outbreak, Profit Down on Higher Costs
-  04/11 21:55  U.S. Stocks Rally on Divided Government as AI Wobbles Continue
-  04/11 21:23  Arm Holdings Sales Climb 27% on AI Demand
-  04/11 20:52  Treasury Yields Fall on Election Results, Cheaper Oil
-  04/11 19:16  U.S. Stocks Jump After Democrats Sweep Congress
-  04/11 16:11  U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop
-  04/11 12:09  Uber’s Revenue Growth Slows Amid Headwinds From Fuel Prices, Tighter Driver Supply
+  05/11 23:44  Macquarie Beats Expectations With 50% Jump in First-Half Profit
+  05/11 22:53  DraftKings Cuts Outlook as It Pours More Money Into Prediction Markets
+  05/11 22:40  Opinion | Politics Shakes Up the Markets
+  05/11 21:51  U.S. Stocks Slide as AI Rally Hits a Wall
+  05/11 21:41  Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks
+  05/11 21:17  AI Panic Grips Stocks
+  05/11 20:02  Your House vs. the Stock Market: Which Has Been a Better Investment?
+  05/11 11:54  Toyota Lifts Earnings Forecast; Stock Posts Biggest Gain in 39 Years
 
 The Economist
-  04/11 21:48  What markets make of the midterms  https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms
+  05/11 23:41  Markets realise they hate America’s blue wave  https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave
+  05/11 11:54  Indebted tycoons haunt China’s banking system  https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system
+  05/11 10:22  AI is turning protectionists into free traders  https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders
+  05/11 10:17  William Nordhaus, favourite economist of the right and the left  https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left
+
+Expresso
+  05/11 23:00  Economia
+  05/11 22:57  Tecnologia, bebidas, cortiça e correios nos Altos e Baixos da Economia
+  05/11 22:57  Golfe traz à economia portuguesa 4,4 mil milhões de euros: "é um impacto brutal para uma indústria tão pequena"
+  05/11 22:57  William Nordhaus, o economista ecológico
+  05/11 22:57  As empresas portuguesas não estão a pôr os EUA em pausa e redesenham estratégias para crescer por lá
+  05/11 22:57  Portugal vai ter o segundo melhor ano de sempre na produção de azeite
+  05/11 22:57  Pensões permitem manter nível de vida em Portugal
+  05/11 18:46  China ameaça retaliações contra "kill-switch" comercial da União Europeia
 
 ECO
-  04/11 21:06  Governo admite rever regime das lanchas rápidas e criminalizar transporte de combustível  https://eco.sapo.pt/2026/11/04/governo-admite-rever-regime-das-lanchas-rapidas-e-criminalizar-transporte-de-combustivel/
-  04/11 20:16  Lucro da Semapa dispara com ‘cimento extraordinário’ enquanto a operação abranda  https://eco.sapo.pt/2026/11/04/lucro-da-semapa-dispara-com-cimento-extraordinario-enquanto-a-operacao-abranda/
-  04/11 19:57  Paulo Fonseca é o novo treinador do Sporting. Leões pagam 5 milhões ao Lyon  https://eco.sapo.pt/2026/11/04/oficial-paulo-fonseca-e-o-novo-treinador-do-sporting-que-paga-5-milhoes-ao-lyon/
-  04/11 19:09  Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos  https://eco.sapo.pt/2026/11/04/oe2027-governo-vai-financiar-formacao-de-professores-em-41-milhoes-de-euros/
-  04/11 19:03  Anafre quer rever competências das freguesias e ‘contribuir’ na habitação pública  https://eco.sapo.pt/2026/11/04/anafre-quer-rever-competencias-das-freguesias-e-contribuir-na-habitacao-publica/
-  04/11 18:30  Acordo na Lusa para aumento salarial de 87,50 euros  https://eco.sapo.pt/2026/11/04/acordo-na-lusa-para-aumento-salarial-de-8750-euros/
-  04/11 18:30  EDP Renováveis multiplica por quatro lucros até setembro com ‘vento a favor’ dos EUA e rotação de ativos  https://eco.sapo.pt/2026/11/04/edp-renovaveis-multiplica-por-quatro-lucros-ate-setembro-com-vento-a-favor-dos-eua-e-rotacao-de-ativos/
-  04/11 18:21  Fecho da fábrica de calçado Ecco deixa uns “tramados” e outros com desejo de “mudar de vida”  https://eco.sapo.pt/2026/11/04/fecho-da-fabrica-de-calcado-ecco-deixa-uns-tramados-e-outros-com-desejo-de-mudar-de-vida/
-  04/11 18:08  Proibição retirou 30% dos veículos pesados da VCI no Porto  https://eco.sapo.pt/2026/11/04/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto/
-  04/11 18:06  Eurodeputados propõem flexibilizar metas de CO2 para automóveis até 2035  https://eco.sapo.pt/2026/11/04/eurodeputados-propoem-flexibilizar-metas-de-co2-para-automoveis-ate-2035/
-  04/11 17:58  Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África  https://eco.sapo.pt/2026/11/04/montenegro-quer-portugal-a-fazer-ponte-entre-investimento-ibero-americano-e-africa/
-  04/11 17:57  Conselho de Redação da Lusa dá parecer negativo a Diana Ramos, a nova diretora  https://eco.sapo.pt/2026/11/04/conselho-de-redacao-da-lusa-da-parecer-negativo-a-diana-ramos-a-nova-diretora/
+  05/11 22:32  Drone português da Tekever descola e aterra pela primeira vez num porta-aviões da Marinha britânica  https://eco.sapo.pt/2026/11/05/drone-portugues-da-tekever-descola-e-aterra-pela-primeira-vez-num-porta-avioes-da-marinha-britanica/
+  05/11 22:07  AD devolve acusação de “intransigência” a Carneiro. “É mais fácil dizer não do que trabalhar”  https://eco.sapo.pt/2026/11/05/ad-devolve-acusacao-de-intransigencia-a-carneiro-e-mais-facil-dizer-nao-do-que-trabalhar/
+  05/11 21:53  Apoio aos agricultores é um “subsídio direto a cada português”, reclama ministro  https://eco.sapo.pt/2026/11/05/apoio-aos-agricultores-e-um-subsidio-direto-a-cada-portugues-reclama-ministro/
+  05/11 21:36  Depois do ‘tsunami azul’, veio o tombo de Wall Street. Pior dia desde “ofensiva” tarifária de Trump  https://eco.sapo.pt/2026/11/05/depois-do-tsunami-azul-veio-o-tombo-de-wall-street-pior-dia-desde-ofensiva-tarifaria-de-trump/
+  05/11 21:29  Habitação. Ventura pede “intervenção” de Seguro para convencer PS a ir a jogo  https://eco.sapo.pt/2026/11/05/habitacao-ventura-pede-intervencao-de-seguro-para-convencer-ps-a-participar-em-solucoes/
+  05/11 21:06  Novo submarino vai ser incluído na Lei de Programação Militar  https://eco.sapo.pt/2026/11/05/novo-submarino-vai-ser-incluido-na-lei-de-programacao-militar/
+  05/11 21:03  Nova onda de falsas ameaças de bomba afeta pelo menos 25 voos na Europa  https://eco.sapo.pt/2026/11/05/nova-onda-de-falsas-ameacas-de-bomba-afeta-pelo-menos-25-voos-na-europa/
+  05/11 20:58  “Fiz tudo sozinho”. Flávio Bolsonaro nega ajuda de governos para fugir do Brasil  https://eco.sapo.pt/2026/11/05/fiz-tudo-sozinho-flavio-bolsonaro-nega-ajuda-de-governos-para-fugir-do-brasil/
+  05/11 20:29  Auditoria à RTP confirma 12,25 milhões em subsídios sem suporte legal  https://eco.sapo.pt/2026/11/05/auditoria-a-rtp-confirma-1225-milhoes-em-subsidios-sem-suporte-legal/
+  05/11 19:48  Governo admite isentar de mais-valias do IRS venda de segundas casas até 300 mil euros  https://eco.sapo.pt/2026/11/05/governo-admite-isentar-de-mais-valias-do-irs-venda-de-segundas-casas-ate-300-mil-euros/
+  05/11 19:43  Wall Street afunda com vitória democrata nas intercalares a ameaçar ‘boom’ da IA  https://eco.sapo.pt/2026/11/05/wall-street-afunda-com-vitoria-democrata-nas-intercalares-a-ameacar-boom-da-ia/
+  05/11 19:37  Lucro da EDP sobe 22% para 1,19 mil milhões de euros até setembro  https://eco.sapo.pt/2026/11/05/lucro-da-edp-sobe-22-para-119-mil-milhoes-de-euros-ate-setembro/
 
 PSI e cotadas PT
-  04/11 17:08  Lisboa segue ganhos europeus. CTT afundam quase 11%
-  04/11 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 1,82% - Investing.com Brasil
-  04/11 16:36  Bolsas europeias disparam após vitória democrata nas midterms. PSI fecha a subir 1,82%
-  04/11 14:34  Goldman Sachs mais otimista com desempenho do BCP em bolsa. Sobe "target" do banco
-  04/11 13:09  Banco BCP aumentou lucros em 61,5% em 2018 para 301,1 ME
-  04/11 10:56  Bolsas europeias sobem e tecnologia recupera perante vitória democrata nos EUA
-  04/11 10:22  PSI em alta com 14 empresas a subir e CTT a descer quase 9%
-  04/11 07:09  PSI abre no ‘verde’, impulsionado pela família EDP
+  05/11 21:30  BCP e sindicatos acordam aumentos salariais de 3% para 2026
+  05/11 18:39  Greve na banca cancelada após aumentos de 3% na Caixa, BCP e Montepio
+  05/11 18:05  BCP fecha acordo com sindicatos da banca para aumento de 3% para 2026
+  05/11 17:09  Lisboa fecha no verde em dia misto na Europa. Nos e Sonae disparam
+  05/11 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 0,98% - Investing.com Brasil
+  05/11 15:38  Sindicatos acordam subida de salários com BCP em 3%
+  05/11 15:15  BCP: Sindicatos alcançam acordo de 3% para salários e pensões em 2026 e desconvocam greve nacional
+  05/11 11:13  PSI segue no ‘verde’. NOS lidera com subida de 3%
+
+CNBC Economia
+  05/11 16:07  Voters say the economy drove them to the polls — and blame Trump for their troubles  https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html
+  05/11 16:01  Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%  https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html
+  05/11 14:33  Here's what the Democratic election rout could mean for the U.S. economy  https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html
+
+EBA
+  05/11 16:00  EBA E-mail alert 5 November, 2026  https://www.eba.europa.eu/node/20162
 
 SRB
-  04/11 15:49  Legal Expert  https://www.srb.europa.eu/en/content/legal-expert-2
+  05/11 11:42  IADI 25th Annual General Meeting and Conference  https://www.srb.europa.eu/en/content/iadi-25th-annual-general-meeting-and-conference
+  05/11 11:36  Pan-European Conglomerate Club  https://www.srb.europa.eu/en/content/pan-european-conglomerate-club
+  05/11 11:36  10th MREL Workshop  https://www.srb.europa.eu/en/content/10th-mrel-workshop
 
-Sem novidades na janela: BCE · (reguladores e semanários omitidos: o silêncio é normal)
+BCE
+  05/11 08:00  Isabel Schnabel: Navigating stormy waters: reflections on monetary policy  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html
+  05/11 07:30  Piero Cipollone: Shaping the future of money  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html
+
