@@ -1,68 +1,77 @@
-Headlines · janela 48h até 07/11 06:41 (Lisboa) · 138 títulos
+Headlines · janela 48h até 08/11 06:41 (Lisboa) · 121 títulos
 
-Politico Europe
-        06:22  Ein Spaziergang mit Bodo Ramelow  https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-bodo-ramelow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 20:02  Merz’s conservatives poised to nominate Germany’s first woman president  https://www.politico.eu/article/merz-conservatives-poised-nominate-ilse-aigner-first-woman-president-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 17:58  Trump’s ‘big, beautiful’ European security plan isn’t convincing Europe  https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 16:50  Wave of bomb threats target Irish media outlets and more European flights  https://www.politico.eu/article/bomb-threats-target-irish-media-and-more-european-flights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 16:24  Spain and the Netherlands battle over ECB presidency  https://www.politico.eu/article/dutch-and-spanish-battle-over-ecb-presidency/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 15:50  ‘I don’t know if it reassured or worried them’: European envoys quiz Le Pen over lunch  https://www.politico.eu/article/marine-le-pen-european-ambassadors-france-eu-agenda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 14:31  Election favorite says Spain should quit as World Cup co-host if Morocco stages the final  https://www.politico.eu/article/alberto-nunez-feijoo-spain-withdraw-host-world-cup-2030-morocco-final/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 14:28  EU prosecutors open second fraud probe into Spanish high-speed rail  https://www.politico.eu/article/eu-prosecutors-open-second-fraud-probe-spain-high-speed-rail-fatal-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 12:48  Mélenchon squares up to Brussels in election manifesto  https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  06/11 12:02  French far left enshrines leaving NATO in official presidential platform  https://www.politico.eu/article/france-far-left-jean-luc-melenchon-leaving-nato-official-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-WSJ
-        06:01  The Argument for Buying Treasury Bonds Is Still Strong
-  06/11 22:01  U.S. Stocks Mixed After Jobs Data, Muted AI Rebound
-  06/11 21:24  Tech Stocks Recover Some Losses
-  06/11 15:22  Solid Jobs Report Leaves Inflation, Markets to Settle Fed’s December Call
-  05/11 22:40  Opinion | Politics Shakes Up the Markets
-  05/11 21:41  Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks
-  05/11 21:17  AI Panic Grips Stocks
-  05/11 20:00  Your House vs. the Stock Market: Which Has Been a Better Investment?
+CNBC
+        06:00  Cathie Wood 'always feels better when the market is worried' — here's why  https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html
+  07/11 23:13  Trump offers UFC chief Dana White press secretary job  https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html
+  07/11 22:39  Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says  https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html
+  07/11 22:17  Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections  https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html
+  07/11 21:59  Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans  https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html
+  07/11 15:23  Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline  https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html
+  07/11 14:15  31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'  https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html
+  07/11 14:06  Berkshire shares surge as Wall Street swoons amid AI fears  https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html
+  07/11 14:05  Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says  https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html
+  07/11 13:01  America doesn't like socialism. So why are socialists winning?  https://www.cnbc.com/2026/11/07/socialism-elections-economy.html
+  07/11 13:00  Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers  https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html
+  07/11 12:58  Forget tech and hide out in these stocks instead, Goldman Sachs says  https://www.cnbc.com/2026/11/07/forget-tech-and-hide-out-in-these-stocks-instead-goldman-sachs-says.html
 
 FT Global
-        05:00  Trump’s defeat heralds a US retreat  https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1
-        05:00  The mother of all American course corrections  https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1
-        05:00  European security agencies probe whether bomb hoaxes started in Russia  https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1
-        05:00  How Wall Street’s all-in bet on AI blew up  https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1
-        05:00  A bittersweet year for liberals  https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1
-        05:00  Russia ships metal via the Arctic to evade Ukrainian strikes  https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1
-        05:00  Why does America hate AI?  https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1
-        02:33  US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy  https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1
-  06/11 22:09  Trump taps immigration hardliner Stephen Miller as chief of staff  https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1
+        05:00  Crypto industry braces for reckoning over Trump ties  https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1
+        05:00  ‘Radical left’ get the headlines but centrists dominate new US Congress  https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1
+        05:00  Is Europe getting serious about ending tech dependence?  https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1
+        05:00  America is craving a return to community  https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1
+        05:00  Apple saves $2.7bn in taxes by booking profits in Singapore  https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1
+  07/11 22:00  Gunman kills six in Kraków shooting  https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1
+  07/11 21:03  Israel’s president gives Gadi Eisenkot first chance at forming a government  https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1
 
-PSI e cotadas PT
-        05:00  BCP já investiu mais de 363 milhões de euros em ações próprias e aproxima-se da reta final de programa de 407,5 milhões
-        00:01  Preço das acções no aumento de capital do BCP será de 1,20 euros
-  06/11 22:23  PSI sobe com BCP a avançar 1,72% e Galp a cair 3,46%
-  06/11 21:43  BCP faz emissão de 1.350 ME em dívida com garantia do Estado
-  06/11 21:11  CEO do BCP quer créditos à habitação que permitam interromper pagamento
-  06/11 14:45  "Temos de estar preparados para que juros possam chegar a 4%", diz Miguel Maya, presidente do Millennium BCP
-  06/11 13:33  BCP e BPI distinguidos nos Global Private Banking Awards
-  05/11 18:05  BCP fecha acordo com sindicatos da banca para aumento de 3% para 2026
+Bloomberg
+        00:00  AI Slump Revives Asia’s Forgotten Trades From China to India
+  07/11 20:00  Meta’s Bond Sale Shows New Reality for Tech Debt
+  07/11 13:30  Wall Street Strategists Call Stock Rout a Fresh Reason to Buy
+  06/11 19:00  Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street
+  06/11 17:10  Millennium Parting Ways With Two More Credit Trading Pods
+  06/11 16:06  Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion
+  06/11 11:30  AI Has Taken Over Every Corner of the Market
+  06/11 06:58  Outages Hit 128 Japan Credit Unions, Preventing ATM Transactions
 
 Banco de Portugal
-        00:18  Economia numa imagem: 06.11.2026
-  06/11 16:44  Banco de Portugal prevê défice de 0,2% este ano e de 0,5% em 2027
+  07/11 21:18  Banco de Portugal prevê défice de 0,2% este ano e de 0,5% em 2027
+  07/11 00:18  Economia numa imagem: 06.11.2026
+  06/11 21:43  Banco de Portugal instaura 85 processos e coimas de 1,5 ME no 1.º trimestre de 2021
   06/11 14:14  Banco de Portugal prevê crescimento da economia em 2,3%
 
 Jornal de Negócios
-  06/11 23:13  Banco central do Paraguai começa a devolver fundos aos lesados do banco Ueno  https://www.jornaldenegocios.pt/economia/detalhe/banco-central-do-paraguai-comeca-a-devolver-fundos-aos-lesados-do-banco-ueno
-  06/11 22:41  Carlos Moedas determinou por despacho saída de acampada do Rossio  https://www.jornaldenegocios.pt/economia/detalhe/carlos-moedas-determinou-por-despacho-saida-de-acampada-do-rossio
-  06/11 21:55  Trump nomeia conselheiro Stephen Miller como chefe de gabinete da Casa Branca  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-nomeia-conselheiro-stephen-miller-como-chefe-de-gabinete-da-casa-branca
-  06/11 21:30  Sarmento vê “neutralidade” nas propostas do PS, desafia Chega a assumir se quer défice  https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/sarmento-reconhece-neutralidade-orcamental-a-propostas-do-ps-e-desafia-chega-se-quer-ter-defices-diga-o
-  06/11 21:15  PS está disponível para construir "solução" para habitação mas com "justiça social"  https://www.jornaldenegocios.pt/economia/detalhe/ps-esta-disponivel-para-construir-solucao-para-habitacao-mas-com-justica-social
-  06/11 21:10  Wall Street em terreno misto com recuperação das tecnológicas. Nasdaq sobe mais de 1%  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-terreno-misto-com-recuperacao-das-tecnologicas-nasdaq-sobe-mais-de-1
-  06/11 20:55  Espanha retém 12% da produção de azeite para evitar descida drástica dos preços  https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/espanha-retem-12-da-producao-de-azeite-para-evitar-descida-drastica-dos-precos
-  06/11 20:54  Nicolau Santos e Hugo Figueiredo reconduzidos para novo mandato na administração da RTP  https://www.jornaldenegocios.pt/empresas/detalhe/nicolau-santos-e-hugo-figueiredo-reconduzidos-para-novo-mandato-na-administracao-da-rtp
-  06/11 20:22  Manifestantes invadem obras de centro de dados da Microsoft em Amesterdão  https://www.jornaldenegocios.pt/empresas/detalhe/manifestantes-invadem-obras-de-centro-de-dados-da-microsoft-em-amesterdao
-  06/11 20:10  BCP já concluiu quase 90% do programa de recompra a um mês do fim do prazo  https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bcp-ja-concluiu-quase-90-do-programa-de-recompra-de-acoes
-  06/11 19:30  Batalha do Rossio – como a acampada resistiu à carga da PSP  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/batalha-do-rossio-como-a-acampada-resistiu-a-carga-da-psp
-  06/11 19:23  Galp divide analistas. Morgan Stanley e AlphaValue reveem recomendações em sentidos opostos  https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/galp-divide-analistas-morgan-stanley-e-alphavalue-reveem-recomendacoes-em-sentidos-opostos
+  07/11 21:00  Manifestações: Parte das reivindicações já foram ou estão a ser concretizadas, garante secretária de Estado  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/manifestacoes-parte-das-reivindicacoes-ja-foram-ou-estao-a-ser-concretizadas-garante-secretaria-de-estado
+  07/11 20:31  Trump convida promotor de artes marciais para ser porta-voz da Casa Branca: “Dana, por favor, aceita o cargo!”  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-convida-promotor-de-artes-marciais-para-ser-porta-voz-da-casa-branca-dana-por-favor-aceita-o-cargo
+  07/11 20:08  Shopping da Sonae com 31 anos abre expansão de 16 milhões com Primark  https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/shopping-da-sonae-com-31-anos-abre-expansao-de-16-milhoes-com-primark
+  07/11 19:00  Medo, muito medo. Índice de pânico do Goldman atinge nível extremo  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/medo-muito-medo-indice-de-panico-do-goldman-atinge-nivel-extremo
+  07/11 18:58  Marcolino faz 100 anos com 200 mil luzes e um investimento de 16 milhões  https://www.jornaldenegocios.pt/empresas/comercio/detalhe/marcolino-faz-100-anos-com-200-mil-luzes-e-um-investimento-de-16-milhoes
+  07/11 18:34  Seis mortos em ataque a tiro no centro de Cracóvia. Uma portuguesa entre os 15 feridos  https://www.jornaldenegocios.pt/economia/europa/detalhe/seis-mortos-em-ataque-a-tiro-no-centro-de-cracovia-uma-portuguesa-entre-os-15-feridos
+  07/11 18:00  Explicador: Os apoios para carros elétricos  https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-os-apoios-para-carros-eletricos
+  07/11 17:08  Pressmedia celebra 25 anos com travessia do Atlântico para aliar-se à Tamer no Brasil  https://www.jornaldenegocios.pt/empresas/detalhe/pressmedia-celebra-25-anos-com-travessia-do-atlantico-para-aliar-se-a-tamer-no-brasil
+  07/11 17:00  Espanhol ou neerlandês, "dovish" ou "hawkish"? Saiba quem são os candidatos à sucessão de Lagarde  https://www.jornaldenegocios.pt/economia/europa/detalhe/espanhol-ou-neerlandes-dovish-ou-hawkish-saiba-quem-sao-os-candidatos-a-sucessao-de-lagarde
+  07/11 16:12  Mota-Engil disputa com espanhóis e chineses metro de cinco mil milhões em Bogotá  https://www.jornaldenegocios.pt/empresas/industria/detalhe/mota-engil-disputa-com-espanhois-e-chineses-metro-de-cinco-mil-milhoes-em-bogota
+  07/11 16:00  O impacto da longevidade na proposta de valor das empresas. Como o envelhecimento está a mudar a forma como as empresas fazem negócio  https://www.jornaldenegocios.pt/opiniao/detalhe/o-impacto-da-longevidade-na-proposta-de-valor-das-empresas-como-o-envelhecimento-esta-a-mudar-a-forma-como-as-empresas-fazem-negocio
+  07/11 15:00  Os apoios aos carros elétricos em sete perguntas e respostas  https://www.jornaldenegocios.pt/empresas/energia/detalhe/os-apoios-aos-carros-eletricos-em-sete-perguntas-e-respostas
+
+ECO
+  07/11 20:26  Trump convida promotor de artes marciais Dana White para ser porta-voz da Casa Branca  https://eco.sapo.pt/2026/11/07/trump-convida-promotor-de-artes-marciais-dana-white-para-ser-porta-voz-da-casa-branca/
+  07/11 19:35  Portuguesa entre os feridos no ataque a tiro ocorrido na Polónia, avança Governo  https://eco.sapo.pt/2026/11/07/portuguesa-entre-os-feridos-no-ataque-a-tiro-ocorrido-na-polonia-avanca-governo/
+  07/11 17:02  M&A abranda, mas não trava: geopolítica torna investidores mais seletivos  https://eco.sapo.pt/especiais/ma-abranda-mas-nao-trava-geopolitica-torna-investidores-mais-seletivos/
+  07/11 15:34  Mota-Engil na ‘shortlist’ para construir e operar linha de metro em Bogotá  https://eco.sapo.pt/2026/11/07/mota-engil-na-shortlist-para-construir-e-operar-linha-de-metro-em-bogota/
+  07/11 14:15  Seguro alerta para necessidade de garantir a sustentabilidade económica da distribuição farmacêutica  https://eco.sapo.pt/2026/11/07/seguro-alerta-para-necessidade-de-garantir-a-sustentabilidade-economica-da-distribuicao-farmaceutica/
+  07/11 13:57  Sem Buffett na presidência, Berkshire diminui lucro e acelera recompra de ações  https://eco.sapo.pt/2026/11/07/sem-buffet-na-presidencia-berkshire-diminui-lucro-e-acelera-recompra-de-acoes/
+  07/11 12:30  Irão anuncia terceiro petroleiro incendiado após embater em mina no estreito de Ormuz  https://eco.sapo.pt/2026/11/07/irao-anuncia-terceiro-petroleiro-incendiado-apos-embater-em-mina-no-estreito-de-ormuz/
+  07/11 11:32  ECO Quiz. Miguel Stilwell d’Andrade vai sair da liderança da EDP?  https://eco.sapo.pt/2026/11/07/eco-quiz-miguel-stilwell-dandrade-vai-sair-da-lideranca-da-edp/
+  07/11 11:00  Querem demagogia ou mais casas?  https://eco.sapo.pt/opiniao/querem-demagogia-ou-mais-casas/
+  07/11 10:59  Zelensky avisa que plano de segurança de Trump para a Europa pode ser “perigoso”  https://eco.sapo.pt/2026/11/07/zelensky-avisa-que-plano-de-seguranca-de-trump-para-a-europa-pode-ser-perigoso/
+  07/11 10:16  Mães pela Acampada em vigília no Rossio contra cargas policiais  https://eco.sapo.pt/2026/11/07/maes-pela-acampada-em-vigilia-no-rossio-contra-cargas-policiais/
+  07/11 09:55  Zangaram-se as comadres? Trump e Murdoch, dez anos de uma relação de conveniência  https://eco.sapo.pt/2026/11/07/zangaram-se-as-comadres-trump-e-murdoch-dez-anos-de-uma-relacao-de-conveniencia/
 
 FT
+  07/11 16:43  Berkshire Hathaway steps up share buybacks with $9.6bn of purchases  https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1
+  07/11 10:30  Data centres rebuked  https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1
+  07/11 05:00  How Wall Street’s all-in bet on AI blew up  https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1
+  07/11 05:00  Russia ships metal via the Arctic to evade Ukrainian strikes  https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1
   06/11 22:53  US warns China it must ‘immediately’ meet terms of Busan trade deal  https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1
   06/11 22:22  US stocks recover after tech rout  https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1
   06/11 22:16  US economy outstrips forecasts to add 165,000 jobs in October  https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1
@@ -71,65 +80,66 @@ FT
   06/11 18:24  A new phase in the tech market correction  https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1
   06/11 16:50  Anthropic lines up UK retail offer as AI stocks wobble  https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1
   06/11 16:47  ‘De-extinction’ start-up Colossal accuses ex-staffer of stealing secrets  https://www.ft.com/content/3a70a224-6d6c-4480-bd14-241fe3f6a987?syn-25a6b1a6=1
-  06/11 16:31  Copper prices fall on fears of AI backlash  https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27?syn-25a6b1a6=1
-  06/11 16:30  Is the AI stock bubble finally bursting?  https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1
-  06/11 14:28  UK retail investors buy the dip after bruising tech sell-off  https://www.ft.com/content/64c72979-1f97-4d25-8dc9-7c47c6089191?syn-25a6b1a6=1
-  06/11 14:23  Arini’s credit troubles suggest roach-hunting season is back  https://www.ft.com/content/59a3bb17-5b09-4223-9077-413140b8a05b?syn-25a6b1a6=1
 
-CNBC
-  06/11 22:25  OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC  https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html
-  06/11 22:22  Trump says Stephen Miller to replace Susie Wiles as White House chief of staff  https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html
-  06/11 21:40  Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs  https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html
-  06/11 21:22  Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates  https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html
-  06/11 21:15  OpenAI bugging suspect Alfozan pleads not guilty  https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html
-  06/11 21:12  Further turmoil could be in store for tech stocks. What to watch in the week ahead  https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html
-  06/11 21:07  Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'  https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html
-  06/11 20:11  A disturbing employment trend is hiding beneath the latest strong job numbers  https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html
-  06/11 19:44  Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote  https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html
-  06/11 18:54  Data center double-down: Hassett says blue wave won't stop AI build-out  https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html
-  06/11 18:40  Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain  https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html
-  06/11 18:35  OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off  https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html
+WSJ
+  07/11 15:14  Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink
+  06/11 22:01  U.S. Stocks Mixed After Jobs Data, Muted AI Rebound
+  06/11 21:24  Tech Stocks Recover Some Losses
+  06/11 17:36  Treasury Yields Rise on Strong Jobs Data
+  06/11 16:52  Week Ahead for FX, Bonds: U.S. Inflation Data Could Give Clues on Rate-Hike Prospects
+  06/11 15:22  Solid Jobs Report Leaves Inflation, Markets to Settle Fed’s December Call
+  06/11 12:08  Humana Lifts Outlook as Quarterly Revenue Jumps
+  06/11 10:30  The Argument for Buying Treasury Bonds Is Still Strong
+
+BCE
+  07/11 14:00  Christine Lagarde: Interview with Yomiuri Shimbun  https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html
+  06/11 09:00  ECB publishes consolidated banking data for end-June 2026  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html
+
+Expresso
+  07/11 08:20  Portugal vai produzir mais azeite: vamos pagar menos?
+  06/11 18:59  Do IRC trocado por combustíveis à descida do IRS: veja aqui algumas das mais duas mil alterações que os partidos querem fazer ao OE 2027
+  06/11 18:20  Como é que umas eleições nos EUA fizeram tremer as gigantes da inteligência artificial?
+  06/11 15:35  Construção recupera, mas pesa menos na economia portuguesa
+  06/11 15:33  Wall Street recupera após queda histórica das tecnológicas, mas Europa continua sob pressão
+  06/11 14:56  Ameaças de bomba: NAV e ANA estão a trabalhar com militares e PSP para garantir segurança no aeroportos
+  06/11 08:10  Economia
+  06/11 08:07  Da sucessão no BCE à habitação: o que marca esta sexta-feira, em dia de Expresso nas bancas
+
+PSI e cotadas PT
+  07/11 07:33  Rentabilidade caiu na maioria dos grandes bancos nacionais até setembro
+  07/11 00:01  Lucro do BCP sobe 12,6% para 873,7 milhões de euros até setembro
+  07/11 00:00  BCP já investiu mais de 363 milhões de euros em ações próprias e aproxima-se da reta final de programa de 407,5 milhões
+  06/11 21:43  BCP faz emissão de 1.350 ME em dívida com garantia do Estado
+  06/11 21:11  CEO do BCP quer créditos à habitação que permitam interromper pagamento
+  06/11 20:10  BCP já concluiu quase 90% do programa de recompra a um mês do fim do prazo
+  06/11 14:45  "Temos de estar preparados para que juros possam chegar a 4%", diz Miguel Maya, presidente do Millennium BCP
+  06/11 13:33  BCP e BPI distinguidos nos Global Private Banking Awards
+
+Politico Europe
+  07/11 06:22  Ein Spaziergang mit Bodo Ramelow  https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-bodo-ramelow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 20:02  Merz’s conservatives poised to nominate Germany’s first woman president  https://www.politico.eu/article/merz-conservatives-poised-nominate-ilse-aigner-first-woman-president-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 17:58  Trump’s ‘big, beautiful’ European security plan isn’t convincing Europe  https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 17:20  NATO faces €7B shortfall on military aid pledge to Ukraine  https://www.politico.eu/article/nato-faces-7b-euro-shortfall-military-aid-pledge-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 16:50  Wave of bomb threats target Irish media outlets and more European flights  https://www.politico.eu/article/bomb-threats-target-irish-media-and-more-european-flights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 16:50  EU capitals urge Brussels to ‘swiftly’ sign electricity deal with UK  https://www.politico.eu/article/eu-capitals-urge-brussels-to-swiftly-sign-electricity-deal-with-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 16:24  Spain and the Netherlands battle over ECB presidency  https://www.politico.eu/article/dutch-and-spanish-battle-over-ecb-presidency/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 15:50  ‘I don’t know if it reassured or worried them’: European envoys quiz Le Pen over lunch  https://www.politico.eu/article/marine-le-pen-european-ambassadors-france-eu-agenda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 15:15  US officials head to Berlin for drug pricing talks  https://www.politico.eu/article/us-germany-talks-drug-pricing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  06/11 14:31  Election favorite says Spain should quit as World Cup co-host if Morocco stages the final  https://www.politico.eu/article/alberto-nunez-feijoo-spain-withdraw-host-world-cup-2030-morocco-final/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 Reuters
+  07/11 06:01  COMMENTARY: US stocks always rise after midterms. Is this time different?
+  06/11 23:53  IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks
+  06/11 23:48  Google executive Donald Harrison resigns from SpaceX board
   06/11 22:04  US labor market regains ground as job growth surges, unemployment rate falls to 4.1%
   06/11 20:58  Fed policymakers consider rate hike after strong jobs report
   06/11 19:21  Four things to note from Friday's US jobs report
-  06/11 17:36  AI rout sets off market alarm signals as traders brace for what's next
-  06/11 15:33  Trader angst pivots from inflation to growth as tech rout deepens
-  06/11 09:41  Nasdaq rebounds but posts fourth straight weekly decline
-  06/11 06:55  Tech selloff wipes out hedge fund gains, prompting risk cuts and layoffs
-  06/11 05:09  Markets fret over growth and inflation, just as tech rout gains speed
-
-ECO
-  06/11 21:50  Partidos apresentam 2.847 propostas de alteração ao Orçamento. Novo máximo histórico  https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/
-  06/11 21:16  Demissões em série no Departamento da Justiça dos EUA  https://eco.sapo.pt/2026/11/06/demissoes-em-serie-no-departamento-da-justica-dos-eua/
-  06/11 21:00  Mais de 40 empresas colocam-se no ‘Rumo’ dos estudantes da Católica Porto  https://eco.sapo.pt/2026/11/06/mais-de-40-empresas-colocam-se-no-rumo-dos-estudantes-da-catolica-porto/
-  06/11 20:35  Tsunami azul com epicentro no Irão  https://eco.sapo.pt/opiniao/tsunami-azul-com-epicentro-no-irao/
-  06/11 19:52  Chega insiste na descida da idade da reforma e do IVA dos combustíveis  https://eco.sapo.pt/2026/11/06/chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis/
-  06/11 19:23  Autarquia da Feira promete ajudar despedidos da fábrica de calçado Ecco a encontrar emprego  https://eco.sapo.pt/2026/11/06/autarquia-da-feira-promete-ajudar-despedidos-da-fabrica-de-calcado-ecco-a-encontrar-emprego/
-  06/11 19:19  Uber avança com despedimento coletivo em Portugal  https://eco.sapo.pt/2026/11/06/uber-avanca-com-despedimento-coletivo-em-portugal/
-  06/11 19:05  Nicolau Santos e Hugo Figueiredo. Está escolhida a nova administração da RTP  https://eco.sapo.pt/2026/11/06/nicolau-santos-e-hugo-figueiredo-esta-escolhida-a-nova-administracao-da-rtp/
-  06/11 18:58  Governo reduz desconto sobre ISP do gasóleo e gasolina face a previsão de descida dos preços  https://eco.sapo.pt/2026/11/06/governo-reduz-desconto-sobre-isp-do-gasoleo-e-gasolina-face-a-previsao-de-descida-dos-precos/
-  06/11 18:52  Governo “intransigente” na lei das rendas, mas abre a porta a mexidas na fiscalidade  https://eco.sapo.pt/2026/11/06/governo-intransigente-na-lei-das-rendas-mas-abre-a-porta-a-mexidas-na-fiscalidade/
-  06/11 18:43  Advogados oficiosos vão receber honorários antes do fim dos processos  https://eco.sapo.pt/2026/11/06/advogados-oficiosos-vao-receber-honorarios-antes-do-fim-dos-processos/
-  06/11 18:24  Armindo Escalda vai ser o novo CEO das seguradoras Aegon Santander  https://eco.sapo.pt/2026/11/06/armindo-escalda-vai-ser-o-novo-ceo-das-seguradoras-aegon-santander/
-
-Bloomberg
-  06/11 21:29  Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop
-  06/11 21:13  US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap
-  06/11 20:34  US Consumer Credit Surges by Most in Nearly Four Years
-  06/11 17:10  Millennium Parting Ways With Two More Credit Trading Pods
-  06/11 14:15  Kyiv Hits Sixth Russian Oil Plant in a Week as Campaign Picks Up
-  06/11 11:30  AI Has Taken Over Every Corner of the Market
-  06/11 06:58  Outages Hit 128 Japan Credit Unions, Preventing ATM Transactions
-  06/11 05:30  The Gulf Faces Three Choices It Can No Longer Avoid
+  06/11 12:51  Tech selloff wipes out hedge fund gains, prompting risk cuts and layoffs
+  06/11 07:29  Britannia CEO plays down Reliance's pricing threat in India biscuit market
 
 CNBC Economia
+  06/11 20:11  A disturbing employment trend is hiding beneath the latest strong job numbers  https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html
   06/11 16:06  U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%  https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html
-  05/11 21:32  The October jobs report is out Friday. Here's everything to expect  https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html
-  05/11 16:07  Voters say the economy drove them to the polls — and blame Trump for their troubles  https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html
-  05/11 16:01  Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%  https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html
-  05/11 14:33  Here's what the Democratic election rout could mean for the U.S. economy  https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html
 
 CMVM
   06/11 16:04  Circular da CMVM n.º 007/2026, de 21 de outubro
@@ -137,42 +147,13 @@ CMVM
 
 EBA
   06/11 16:00  EBA E-mail alert 6 November, 2026  https://www.eba.europa.eu/node/20167
-  05/11 16:00  EBA E-mail alert 5 November, 2026  https://www.eba.europa.eu/node/20162
-
-Expresso
-  06/11 15:35  Construção recupera, mas pesa menos na economia portuguesa
-  06/11 15:33  Wall Street recupera após queda histórica das tecnológicas, mas Europa continua sob pressão
-  06/11 08:10  Economia
-  06/11 08:07  Da sucessão no BCE à habitação: o que marca esta sexta-feira, em dia de Expresso nas bancas
-  05/11 22:57  Tecnologia, bebidas, cortiça e correios nos Altos e Baixos da Economia
-  05/11 22:57  Golfe traz à economia portuguesa 4,4 mil milhões de euros: "é um impacto brutal para uma indústria tão pequena"
-  05/11 22:57  Pensões permitem manter nível de vida em Portugal
-  05/11 22:57  As empresas portuguesas não estão a pôr os EUA em pausa e redesenham estratégias para crescer por lá
 
 Reuters Morning Bid
   06/11 12:04  Morning Bid: AI's $3.2 trillion selloff
   06/11 11:48  MORNING BID AMERICAS-Out of the blue
-  06/11 11:47  COMMENTARY: Morning Bid: Out of the blue
-  06/11 05:51  Morning Bid: AI's reality check
-  06/11 05:37  Morning Bid: AI's reality check - Euronext Markets: Real-time Stock Market Data | live
-  06/11 05:35  MORNING BID EUROPE-AI's reality check
-  05/11 12:08  COMMENTARY: Morning Bid: Oil and the blame game
-  05/11 11:48  Morning Bid: Oil and the blame game
+  06/11 11:48  Morning Bid: Out of the blue - Columbus Ledger-Enquirer
+  06/11 08:31  Morning Bid: AI's reality check
 
 SRB
   06/11 10:30  Europe’s banking union has come very far. It should go further.  https://www.srb.europa.eu/en/content/europes-banking-union-has-come-very-far-it-should-go-further
-  05/11 11:42  IADI 25th Annual General Meeting and Conference  https://www.srb.europa.eu/en/content/iadi-25th-annual-general-meeting-and-conference
-  05/11 11:36  Pan-European Conglomerate Club  https://www.srb.europa.eu/en/content/pan-european-conglomerate-club
-  05/11 11:36  10th MREL Workshop  https://www.srb.europa.eu/en/content/10th-mrel-workshop
-
-BCE
-  06/11 09:00  ECB publishes consolidated banking data for end-June 2026  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html
-  05/11 08:00  Isabel Schnabel: Navigating stormy waters: reflections on monetary policy  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html
-  05/11 07:30  Piero Cipollone: Shaping the future of money  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html
-
-The Economist
-  05/11 23:41  Markets realise they hate America’s blue wave  https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave
-  05/11 11:54  Indebted tycoons haunt China’s banking system  https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system
-  05/11 10:22  AI is turning protectionists into free traders  https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders
-  05/11 10:17  William Nordhaus, favourite economist of the right and the left  https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left
 
