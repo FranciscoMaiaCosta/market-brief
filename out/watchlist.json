@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T06:41+00:00",
+ "generated_at": "2026-11-15T06:41+00:00",
  "reference": {
   "close": "2026-11-13",
   "prev": "2026-11-12"
@@ -396,10 +396,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-11-13",
    "prev_date": "2026-11-12",
-   "level": 49.03099822998047,
-   "change": -1.8830582922260253,
-   "level_fmt": "49,03",
-   "change_fmt": "−1,9%",
+   "level": 49.12099838256836,
+   "change": -1.7029571308395663,
+   "level_fmt": "49,12",
+   "change_fmt": "−1,7%",
    "streak": -2
   },
   {
@@ -411,10 +411,10 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-11-13",
    "prev_date": "2026-11-12",
-   "level": 6.079500198364258,
-   "change": -1.66598769270353,
-   "level_fmt": "6,080",
-   "change_fmt": "−1,7%",
+   "level": 6.0904998779296875,
+   "change": -1.488071319569062,
+   "level_fmt": "6,090",
+   "change_fmt": "−1,5%",
    "streak": -2
   },
   {
@@ -663,11 +663,11 @@
    "unit": "px",
    "status": "ok",
    "reason": "",
-   "used": "cnbc:BCP-PT",
+   "used": "yahoo:BCP.LS",
    "close_date": "2026-11-13",
    "prev_date": "2026-11-12",
-   "level": 1.1445,
-   "change": -0.13089005235600304,
+   "level": 1.1445000171661377,
+   "change": -0.13089096459141247,
    "level_fmt": "1,145",
    "change_fmt": "−0,1%",
    "streak": -2

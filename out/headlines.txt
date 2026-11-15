@@ -1,173 +1,156 @@
-Headlines · janela 48h até 14/11 06:41 (Lisboa) · 133 títulos
+Headlines · janela 48h até 15/11 06:41 (Lisboa) · 120 títulos
+
+Banco de Portugal
+        06:12  Banco de Portugal esconde pareceres sobre conduta dos administradores
+  14/11 23:32  E se os multibancos e o mbway falharem todos ao mesmo tempo? Saiba o que o Banco de Portugal recomenda guardar em casa
+  14/11 07:30  Alerta Banco de Portugal: Quanto dinheiro físico devemos guardar em casa para emergências
+  13/11 12:01  Economia numa imagem: 13.11.2026
 
 CNBC
-        06:00  Ecuador wants to monetize its biodiversity — while still drilling for oil  https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html
-        05:08  FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend  https://www.cnbc.com/2026/11/13/faa-ground-stop.html
-        01:34  Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials  https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html
-        01:18  SpaceX launches Starship in key test flight of massive rocket  https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html
+        06:00  Could Budapest be the next digital nomad hotspot?  https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html
+        02:53  Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy  https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html
+  14/11 23:10  SpaceX catches upper stage of Starship rocket in historic first  https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html
+  14/11 22:34  $180 million Van Gogh tests the art market and collector confidence  https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html
+  14/11 17:46  Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors  https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html
+  14/11 15:50  How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts  https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html
+  14/11 14:54  How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off  https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html
+  14/11 14:30  Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says  https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html
+  14/11 14:11  How Canadian stocks could be big winners of U.S. midterms  https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html
+  14/11 14:02  Berkshire breaks out to record high with fourth-quarter rally reaching 19%  https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html
+  14/11 12:00  Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home  https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html
   13/11 23:42  Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker  https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html
-  13/11 22:31  Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River  https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html
-  13/11 22:18  Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion  https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html
-  13/11 21:34  Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates  https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html
-  13/11 21:18  AI risks are the biggest threat to the financial system, Fed survey finds  https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html
-  13/11 19:53  After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll  https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html
-  13/11 19:38  Nvidia turmoil reshuffles the AI trade. Winners, losers and what investors should watch  https://www.cnbc.com/2026/11/13/nvidia-ceo-exit-amd-broadcom-and-ai-trade-fallout-.html
-  13/11 18:18  Microsoft apologizes for massive outage that took down Outlook and other 365 services  https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html
-
-FT
-        05:00  Hedge fund woes expose the dangers of hot money once again  https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970
-        05:00  Treat prediction markets like futures trading  https://www.ft.com/content/b5bdf7c5-242b-4078-b3fd-a86b488d5a3a
-        05:00  China’s beaten-down tech stocks could offer AI with a little less drama  https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1
-        05:00  How bonds got interesting again  https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3?syn-25a6b1a6=1
-        05:00  What Europe’s rising public debt means for your portfolio  https://www.ft.com/content/45684ea3-dba8-476b-8667-2cdbdb5dfd8d
-  13/11 23:39  Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO  https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1
-  13/11 22:12  US Treasuries record worst week since Trump’s ‘liberation day’  https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1
-  13/11 20:03  US securities watchdog plans to loosen rules for executive pay disclosure  https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17?syn-25a6b1a6=1
-  13/11 19:45  Global oil markets swing to surplus as Gulf shipments rebound  https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1
-  13/11 19:41  Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO  https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1
-  13/11 16:55  AI believers hold the line after Nvidia ructions  https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1
-  13/11 14:00  Norway loses landmark climate case over oilfields  https://www.ft.com/content/8535fe3e-f48b-43ac-b14c-946cd5aa1d51?syn-25a6b1a6=1
 
 FT Global
-        05:00  The Nvidia board’s artificial independence  https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a
-        05:00  Nvidia’s cult of personality was bound to end badly  https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04
-        03:21  US aviation regulator lifts order that grounded thousands of flights  https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1
-        01:28  Trump will not raise Nvidia spy issue with Xi at summit, officials say  https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1
-  13/11 23:43  SpaceX aborts attempt to catch Starship booster rocket  https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1
-  13/11 17:45  Arm boss Rene Haas approached in Nvidia CEO search  https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1
-  13/11 17:08  Scott Colom: the Democrat who conquered the reddest of red states  https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1
-  13/11 17:06  Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed  https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1
+        05:00  What will Nvidia’s post-Huang era look like?  https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3
+        05:00  Inside Infantino’s $6bn Fifa charm offensive  https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1
+        05:00  ‘Low fire, low hire’ job market hurts US and UK productivity  https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1
+        05:00  Data centre construction stocks lose $4.2tn as boom in AI trade unravels  https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1
+        05:00  Huang’s downfall shows human judgment is not all it’s cracked up to be  https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1
+        03:00  The world according to China  https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1
+  14/11 22:57  US air travel chaos exposes system held together by ‘string and duct tape’  https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1
+
+FT
+        05:00  EU banking watchdog veers away from single deposit insurance scheme  https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1
+        05:00  The long and winding road to Dubai’s supermarket shelves  https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1
+        05:00  Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa  https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8?syn-25a6b1a6=1
+        02:00  ‘Red caviar’ slips off Japan’s sushi menus as roe prices soar  https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1
+  14/11 13:00  Trump Media group stares down $1bn debt crunch as bitcoin bet fades  https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1
+  14/11 10:30  Chart of the Week: The great market rotation  https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1
+  14/11 05:00  Hedge fund woes expose the dangers of hot money once again  https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970
+  14/11 05:00  Treat prediction markets like futures trading  https://www.ft.com/content/b5bdf7c5-242b-4078-b3fd-a86b488d5a3a
+  14/11 05:00  China’s beaten-down tech stocks could offer AI with a little less drama  https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1
+  14/11 05:00  How bonds got interesting again  https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3?syn-25a6b1a6=1
+  14/11 05:00  What Europe’s rising public debt means for your portfolio  https://www.ft.com/content/45684ea3-dba8-476b-8667-2cdbdb5dfd8d
+  13/11 23:39  Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO  https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1
 
 Politico Europe
-        04:30  Die Geburtstagswoche des Grauens für Merz. Mit Rasmus Buchsteiner  https://www.politico.eu/podcast/berlin-playbook-podcast/die-geburtstagswoche-des-grauens-fur-merz-mit-rasmus-buchsteiner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Ukraine claims thousands of Russian casualties and a slowing Kremlin advance  https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  14/11 16:28  EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches  https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  14/11 14:03  Italy hits Meta with €805m fine over privacy law violation  https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  14/11 13:16  Nearly €20m in cash found buried, hidden in Hungary corruption case  https://www.politico.eu/article/nearly-e20m-in-cash-found-buried-hidden-in-hungary-corruption-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  14/11 10:48  US suggested Ukraine could give up Donbas for NATO membership, Zelenskyy says  https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  14/11 09:57  Finland rejects reported Russian demand to leave NATO as part of peace talks  https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  14/11 04:30  Die Geburtstagswoche des Grauens für Merz. Mit Rasmus Buchsteiner  https://www.politico.eu/podcast/berlin-playbook-podcast/die-geburtstagswoche-des-grauens-fur-merz-mit-rasmus-buchsteiner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
   13/11 19:10  EU deal on Ukraine talks overshadows AI-focused summit in Dublin  https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
   13/11 18:14  Why Europe failed to find a superhero to take on Putin  https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
   13/11 18:07  Le Pen offers to meet Zelenskyy in Brussels  https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  13/11 17:56  Cut off from Europe, Russia will have to rewire its Arctic gas trade  https://www.politico.eu/article/cut-off-europe-russia-rewire-arctic-gas-trade-lng-eu-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  13/11 17:32  Microsoft outage renews European calls to detox from US tech  https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  13/11 16:24  Ex-Labour MP accused of sexual harassment joins Plaid Cymru  https://www.politico.eu/article/ex-labour-mp-accused-sexual-harassment-joins-plaid-cymru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  13/11 16:23  EU countries to announce deportation hub deal with Rwanda  https://www.politico.eu/article/eu-countries-to-announce-deportation-hub-deal-with-rwanda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  13/11 16:18  What Vladimir Putin won in Abu Dhabi Ukraine peace talks  https://www.politico.eu/article/what-vladimir-putin-won-in-abu-dhabi-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  13/11 15:00  Whitehall to increase face-to-face job interviews after surge in AI applications  https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
-Jornal de Negócios
-        02:04  Suspensão de voos levantada nos EUA  https://www.jornaldenegocios.pt/empresas/detalhe/milhares-de-voos-cancelados-nos-eua-governo-nega-que-problema-esteja-em-novo-sistema-de-ia
-        01:03  Casa Branca confirma encontro entre Trump, Xi e Putin na China  https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china
-  13/11 23:18  TAP “tem autorização para aterrar” aviões nos EUA. Segurança “está garantida”  https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/tap-tem-autorizacao-para-aterrar-avioes-nos-eua-seguranca-esta-garantida
-  13/11 22:36  Descolagens nos EUA suspensas. FBI não acredita em ciberataque, problema de software poderá ser a causa  https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/descolagens-nos-eua-suspensas-fbi-nao-acredita-em-ciberataque-problema-de-software-podera-ser-a-causa
-  13/11 22:19  Secretário de Segurança Nacional dos EUA: "Não estamos a descartar nenhuma possibilidade" de ciberataque  https://www.jornaldenegocios.pt/empresas/detalhe/secretario-de-seguranca-nacional-dos-eua-nao-estamos-a-descartar-nenhuma-possibilidade-de-ciberataque
-  13/11 22:12  Mais de 3 mil voos iriam descolar com destino a aeroportos dos EUA  https://www.jornaldenegocios.pt/empresas/detalhe/mais-de-3-mil-voos-iriam-descolar-com-destino-a-aeroportos-dos-eua
-  13/11 21:17  "Sell-off" de ações de IA arrasta S&P 500 e Nasdaq para o vermelho. Nvidia cai 6% na semana  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/sell-off-de-acoes-de-ia-arrasta-s-p-500-e-nasdaq-para-o-vermelho-nvidia-cai-6-na-semana
-  13/11 21:16  EUA suspendem descolagens em todos os aeroportos do país devido a problemas de comunicação no controlo aéreo  https://www.jornaldenegocios.pt/empresas/detalhe/eua-ordenam-suspensao-de-descolagens-nos-aeroportos-do-pais-por-razoes-de-seguranca
-  13/11 21:07  DBRS mantém rating de Portugal em A (elevado) com perspetiva positiva  https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/dbrs-mantem-rating-de-portugal-em-a-elevado-com-perspetiva-positiva
-  13/11 20:46  Goldman Sachs: Crescimento dos lucros das empresas europeias deve abrandar para 7% em 2027  https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/goldman-sachs-crescimento-dos-lucros-das-empresas-europeias-deve-abrandar-para-7-em-2027
-  13/11 20:04  Von der Leyen alerta que UE não pode errar sobre IA. "Vai moldar as décadas seguintes"  https://www.jornaldenegocios.pt/economia/detalhe/von-der-leyen-alerta-que-ue-nao-pode-errar-sobre-ia-vai-moldar-as-decadas-seguintes
-  13/11 19:11  Microsoft diz que serviços estão em "ampla recuperação" e lamenta falhas  https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/microsoft-diz-que-servicos-estao-em-ampla-recuperacao-e-lamenta-falhas
-
-Bloomberg
-        00:00  Fed’s Jefferson Says Inflation Will Determine Rate Decisions
-  13/11 21:43  Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields
-  13/11 21:00  Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI
-  13/11 19:55  Fed on Track to Raise Interest Rates Next Month And Maybe Again in January
-  13/11 17:47  Trump to Extend Shipping Waiver for Oil, Fertilizer for 90 Days
-  13/11 15:04  Ukraine Hits Ninth Russian Oil Refinery Since Start of November
-  13/11 12:02  Microsoft Outage Sends Traders Back to Phones and Fax
-  12/11 08:00  US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap
+ECO
+        01:02  Comissão de Trabalhadores da Autoeuropa reeleita diz que emprego e futuro da fábrica de Palmela são prioridades  https://eco.sapo.pt/2026/11/15/comissao-de-trabalhadores-da-autoeuropa-reeleita-diz-que-emprego-e-futuro-da-fabrica-de-palmela-sao-prioridades/
+  14/11 19:27  UGT quer revisitar acordo de Concertação Social  https://eco.sapo.pt/2026/11/14/ugt-quer-revisitar-acordo-de-concertacao-social/
+  14/11 19:07  Milhares voltam às ruas em Lisboa e Porto pelo direito à habitação  https://eco.sapo.pt/2026/11/14/milhares-voltam-as-ruas-em-lisboa-e-porto-pelo-direito-a-habitacao/
+  14/11 18:14  Itália multa Meta em 805 milhões por aceder a fotos de utilizadores sem permissão  https://eco.sapo.pt/2026/11/14/italia-multa-meta-em-805-milhoes-por-aceder-a-fotos-de-utilizadores-sem-permissao/
+  14/11 18:00  Pagar a quem nos vai substituir  https://eco.sapo.pt/opiniao/pagar-a-quem-nos-vai-substituir/
+  14/11 17:59  PS propõe fundo alimentado com dividendos da Caixa para Câmaras construírem casas  https://eco.sapo.pt/2026/11/14/ps-propoe-fundo-alimentado-com-dividendos-da-caixa-para-camaras-construirem-casas/
+  14/11 16:45  Segunda estrela Michelin para o Cura? “Irei tê-la. Não sei quando, mas irei tê-la”  https://eco.sapo.pt/especiais/segunda-estrela-michelin-para-o-cura-irei-te-la-nao-sei-quando-mas-irei-te-la/
+  14/11 15:40  Governo aplaude acordo da UE sobre licenças de CO2 gratuitas  https://eco.sapo.pt/2026/11/14/governo-aplaude-acordo-da-ue-sobre-licencas-de-co2-gratuitas/
+  14/11 14:23  ECO Quiz. Patrões do comércio criticaram o ‘fecho’ do país devido à depressão Charles?  https://eco.sapo.pt/2026/11/14/eco-quiz-patroes-do-comercio-criticaram-o-fecho-do-pais-devido-a-depressao-charles/
+  14/11 14:22  Canadá põe indústria automóvel à frente de acordo com os EUA  https://eco.sapo.pt/2026/11/14/canada-poe-industria-automovel-a-frente-de-acordo-com-os-eua/
+  14/11 12:23  Jensen Huang: Do estrelato à queda, a história do homem que construiu a Nvidia  https://eco.sapo.pt/especiais/jensen-huang-do-estrelato-a-queda-a-historia-do-homem-que-construiu-a-nvidia/
+  14/11 11:30  EUA propõem à Ucrânia cedência de território no Donbass pela adesão à NATO  https://eco.sapo.pt/2026/11/14/eua-propoem-a-ucrania-cedencia-de-territorio-no-donbass-pela-adesao-a-nato/
 
 Expresso
+  14/11 21:37  Passos sobre nova força política de Isaltino: “Sou do PSD há muito e não tenciono patrocinar nem aderir a outros partidos”
+  14/11 17:39  Ana Paula Vitorino critica “monocultura do turismo” e defende maior peso da economia azul: “Tem sido um problema transversal aos governos”
+  14/11 11:46  Como Marco Rubio foi decisivo na queda do CEO da Nvidia
+  14/11 08:20  Criar uma startup em Portugal é "fácil": e fazê-la crescer?
   13/11 22:15  Na última lição de Francisco Louçã, pediu-se uma nova economia capaz de afrontar "estes anos de ameaças
+  13/11 18:20  Falha da Microsoft: quem ficou sem email pode receber uma compensação?
   13/11 07:53  Sexta-feira é dia de Expresso nas bancas, e na agenda há IA e 'rating' de Portugal
-  13/11 06:30  Nvidia perdeu em nove dias o PIB de Portugal de três anos. Que impacto terá a queda de Huang na economia norte-americana?
-  12/11 23:02  Economia
-  12/11 22:57  Distribuição, hotelaria, energia e media nos Altos e Baixos da Economia
-  12/11 22:57  O poder da economia na derrota de Trump
-  12/11 20:24  Falha global na Microsoft: empresa garante que serviços estão a entrar na normalidade
-  12/11 20:24  Milhares de clientes continuam há mais de 12 horas sem acesso a serviços da Microsoft, que admite dificuldades na resolução dos problemas
+  13/11 07:00  Oliver Blume, CEO do grupo Volkswagen, visita a Autoeuropa em plena crise do gigante alemão
+
+Jornal de Negócios
+  14/11 21:00  Luís Leite Ramos: "Há possibilidade" do valor do fundo de catástrofes ser superior a 100 milhões  https://www.jornaldenegocios.pt/economia/detalhe/luis-leite-ramos-ha-possibilidade-do-valor-do-fundo-de-catastrofes-ser-superior-a-100-milhoes
+  14/11 19:00  O homem que controlava tudo perdeu o controlo. "Não quero saber": os últimos dias de Huang na Nvidia  https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/o-homem-que-controlava-tudo-perdeu-o-controlo-nao-quero-saber-os-ultimos-dias-de-huang-na-nvidia
+  14/11 18:38  Milhares manifestam-se em todo o país pelo direito à habitação  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/milhares-manifestam-se-em-todo-o-pais-pelo-direito-a-habitacao
+  14/11 18:00  Explicador: IMT Jovem e emprego  https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-imt-jovem-e-emprego
+  14/11 17:00  Depois dos despedimentos, a Disney aposta na IA em todas as áreas de negócio  https://www.jornaldenegocios.pt/empresas/detalhe/depois-dos-despedimentos-a-disney-aposta-na-ia-em-todas-as-areas-de-negocio
+  14/11 15:00  Mudar de emprego e local de trabalho faz perder a isenção do IMT Jovem?  https://www.jornaldenegocios.pt/economia/impostos/detalhe/mudar-de-emprego-e-local-de-trabalho-faz-perder-a-isencao-do-imt-jovem
+  14/11 14:00  Biotecnológica fundada por português capta 5,9 milhões para lutar contra o cancro. Vai chegar a Portugal  https://www.jornaldenegocios.pt/empresas/pme/start-ups/detalhe/biotecnologica-fundada-por-portugues-capta-5-9-milhoes-para-lutar-contra-o-cancro-vai-chegar-a-portugal
+  14/11 13:13  Carneiro defende que PS "está bem vivo" e pede que portugueses "não desistam"  https://www.jornaldenegocios.pt/economia/detalhe/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam
+  14/11 13:00  Galáxia: a Madeira na mesa, entre a espada e o tamarilho  https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/galaxia-a-madeira-na-mesa-entre-a-espada-e-o-tamarilho
+  14/11 11:24  Ucrânia: EUA propõem cedência de território em troca de adesão à NATO  https://www.jornaldenegocios.pt/economia/detalhe/ucrania-eua-propoem-cedencia-de-territorio-em-troca-de-adesao-a-nato
+  14/11 11:00  O preço político de usar cargas policiais contra protestos  https://www.jornaldenegocios.pt/weekend/detalhe/o-preco-politico-de-usar-cargas-policiais-contra-protestos
+  14/11 10:52  PS avança com Estados Gerais para "preparar alternativa de Governo"  https://www.jornaldenegocios.pt/lusa/detalhe/novos-estados-gerais-do-ps-arrancam-hoje-para-preparar-alternativa-de-governo
+
+Bloomberg
+  14/11 20:00  Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly
+  14/11 15:08  Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate
+  14/11 14:00  SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger
+  14/11 10:00  Charting the Global Economy: Inflation in US Exceeds Projections
+  14/11 08:30  The Oil Market Is Brimming With Crude Despite Tanker Attacks
+  14/11 00:00  Fed’s Jefferson Says Inflation Will Determine Rate Decisions
+  13/11 17:02  West African Oil Just Got $64 a Barrel Cheaper for Some Buyers
+  13/11 15:04  Ukraine Hits Ninth Russian Oil Refinery Since Start of November
+
+Reuters
+  14/11 15:47  Fed's Collins says gradual rate hikes best to manage economic risks
+  14/11 08:45  Binance targets full reopening of withdrawals by next week
+  13/11 22:26  AI rockets to top of worries about financial system in latest Fed survey
+  13/11 21:47  US Supreme Court to consider lawsuit over Robinhood's 2021 IPO
+  13/11 14:33  PODCAST: Chips down after Huang exit?
+  13/11 14:31  Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth
+  13/11 11:34  World oil market is returning to surplus as Gulf exports recover, IEA says
+  13/11 08:51  Huang's exit, Anthropic's entrance
 
 WSJ
+  13/11 22:33  WSJ Dollar Index Rises 0.84% This Week to 98.34
   13/11 22:14  U.S. Stocks Mixed on Nvidia Fallout Fears
   13/11 21:19  Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13
   13/11 21:01  Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating
   13/11 20:02  U.S. Stocks Decline as Nvidia Shares Slide Again
-  12/11 21:42  Jensen Huang’s Exit Will Test AI’s Stocks, and Great-Man Theory
-  12/11 21:23  Applied Materials Sales, Profit Climb on Semiconductor Demand
-  12/11 21:11  Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals
-  12/11 18:33  Federal Reserve to Forgo Rate Decision at October 2027 Meeting
-
-ECO
-  13/11 21:51  Regulador dos EUA suspende todos os voos de partida por falha nas comunicações  https://eco.sapo.pt/2026/11/13/regulador-dos-eua-suspende-todos-os-voos-de-partida-por-falha-nas-comunicacoes/
-  13/11 21:09  DBRS mantém rating e perspetiva da dívida pública portuguesa  https://eco.sapo.pt/2026/11/13/dbrs-mantem-rating-e-perspetiva-da-divida-publica-portuguesa/
-  13/11 20:45  Sindicato dos Jornalistas quer renegociar tabela salarial da profissão  https://eco.sapo.pt/2026/11/13/sindicato-dos-jornalistas-quer-renegociar-tabela-salarial-da-profissao/
-  13/11 20:35  Estado adquire bracelete da Rainha D. Amélia por mais de 220 mil euros  https://eco.sapo.pt/2026/11/13/estado-adquire-bracelete-da-rainha-d-amelia-por-mais-de-220-mil-euros/
-  13/11 20:31  Veja aqui a chave do Euromilhões. Prémio é de 17 milhões de euros  https://eco.sapo.pt/2026/11/13/veja-aqui-a-chave-do-euromilhoes-premio-e-de-17-milhoes-de-euros/
-  13/11 20:16  Dona do Pingo Doce compra fábrica de carnes em Torres Novas à líder dos bovinos  https://eco.sapo.pt/2026/11/13/dona-do-pingo-doce-compra-fabrica-de-carnes-em-torres-novas-a-lider-dos-bovinos/
-  13/11 19:27  Dívida de 12 milhões ‘rasga’ têxtil de Barcelos com dono canadiano que já vestiu o Benfica  https://eco.sapo.pt/2026/11/13/divida-de-12-milhoes-rasga-textil-de-barcelos-com-dono-canadiano-que-ja-vestiu-o-benfica/
-  13/11 18:49  ‘Apagão’ da Microsoft mostra impacto de se depender de um único fornecedor  https://eco.sapo.pt/2026/11/13/apagao-da-microsoft-mostra-impacto-de-se-depender-de-um-unico-fornecedor/
-  13/11 18:43  Microsoft vê “recuperação generalizada” de serviços, mas não dá prazo para normalização total  https://eco.sapo.pt/2026/11/13/microsoft-anuncia-recuperacao-generalizada-dos-servicos-e-pede-desculpa-pela-falha/
-  13/11 18:26  Europa acorda formato de representação nas negociações de paz para a Ucrânia, diz Montenegro  https://eco.sapo.pt/2026/11/13/europa-acorda-formato-de-representacao-nas-negociacoes-de-paz-para-a-ucrania-diz-montenegro/
-  13/11 18:07  Centro Nacional de Cibersegurança alerta para risco de burlas durante falha da Microsoft  https://eco.sapo.pt/2026/11/13/autoridades-alertam-para-risco-de-burlas-durante-falha-da-microsoft/
-  13/11 17:48  Destino da Visão decidido em dezembro. Lançar Opção é plano B dos jornalistas  https://eco.sapo.pt/2026/11/13/destino-da-visao-decidido-em-dezembro-lancar-opcao-e-plano-b-dos-jornalistas/
-
-Reuters
-  13/11 20:29  Meta employees test prediction-market app, WSJ reports
-  13/11 17:03  How US tech pain is European stock markets' gain
-  13/11 15:46  How AI has become a utility bill for Gen Z
-  13/11 14:33  PODCAST: Chips down after Huang exit?
-  13/11 14:31  Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth
-  13/11 11:34  World oil market is returning to surplus as Gulf exports recover, IEA says
-  13/11 05:32  Morning Bid: Scandal topples the AI star
-  13/11 01:55  Stocks fall with tech, Nvidia concerns; US dollar climbs
-
-PSI e cotadas PT
-  13/11 17:15  Bolsa de Lisboa fecha em alta com PSI a subir 1,06%
-  13/11 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 1,06% - Investing.com Brasil
-  13/11 14:26  Interesse do Estado no BCP chega depois de ações dispararem 1500%
-  12/11 18:33  Ministro não vê razão para entrar já no BCP, mas vê motivos para intervir na banca
-  12/11 13:09  Finanças afastam entrada no BCP: “Não vejo, neste momento, uma razão para isso”, diz ministro
-  12/11 12:19  Habitação: Governo diz que garantia pública ilimitada aos senhorios seria uma “irresponsabilidade orçamental”
-  12/11 11:28  Miranda Sarmento rejeita entrada do Estado no BCP neste momento. "Não vejo uma razão para isso"
-  12/11 08:27  Grupo EDP e BCP pressionam bolsa de Lisboa no arranque da sessão
+  13/11 19:49  Exclusive | Meta Testing New Prediction-Market App With Employees
+  13/11 18:00  U.S., Eurozone Bond Yields Rise
+  13/11 11:17  How the AI Trade Hijacked the Treasury Market for a Month
 
 CNBC Economia
+  13/11 21:18  AI risks are the biggest threat to the financial system, Fed survey finds  https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html
   13/11 17:06  Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China  https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html
   13/11 15:44  Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years  https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html
-  12/11 23:08  Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’  https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html
-  12/11 08:02  UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'  https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html
+
+PSI e cotadas PT
+  13/11 18:44  Bolsas da Europa sobem na maioria, apesar de incertezas sobre setor de IA
+  13/11 17:15  Bolsa de Lisboa fecha em alta com PSI a subir 1,06%
+  13/11 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 1,06% - Investing.com Brasil
+  13/11 16:58  Lisboa sobe mais de 1% com REN e retalho a impulsionar
+  13/11 16:34  PSI encerra semana em alta, impulsionado pela Jerónimo Martins e REN
+  13/11 14:26  Interesse do Estado no BCP chega depois de ações dispararem 1500%
+  13/11 10:45  "Não sei o que o PS quer": garantia pública ilimitada aos senhorios seria irresponsável
+  13/11 09:08  Guia de Arquitetura do Movimento Moderno em Portugal apresentado em Lisboa a 19 de novembro
 
 EBA
   13/11 16:00  EBA E-mail alert 13 November, 2026  https://www.eba.europa.eu/node/20193
 
 SRB
   13/11 13:48  SRB participated in the first dialogue on the competitiveness of the EU banking sector and looks ahead to the Commission’s banking package  https://www.srb.europa.eu/en/content/srb-participated-first-dialogue-competitiveness-eu-banking-sector-and-looks-ahead
-  12/11 16:46  Resolution Conference 2026  https://www.srb.europa.eu/en/content/resolution-conference-2026
-  12/11 16:45  ECON Committee Hearing - December 2026  https://www.srb.europa.eu/en/content/econ-committee-hearing-december-2026
-  12/11 16:44  Dialogue on the Competitiveness of the EU Banking Sector  https://www.srb.europa.eu/en/content/dialogue-competitiveness-eu-banking-sector
-  12/11 16:43  Eurogroup Meeting - November 2026  https://www.srb.europa.eu/en/content/eurogroup-meeting-november-2026
 
 Reuters Morning Bid
   13/11 12:06  COMMENTARY: Morning Bid: AI's no good, very bad week
   13/11 12:04  Morning Bid: AI's no good, very bad week
   13/11 11:33  MORNING BID AMERICAS-AI's no good, very bad week
-  13/11 05:31  MORNING BID EUROPE-Scandal topples the AI star
-  12/11 11:45  MORNING BID AMERICAS-Nvidious
-  12/11 11:36  Morning Bid: Nvidious
-  12/11 10:03  Morning Bid: Jensen hangs on as Nvidia tumbles - KELO-AM
-
-Banco de Portugal
-  13/11 12:01  Economia numa imagem: 13.11.2026
-  12/11 23:40  Banco de Portugal propõe lei que obriga empresas a aceitar pagamentos eletrónicos
-  12/11 20:17  Banco de Portugal propõe pagamento eletrónico obrigatório para todas as empresas
-  12/11 18:24  Banco de Portugal define estratégia para pagamentos de retalho até 2030
-  12/11 13:48  Banco de Portugal define estratégia para os pagamentos de retalho até 2030 com foco na segurança e inovação
+  13/11 09:32  Morning Bid: Scandal topples the AI star By Reuters
+  13/11 07:08  Morning Bid: Scandal topples the AI star
 
 BCE
   13/11 07:20  Isabel Schnabel: Made in Europe  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html
-
-Fed
-  12/11 17:45  Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027  https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm
-
-The Economist
-  12/11 10:40  The return of the snatch-and-grab state  https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state
-  12/11 10:38  Where to find the anti-AI trade  https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade
-  12/11 10:35  Italy’s proposed exit tax causes ructions  https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions
 
