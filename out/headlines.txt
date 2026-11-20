@@ -1,163 +1,152 @@
-Headlines · janela 24h até 19/11 06:41 (Lisboa) · 123 títulos
-
-CNBC
-        06:29  Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting  https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html
-        06:07  Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine  https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html
-        05:34  The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts  https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html
-        05:32  Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates  https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html
-        03:43  'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal  https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html
-        02:49  Musk says Jensen Huang is irreplaceable, regrets midterm spending  https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html
-        01:13  Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX  https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html
-        00:35  Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms  https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html
-        00:07  Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings  https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html
-  18/11 23:45  Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit  https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html
-  18/11 19:47  I watched Trump, Xi and Putin gather in China. Here are my top takeaways  https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html
-  18/11 09:45  Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe  https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html
-
-Bloomberg
-        05:47  Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap
-        05:08  Oil Steadies as Supply, US Inventories Offset Mideast Tensions
-        04:41  Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes
-        02:57  Maria Corina Machado Questions Trump Oil Deal While Committing to US Ties
-        00:36  China Oil Imports Rebound as Beijing Turns Back to Stockpiling
-  18/11 20:52  Fed Minutes Show Almost All Officials Expect More Rate Hikes
-  18/11 16:21  Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once
-  18/11 16:10  Wells Fargo Poaches JPMorgan’s Credit-Card Boss as New COO
-
-Reuters Morning Bid
-        05:40  Morning Bid: Loading ... Claude and GTA VI
-  18/11 11:38  Morning Bid: AI screen test
-  18/11 07:43  Morning Bid: Jensen Huang’s last hurrah, and a nervy future for Nvidia
-
-Politico Europe
-        05:05  The Coalition of the Willing’s chance to deliver  https://www.politico.eu/podcast/brussels-playbook-podcast/the-coalition-of-the-willings-chance-to-deliver/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:30  Die Koalition der Wartenden: Europa blickt nach Shenzhen  https://www.politico.eu/podcast/berlin-playbook-podcast/die-koalition-der-wartenden-europa-blickt-nach-shenzhen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:00  Europe’s automotive transition needs a competitive industrial base  https://www.politico.eu/sponsored-content/europes-automotive-transition-needs-a-competitive-industrial-base/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  EU lawmakers accuse Chinese officials of intimidation over Taiwan  https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Germany presses to make Ukraine aid Le Pen-proof  https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  How Burnham tapped the brakes on his big Brexit reset  https://www.politico.eu/article/andy-burnham-eu-uk-brexit-reset/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Inside Ukraine’s Coalition of the Wobbling  https://www.politico.eu/article/inside-ukraines-coalition-of-the-wobbling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Europe argued over who would talk to Russia. Agreeing what to say is even tougher.  https://www.politico.eu/article/europe-argued-over-who-would-talk-to-russia-agreeing-what-to-say-is-even-tougher/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  5 key places that signal where Spain’s election is heading  https://www.politico.eu/article/5-key-places-that-signal-where-spains-election-is-heading/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  18/11 20:46  EPP moves to suspend Serbia’s former ruling party  https://www.politico.eu/article/epp-moves-to-suspend-serbias-former-ruling-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-FT
-        05:00  Energy markets can ‘manage without’ the Strait of Hormuz, says IEA  https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1
-        05:00  Anthropic’s magnificent IPO  https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1
-        05:00  Anthropic retail investors face squeeze in blockbuster IPO  https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1
-        05:00  Gold loses its lustre for investors  https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1
-        05:00  Anthropic’s AI advances trigger new safety fears on eve of IPO  https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1
-        05:00  Palm oil’s rise will put packaged-food producers in the shade  https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208?syn-25a6b1a6=1
-        05:00  Private equity’s liquidity cure needs a better formula  https://www.ft.com/content/2af3765e-d689-4418-bdd2-5b34042df396
-        00:01  City firms told to tighten cyber defences as AI exposes vulnerabilities  https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1
-  18/11 22:04  Anthropic raises $81bn in record IPO  https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1
-  18/11 19:44  US tech stocks oscillate after Nvidia results  https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1
-  18/11 16:30  JPMorgan seeks to revive stalled software debt sale with steep price cuts  https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1
-  18/11 09:46  Russia imports record volumes of petrol as Ukraine strikes refineries  https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50?syn-25a6b1a6=1
-
-FT Global
-        05:00  Angry America and its housing market  https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1
-        05:00  Adani: the billionaire at the heart of Modi’s India  https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1
-        05:00  Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses  https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452?syn-25a6b1a6=1
-        02:19  Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans  https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1
-        01:31  Trump meets Xi after aside with ‘my friend’ Putin  https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f
-  18/11 20:15  ‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback  https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1
-
-Jornal de Negócios
-        05:00  AIE admite descida dos preços do petróleo e gás após crise energética  https://www.jornaldenegocios.pt/empresas/energia/detalhe/aie-admite-descida-dos-precos-do-petroleo-e-gas-apos-crise-energetica
-  18/11 23:35  Irão relata incêndio de três petroleiros após colisão com minas em Ormuz  https://www.jornaldenegocios.pt/economia/detalhe/irao-relata-incendio-de-tres-petroleiros-apos-colisao-com-minas-em-ormuz
-  18/11 23:30  Medidas do PS atiram excedente de Sarmento para défice de 0,3%  https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/medidas-do-ps-atiram-excedente-de-sarmento-para-defice-de-0-3
-  18/11 23:18  Um "absurdómetro", um óvni e "pães especuladores". O primeiro dia de discussão do OE  https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/um-absurdometro-um-ovni-e-paes-especuladores-o-primeiro-dia-de-discussao-do-oe
-  18/11 23:09  Febre do GTA VI gera corrida inédita de encomendas em Portugal  https://www.jornaldenegocios.pt/economia/detalhe/febre-do-gta-vi-gera-corrida-inedita-de-encomendas-em-portugal
-  18/11 23:00  Deem-nos um OE aborrecido  https://www.jornaldenegocios.pt/opiniao/editorial/detalhe/deem-nos-um-oe-aborrecido
-  18/11 22:38  Anthropic arrecada 81 mil milhões de dólares no IPO e supera recorde da SpaceX  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/preco-do-ipo-da-anthropic-fixado-em-83-dolares-acima-do-previsto
-  18/11 22:11  UBS privilegia obrigações e ouro em 2027. Nas ações, prefere a Europa  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/ubs-privilegia-obrigacoes-e-ouro-em-2027-nas-acoes-prefere-a-europa
-  18/11 21:42  Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento  https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade
-  18/11 21:30  O caminho mais rápido para empobrecer  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/o-caminho-mais-rapido-para-empobrecer
-  18/11 21:11  Wall Street em terreno misto com tecnológicas a impulsionarem Nasdaq. Nvidia cai quase 3%  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-terreno-misto-com-tecnologicas-a-impulsionarem-nasdaq-nvidia-cai-quase-3
-  18/11 20:47  O caminho de volta  https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/pedro-brinca/detalhe/o-caminho-de-volta
-
-PSI e cotadas PT
-        03:08  Perdas do Ueno Bank se aproximam de US$ 1 bilhão, segundo Banco Central
-  18/11 17:26  Bolsa de Lisboa cai 0,98% em linha com praças europeias
-  18/11 17:08  PSI cai 0,98% com BCP, Mota-Engil e Galp a pressionarem bolsa de Lisboa
-  18/11 17:05  Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,98% - Investing.com Brasil
-  18/11 17:01  Lisboa segue perdas europeias sob pressão do BCP e Mota-Engil
-  18/11 16:13  Maré de perdas nas bolsas europeias devido à tecnologia. PSI tomba com quedas do BCP, Mota, CTT e Galp
-  18/11 11:27  Mota-Engil lucra 115 milhões de euros até setembro e ações sobem 2,70% na bolsa de Lisboa
-  18/11 11:02  PSI segue no ‘vermelho’, penalizado pela família EDP
-
-Reuters
-        02:47  Oil prices steady as Middle East shipping attacks counter supply surplus outlook
-        02:01  US dollar hits 19-month peak, Aussie drops after soft jobs data
-        01:53  Asian stocks fail to get a lift from Anthropic's IPO pricing
-  18/11 22:54  How the Anthropic IPO stacks up against SpaceX
-  18/11 21:26  Anthropic raises record $81 billion in IPO at $1.5 trillion valuation
-  18/11 17:14  Anthropic options could begin trading on Monday, expected to draw strong demand
-  18/11 10:28  Wall Street ends mixed after Nvidia earnings, Fed minutes
-  18/11 07:40  After $6.3 billion crypto heist, Binance plans Asia expansion
+Headlines · janela 24h até 20/11 06:41 (Lisboa) · 117 títulos
 
 WSJ
-        02:03  Australia’s Jobless Rate Rises to Highest Level Since 2021
-  18/11 22:50  Moody’s Says U.S. Economy Grew More Than Expected
-  18/11 22:14  U.S. Stocks Mixed, Nvidia Down Again Ahead of Anthropic IPO
-  18/11 21:40  Tech Stocks Boosted by Cybersecurity Rally
-  18/11 21:09  Comex Gold Settles 3.16% Lower at $3736.80
-  18/11 19:59  U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves
-  18/11 19:41  Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month
-  18/11 15:00  These Charts Show Why Young People Across the World Are Fed Up With the Economy
+        06:08  Taiwan’s Taiex on Track for Worst Week Since 1990
+        00:26  Fed Cuts Pay Raises for Regional-Bank Staff
+  19/11 22:04  U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO
+  19/11 21:43  Two Big Debuts Fail To Boost Stocks
+  19/11 21:40  Investors Dumping AI Stocks to Buy Into Anthropic Send Tech Shares Lower
+  19/11 11:27  Alibaba Earnings Rebound Sharply as AI Profitability Improves
+  19/11 11:25  Babcock Shares Climb on Earnings Beat, Push Into Drones
+  19/11 10:50  Four Ways Techruptions May Shape the Economy
+
+CNBC
+        06:00  Forget Anthropic: In Europe, the IPO hype is about a blue lagoon  https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html
+        06:00  AI is changing software engineering — and some developers miss the struggle  https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html
+        05:19  Stock futures tick lower after Dow closes below 50,000 for first time since June: Live updates  https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html
+        05:09  U.K.-India trade deal faces a stiff test over Scotch whisky import taxes  https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html
+        04:51  Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility  https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html
+        03:56  Senate passes BAAJA permitting reform bill backed by AI, energy sectors  https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html
+        03:30  SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut  https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html
+        00:08  AMD dives on short seller report of alleged China exposure  https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+        00:04  Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI  https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html
+        00:00  Anthropic was supposed to save the AI trade. What went wrong?  https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html
+  19/11 19:58  Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs  https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html
+  19/11 10:54  APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance  https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html
+
+Reuters Morning Bid
+        05:54  MORNING BID EUROPE-Anthropic's splashy IPO fails to lift AI boat
+        05:53  Morning Bid: Anthropic's splashy IPO fails to lift AI boat
+  19/11 11:40  Morning Bid: ANTics
+  19/11 09:31  Morning Bid: Loading … Claude and GTA VI
+
+FT Global
+        05:45  China revels in Xi’s ‘Yalta 2.0’ moment  https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1
+        05:00  Can Nvidia learn from AIG’s mistakes?  https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1
+        05:00  Rejoining the EU would boost UK economy twice as much as Swiss-style deal  https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1
+        05:00  How pensions ate the state  https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1
+        00:42  US approved sale of Nvidia and AMD chips to Chinese companies  https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1
+  19/11 22:44  UK and EU poised to finalise deal to ‘reset’ relations  https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1
+  19/11 21:02  Anthropic shares jump 17% after record Wall Street listing  https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1
+
+FT
+        05:22  Tech stocks fall after Anthropic IPO  https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1
+        05:19  So, Anthropic is finally a public company. What now?  https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757
+        05:00  Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’  https://www.ft.com/content/0cb87e56-2b97-4c91-bfa7-a7ab616fd58e?syn-25a6b1a6=1
+        05:00  Oil loses grip on bond markets as inflation ‘virus’ spreads  https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1
+        05:00  Anthropic’s Wall Street stimulus fades  https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1
+        05:00  The rift between the US and EU on banks is widening  https://www.ft.com/content/cf6e81b6-e3aa-4475-8d5b-04eb8809d5ce?syn-25a6b1a6=1
+        05:00  Worldline bolstered cash flow through delayed payments and early receipts  https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1
+        05:00  How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs  https://www.ft.com/content/221a6fc4-01ac-48fd-95e8-1efb094c3e8d?syn-25a6b1a6=1
+        05:00  Is Britain’s state wealth fund putting its billions in the right places?  https://www.ft.com/content/4c501172-405a-4719-8010-b846383e3e3f?syn-25a6b1a6=1
+        05:00  China prepares to restart US private equity investments after pullback  https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1
+        00:15  Lenders aim to bar SpaceX from launching $40bn of chips into orbit  https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1
+  19/11 21:44  Anthropic’s rocketing IPO  https://www.ft.com/content/a7e598c1-90b2-41c8-917c-f6fca2dfe5ea?syn-25a6b1a6=1
+
+Bloomberg
+        05:15  Iranian Oil Transferred Between Tankers as US Widens Blockade
+        02:22  Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff
+  19/11 23:42  Fed Tells Regional Staff to Expect Lower Pay Increases in 2027
+  19/11 23:40  Fed’s Paulson Says Clear Communication Can Guide Rates
+  19/11 21:40  Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap
+  19/11 20:56  Fed’s Goolsbee Says All Options on FOMC Table Amid Hot Inflation
+  19/11 13:28  Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide
+  19/11 11:00  Anthropic Gray Markets Indicate First-Day Pop After Record IPO
+
+Politico Europe
+        04:02  Das Zaudern der Manuela Schwesig  https://www.politico.eu/podcast/berlin-playbook-podcast/das-zaudern-der-manuela-schwesig/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Delay Another Day: How James Bond can save the EU  https://www.politico.eu/article/delay-another-day-james-bond-help-robert-pattinson-save-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister  https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  5 takeaways from the Spanish election debate  https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Stockpiling Britain: Does Westminster know something we don’t?  https://www.politico.eu/podcast/westminster-insider/stockpiling-britain-does-westminster-know-something-we-dont/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  What does Europe want from Andy Burnham’s reconciliation bid?  https://www.politico.eu/podcast/brussels-playbook-podcast/what-does-europe-want-from-andy-burnhams-reconciliation-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  19/11 23:05  EU-UK summit — live updates  https://www.politico.eu/article/eu-uk-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  19/11 19:42  How to watch the UK-EU summit like a pro  https://www.politico.eu/article/how-to-watch-the-uk-eu-summit-like-a-pro/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  19/11 19:35  Costa eyes tax on Big Tech to boost EU budget after Trump’s poor midterms showing  https://www.politico.eu/article/antonio-costa-tax-big-tech-eu-budget-trump-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  19/11 19:32  The web is held together by volunteers. AI could tear it apart.  https://www.politico.eu/article/ai-internet-website-shutdown-hack-cyberattack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+
+PSI e cotadas PT
+        04:00  PSI fecha em baixa em linha com Europa em dia de IPO da Anthropic e reunião histórica em Shenzhen
+        00:15  Bolsa de Lisboa encerra em baixa com Altri a perder 8,86%
+        00:15  PSI20 caiu1,65% penalizado pelas fortes quedas do ESFG, BES e PT
+  19/11 19:52  Bolsa de Lisboa fecha em baixa e apenas Ibersol fica no verde
+  19/11 17:24  Lisboa segue maré vermelha europeia. Mota-Engil cai mais de 2%
+  19/11 17:05  Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,94% - Investing.com Brasil
+  19/11 10:59  BCP passa a pagar seguro de vida nos três primeiros anos do crédito habitação para jovens
+  19/11 09:54  Claudia Buch: «Os requisitos de capital não estão a restringir a oferta de crédito»
+
+Reuters
+        03:24  Gold set for worst week in eight months as firm dollar, Fed hike bets weigh
+        02:34  Indian stocks pause near nine-month highs; Asia market rout deepens
+        01:47  Dollar near 19-month high, set for 4th weekly gain as AI jitters spur haven bid
+        01:46  Asian shares head for worst week since 2020 as AI rout deepens
+  19/11 23:43  Japan's core inflation accelerates in October, cementing rate hike expectations
+  19/11 18:58  AMD shares slide as report says China links could invite US scrutiny
+  19/11 11:08  Anthropic's blockbuster debut tests Wall Street's faith in AI boom
+  19/11 09:03  Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor
 
 ECO
-  18/11 23:44  Governo sofre derrota nas pensões e no arrendamento ao primeiro dia de votações do OE2027  https://eco.sapo.pt/2026/11/18/governo-sofre-derrota-nas-pensoes-e-no-arrendamento-ao-primeiro-dia-de-votacoes-do-oe2027/
-  18/11 22:30  Oposição força garantia pública para arrendamento contra vontade do Governo  https://eco.sapo.pt/2026/11/18/oposicao-forca-garantia-publica-para-arrendamento-contra-vontade-do-governo/
-  18/11 22:24  PS e Chega aprovam concursos para integrar trabalhadores do PRR na Administração Pública  https://eco.sapo.pt/2026/11/18/ps-e-chega-aprovam-concursos-para-integrar-trabalhadores-do-prr-na-administracao-publica/
-  18/11 22:12  Oficial. Anthropic bate expetativas e fixa preço do IPO em 83 dólares por ação  https://eco.sapo.pt/2026/11/18/anthropic-bate-expetativas-e-fixa-preco-do-ipo-em-83-dolares-por-acao/
-  18/11 22:10  Somengil de Tony Ventura vence prémio PME Inovação COTEC-BPI  https://eco.sapo.pt/2026/11/18/somengil-de-tony-ventura-vence-premio-pme-inovacao-cotec-bpi/
-  18/11 21:33  Comissão de amortização antecipada do crédito à habitação chega ao fim  https://eco.sapo.pt/2026/11/18/credito-a-habitacao-sem-comissao-de-amortizacao-antecipada-ate-ao-fim-de-2027/
-  18/11 21:14  Oposição impõe conversão de eventual bónus aos pensionistas em 2027 num aumento permanente  https://eco.sapo.pt/2026/11/18/ps-e-chega-impoem-conversao-de-eventual-bonus-aos-pensionistas-no-proximo-ano-num-aumento-permanente/
-  18/11 20:48  RTP vai ter de assegurar transmissão de touradas. Proposta do Chega teve abstenção do PS  https://eco.sapo.pt/2026/11/18/rtp-vai-ter-de-assegurar-transmissao-de-touradas-proposta-do-chega-teve-abstencao-do-ps/
-  18/11 20:13  Membros da Fed admitem aumento das taxas de juro nos próximos meses  https://eco.sapo.pt/2026/11/18/membros-da-fed-admitem-aumento-das-taxas-de-juro-nos-proximos-meses/
-  18/11 20:02  Pais de crianças com cancro passam a poder tirar licença em simultâneo nos momentos mais graves  https://eco.sapo.pt/2026/11/18/pais-de-criancas-com-cancro-passam-a-poder-tirar-licenca-em-simultaneo-nos-momentos-mais-graves/
-  18/11 19:44  Governo autorizado a pagar bónus aos pensionistas em 2027 se contas públicas o permitirem  https://eco.sapo.pt/2026/11/18/governo-fica-autorizado-a-pagar-novo-bonus-aos-pensionistas-em-2027-se-contas-publicas-o-permitirem/
-  18/11 19:35  Freguesias abrangidas pela transferência de património edificado sem contrapartidas  https://eco.sapo.pt/2026/11/18/freguesias-abrangidas-pela-transferencia-de-patrimonio-edificado-sem-contrapartidas/
-
-Banco de Portugal
-  18/11 22:21  Banco de Portugal atribuiu Prémio José da Silva Lopes às melhores teses de mestrado em Economia e Gestão
-  18/11 21:31  Crédito ao Conselho | Black Friday em segurança
-  18/11 18:24  Banco de Portugal avança com revogação de três instruções regulamentares
-  18/11 13:30  Governador do Banco de Portugal considera «imperativo» aumento da idade da reforma que sobe para os 66 anos e 11 meses em 2027
-  18/11 10:48  Uphold obtém licença MiCA CASP do Banco de Portugal
-  18/11 08:33  Banco de Portugal dá luz verde a reforço da posição da Flexdeal na Raize até 62,58%
-  18/11 07:18  Governo tem metade da administração do Banco de Portugal para escolher em 2027
-  18/11 07:06  Banco de Portugal despediu trabalhador acusado de favorecer empresa em concursos. Tribunal obriga a readmiti-lo
-
-Expresso
-  18/11 21:01  “Temos de reconhecer que, em Portugal, o licenciamento está a demorar demasiado tempo. É inaceitável”.
-  18/11 19:56  GTA 6: febre gamer chega a Portugal com entregas sob escolta
-  18/11 18:20  Andamos a consumir mais combustíveis?
-  18/11 15:21  IRC sobre as empresas: "Derrama estadual tem os anos contados"
-  18/11 14:35  Área agrícola regada aumentou 82,6% em dez anos, enquanto o consumo de água cresceu 37,2%. Agricultores falam em redução do consumo
-  18/11 07:45  “Entrevisto muitos jovens e a primeira pergunta que faço é: ‘Quer ser artista ou artesão?’ Despeço-me dos que querem ser artistas”
-  18/11 07:28  Do Orçamento do Estado à COP31: o que marca esta quarta-feira?
-  18/11 06:42  Manifesto do novo partido moderado
-
-The Economist
-  18/11 19:24  Meet the European Central Bank’s new squad  https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad
-
-Fed
-  18/11 19:00  Minutes of the Federal Open Market Committee, October 27-28, 2026  https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm
-
-EBA
-  18/11 16:00  EBA E-mail alert 18 November, 2026  https://www.eba.europa.eu/node/20207
+        02:07  OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo  https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/
+        01:12  PS e Chega aprovam IVA Zero. Benefícios fiscais das rendas moderadas caem  https://eco.sapo.pt/2026/11/20/ps-e-chega-aprovam-iva-zero-beneficios-fiscais-das-rendas-moderadas-caem/
+  19/11 22:20  Cimeira entre Trump, Xi e Putin termina sem avanços para a redução de armas nucleares  https://eco.sapo.pt/2026/11/19/cimeira-entre-trump-xi-e-putin-termina-sem-avancos-para-a-reducao-de-armas-nucleares/
+  19/11 20:56  Lembra-se da polémica com as camisolas poveiras? Tory Burch abre no El Corte Inglés  https://eco.sapo.pt/2026/11/19/lembra-se-da-polemica-com-as-camisolas-poveiras-tory-burch-abre-no-el-corte-ingles/
+  19/11 20:34  IMT suspende serviços após “vários ciberataques”  https://eco.sapo.pt/2026/11/19/imt-suspende-servicos-apos-varios-ciberataques/
+  19/11 20:18  Escolas, hospitais ou transportes. O que poderá ser afetado com “a grande greve” da Função Pública  https://eco.sapo.pt/2026/11/19/escolas-hospitais-ou-transportes-o-que-podera-ser-afetado-com-a-grande-greve-da-funcao-publica/
+  19/11 19:24  “Portugal precisa de uma Força Aérea capaz de operar da superfície para a órbita”  https://eco.sapo.pt/2026/11/19/portugal-precisa-de-uma-forca-aerea-capaz-de-operar-da-superficie-para-a-orbita/
+  19/11 19:05  Registos de Alojamento Local diminuem pela primeira vez a nível nacional até outubro  https://eco.sapo.pt/2026/11/19/registos-de-alojamento-local-diminuem-pela-primeira-vez-a-nivel-nacional-ate-outubro/
+  19/11 19:00  Guerra no Irão já custou aos EUA mais de 43 mil milhões de euros  https://eco.sapo.pt/2026/11/19/guerra-no-irao-ja-custou-aos-eua-mais-de-43-mil-milhoes-de-euros/
+  19/11 18:53  Jovens até aos 35 anos vão poder usar garantia pública para construir primeira casa  https://eco.sapo.pt/2026/11/19/jovens-ate-aos-35-anos-vao-poder-usar-garantia-publica-para-construir-primeira-casa/
+  19/11 18:52  França vai reforçar cibersegurança perante “nível inédito” de ameaça de ataques  https://eco.sapo.pt/2026/11/19/franca-vai-reforcar-ciberseguranca-perante-nivel-inedito-de-ameaca-de-ataques/
+  19/11 18:51  Portimão passa a ter 294 câmaras de videovigilância  https://eco.sapo.pt/2026/11/19/portimao-passa-a-ter-294-camaras-de-videovigilancia/
 
 CNBC Economia
-  18/11 14:09  Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk  https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html
-  18/11 07:57  Record diesel prices drive UK inflation to 1-year high of 3.6%  https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html
+        01:49  Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices  https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html
+  19/11 20:21  Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’  https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html
+  19/11 20:18  Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means  https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html
 
-BCE
-  18/11 09:00  Boris Vujčić: Financial Stability Review - November 2026  https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf
-  18/11 09:00  Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html
+Jornal de Negócios
+        01:35  IVA zero no cabaz alimentar aprovado por PS e Chega. Benefícios em IRS para "renda moderada" revogados  https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/impostos-e-habitacao-marcam-segundo-dia-de-debate-e-votacao-do-oe-na-especialidade
+        00:32  P&G quer cortar até 30% dos empregos industriais e logísticos até 2030  https://www.jornaldenegocios.pt/empresas/industria/detalhe/p-g-quer-cortar-ate-30-dos-empregos-industriais-e-logisticos-ate-2030
+  19/11 23:50  Apple está a trabalhar em agente de IA para rivalizar com OpenAI e Anthropic  https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-esta-a-trabalhar-em-agente-de-ia-para-rivalizar-com-openai-e-anthropic
+  19/11 23:30  Subsídio de refeição em cartão isento de IRS deverá subir para 10,97 euros  https://www.jornaldenegocios.pt/economia/funcao-publica/detalhe/subsidio-de-refeicao-em-cartao-isento-de-irs-devera-subir-para-10-97-euros
+  19/11 23:18  Guerra do Irão já custou aos EUA mais de 43 mil milhões de euros  https://www.jornaldenegocios.pt/economia/detalhe/guerra-do-irao-ja-custou-aos-eua-mais-de-43-mil-milhoes-de-euros
+  19/11 23:00  Há Governo sem autonomia?  https://www.jornaldenegocios.pt/opiniao/editorial/paulo-moutinho/detalhe/ha-governo-sem-autonomia
+  19/11 22:52  Elevador da Glória: Moedas diz que "não tinha que estar informado" e exige demissão de Alexandra Leitão  https://www.jornaldenegocios.pt/economia/detalhe/elevador-da-gloria-moedas-diz-que-nao-tinha-que-estar-informado-e-exige-demissao-de-alexandra-leitao
+  19/11 22:38  A Europa que voa baixinho  https://www.jornaldenegocios.pt/opiniao/colunistas/armando-esteves-pereira/detalhe/a-europa-que-voa-baixinho
+  19/11 22:25  Europa a jogar GTA VI gasta 1,5 vezes a eletricidade consumida em Portugal  https://www.jornaldenegocios.pt/empresas/energia/detalhe/europa-a-jogar-gta-vi-gasta-1-5-vezes-a-eletricidade-consumida-em-portugal
+  19/11 21:30  Vai ficar pior  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/vai-ficar-pior
+  19/11 21:30  PS reforça liderança e descola de Chega e AD  https://www.jornaldenegocios.pt/economia/politica/detalhe/ps-reforca-lideranca-e-descola-de-chega-e-ad
+  19/11 21:13  Wall Street no vermelho apesar de estreia sólida da Anthropic em bolsa. Tecnológica disparou 17%  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-no-vermelho-apesar-de-estreia-da-anthropic-em-bolsa-tecnologica-disparou-17
 
-SRB
-  18/11 08:58  Ex-ante publicity of a negotiated procedure for the award of a low or middle value contract  https://www.srb.europa.eu/en/content/ex-ante-publicity-negotiated-procedure-award-low-or-middle-value-contract
+Expresso
+  19/11 23:05  Economia
+  19/11 22:57  “A estratégia de Setúbal passa muito por se libertar de Lisboa”
+  19/11 22:57  Construção, desporto, banca, distribuição e consultoria nos Altos e Baixos da Economia
+  19/11 22:57  Investimento e industrialização: chegou a hora da Península de Setúbal
+  19/11 22:57  Autoeuropa: A fábrica de carros que faz mexer o ponteiro do PIB sobrevive à crise da Volkswagen
+  19/11 22:57  Uma casa com 190 anos pode ser inovadora
+  19/11 22:57  Portugal investe pelo menos €1,5 mil milhões em IA através da Bolsa
+  19/11 19:30  Chegou a hora da Península de Setúbal: a "margem sul" procura uma nova industrialização
 
+CMVM
+  19/11 16:07  Regulamento da CMVM n.º 2/2026: novo dever de reporte
+
+The Economist
+  19/11 10:04  Bond yields are rising everywhere—except China  https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china
+  19/11 10:03  Europe tightens sanctions on Russia. America loosens them  https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them
+  19/11 10:01  AI is swallowing maths. Is economics next?  https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next
+
+Banco de Portugal
+  19/11 09:04  Banco de Portugal prepara eliminação de três obrigações de reporte
+
+Sem novidades na janela: BCE · (reguladores e semanários omitidos: o silêncio é normal)
