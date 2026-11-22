@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:41+00:00",
+ "generated_at": "2026-11-22T06:41+00:00",
  "reference": {
   "close": "2026-11-20",
   "prev": "2026-11-19"
@@ -351,11 +351,11 @@
    "used": "yahoo:BZ=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 92.56999969482422,
-   "change": 0.6414397872993138,
-   "level_fmt": "92,57",
-   "change_fmt": "+0,6%",
-   "streak": 2
+   "level": 89.94999694824219,
+   "change": -2.207008409005873,
+   "level_fmt": "89,95",
+   "change_fmt": "−2,2%",
+   "streak": -1
   },
   {
    "group": "Mat.-primas",
@@ -366,10 +366,10 @@
    "used": "yahoo:CL=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 83.9800033569336,
-   "change": 0.9253746916632499,
-   "level_fmt": "83,98",
-   "change_fmt": "+0,9%",
+   "level": 83.41000366210938,
+   "change": 0.2403612304257896,
+   "level_fmt": "83,41",
+   "change_fmt": "+0,2%",
    "streak": 1
   },
   {
@@ -396,10 +396,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 41.03499984741211,
-   "change": -7.407827264919431,
-   "level_fmt": "41,03",
-   "change_fmt": "−7,4%",
+   "level": 41.06999969482422,
+   "change": -7.32885292766261,
+   "level_fmt": "41,07",
+   "change_fmt": "−7,3%",
    "streak": -3
   },
   {
@@ -411,10 +411,10 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 5.4770002365112305,
-   "change": -2.631106906467018,
-   "level_fmt": "5,477",
-   "change_fmt": "−2,6%",
+   "level": 5.485000133514404,
+   "change": -2.488886515299482,
+   "level_fmt": "5,485",
+   "change_fmt": "−2,5%",
    "streak": -7
   },
   {
@@ -663,11 +663,11 @@
    "unit": "px",
    "status": "ok",
    "reason": "",
-   "used": "cnbc:BCP-PT",
+   "used": "yahoo:BCP.LS",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 1.053,
-   "change": -4.054669703872438,
+   "level": 1.0529999732971191,
+   "change": -4.054669218922246,
    "level_fmt": "1,053",
    "change_fmt": "−4,1%",
    "streak": -7
