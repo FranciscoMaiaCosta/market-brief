@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:41+00:00",
+ "generated_at": "2026-11-23T06:41+00:00",
  "reference": {
   "close": "2026-11-20",
   "prev": "2026-11-19"
@@ -117,13 +117,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:^KS11",
-   "close_date": "2026-11-20",
-   "prev_date": "2026-11-19",
-   "level": 4869.9599609375,
-   "change": -5.214789897246819,
-   "level_fmt": "4 870",
-   "change_fmt": "−5,2%",
-   "streak": -1
+   "close_date": "2026-11-23",
+   "prev_date": "2026-11-20",
+   "level": 4715.97998046875,
+   "change": -3.1618325757057697,
+   "level_fmt": "4 716",
+   "change_fmt": "−3,2%",
+   "streak": -2
   },
   {
    "group": "Ações",
@@ -351,11 +351,11 @@
    "used": "yahoo:BZ=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 89.94999694824219,
-   "change": -2.207008409005873,
-   "level_fmt": "89,95",
-   "change_fmt": "−2,2%",
-   "streak": -1
+   "level": 92.56999969482422,
+   "change": 0.6414397872993138,
+   "level_fmt": "92,57",
+   "change_fmt": "+0,6%",
+   "streak": 2
   },
   {
    "group": "Mat.-primas",
@@ -366,10 +366,10 @@
    "used": "yahoo:CL=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 83.41000366210938,
-   "change": 0.2403612304257896,
-   "level_fmt": "83,41",
-   "change_fmt": "+0,2%",
+   "level": 83.9800033569336,
+   "change": 0.9253746916632499,
+   "level_fmt": "83,98",
+   "change_fmt": "+0,9%",
    "streak": 1
   },
   {
@@ -396,10 +396,10 @@
    "used": "yahoo:SI=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 41.06999969482422,
-   "change": -7.32885292766261,
-   "level_fmt": "41,07",
-   "change_fmt": "−7,3%",
+   "level": 41.03499984741211,
+   "change": -7.407827264919431,
+   "level_fmt": "41,03",
+   "change_fmt": "−7,4%",
    "streak": -3
   },
   {
@@ -411,10 +411,10 @@
    "used": "yahoo:HG=F",
    "close_date": "2026-11-20",
    "prev_date": "2026-11-19",
-   "level": 5.485000133514404,
-   "change": -2.488886515299482,
-   "level_fmt": "5,485",
-   "change_fmt": "−2,5%",
+   "level": 5.4770002365112305,
+   "change": -2.631106906467018,
+   "level_fmt": "5,477",
+   "change_fmt": "−2,6%",
    "streak": -7
   },
   {
@@ -484,13 +484,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:000660.KS",
-   "close_date": "2026-11-20",
-   "prev_date": "2026-11-19",
-   "level": 1113000.0,
-   "change": -5.917159763313606,
-   "level_fmt": "1 113 000",
-   "change_fmt": "−5,9%",
-   "streak": -1
+   "close_date": "2026-11-23",
+   "prev_date": "2026-11-20",
+   "level": 1089000.0,
+   "change": -2.156334231805934,
+   "level_fmt": "1 089 000",
+   "change_fmt": "−2,2%",
+   "streak": -2
   },
   {
    "group": "Memória/semis",
@@ -499,13 +499,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:005930.KS",
-   "close_date": "2026-11-20",
-   "prev_date": "2026-11-19",
-   "level": 183100.0,
-   "change": -7.008633824276278,
-   "level_fmt": "183 100",
-   "change_fmt": "−7,0%",
-   "streak": -1
+   "close_date": "2026-11-23",
+   "prev_date": "2026-11-20",
+   "level": 177800.0,
+   "change": -2.894593118514477,
+   "level_fmt": "177 800",
+   "change_fmt": "−2,9%",
+   "streak": -2
   },
   {
    "group": "Memória/semis",
@@ -619,13 +619,13 @@
    "status": "ok",
    "reason": "",
    "used": "yahoo:2330.TW",
-   "close_date": "2026-11-20",
-   "prev_date": "2026-11-19",
-   "level": 2000.0,
-   "change": -4.761904761904767,
-   "level_fmt": "2 000",
-   "change_fmt": "−4,8%",
-   "streak": -2
+   "close_date": "2026-11-23",
+   "prev_date": "2026-11-20",
+   "level": 2030.0,
+   "change": 1.4999999999999902,
+   "level_fmt": "2 030",
+   "change_fmt": "+1,5%",
+   "streak": 1
   },
   {
    "group": "IA/infra",
@@ -688,5 +688,33 @@
    "streak": -5
   }
  ],
- "live": []
+ "live": [
+  {
+   "name": "Hang Seng",
+   "price": 22380.8,
+   "change": -0.1338675112185217,
+   "level_fmt": "22 381",
+   "change_fmt": "−0,1%",
+   "time": "06:26",
+   "vs_close": "2026-11-20"
+  },
+  {
+   "name": "Futuros S&P 500",
+   "price": 7076.5,
+   "change": 2.0403749098774293,
+   "level_fmt": "7 076",
+   "change_fmt": "+2,0%",
+   "time": "06:31",
+   "vs_close": "2026-11-20"
+  },
+  {
+   "name": "Futuros Nasdaq 100",
+   "price": 25838.75,
+   "change": 2.8346566374146898,
+   "level_fmt": "25 839",
+   "change_fmt": "+2,8%",
+   "time": "06:31",
+   "vs_close": "2026-11-20"
+  }
+ ]
 }
