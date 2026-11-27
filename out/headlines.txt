@@ -1,163 +1,147 @@
-Headlines · janela 24h até 26/11 06:41 (Lisboa) · 123 títulos
+Headlines · janela 24h até 27/11 06:41 (Lisboa) · 108 títulos
 
 CNBC
-        06:39  SpaceX, Musk pledge to donate a share each to active Trump Accounts  https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html
-        05:50  North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'  https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html
-        04:49  South Korea's Kospi leads gains as tech rebound lifts Asia markets  https://www.cnbc.com/2026/11/26/stock-markets-today-.html
-        04:12  How Trump’s latest tariff moves hand India an edge over rival Asian exporters  https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html
-        04:00  Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now  https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html
-        03:19  S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk  https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html
-        03:09  K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday  https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html
-        01:52  Norse Atlantic flights suspended after warning finances 'critical'  https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html
-  25/11 21:00  Vance says he was assured Jensen Huang was not under DOJ investigation  https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html
-  25/11 16:17  Even the price of toys is on the rise. How Americans are scaling back holiday plans  https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html
-  25/11 16:02  U.S. proposes new tariffs on 14 trading partners, including China and the EU  https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html
-  25/11 14:17  Secondhand shopping is going mainstream this holiday season as consumers seek value  https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html
-
-Jornal de Negócios
-        06:00  Líderes europeus medem forças após corte proposto por Costa ao orçamento da UE  https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/lideres-europeus-medem-forcas-apos-corte-proposto-por-costa-ao-orcamento-da-ue
-  25/11 23:32  IL diz que Governo terá de arcar com as consequências do "imbróglio jurídico" que criou  https://www.jornaldenegocios.pt/economia/detalhe/il-diz-que-governo-tera-de-arcar-com-as-consequencias-do-imbroglio-juridico-que-criou
-  25/11 23:30  Sobrevalorização das casas disparou no último ano. Bruxelas faz análise detalhada  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/sobrevalorizacao-das-casas-disparou-no-ultimo-ano-bruxelas-faz-analise-detalhada
-  25/11 23:00  O que nos diz Aguiar-Branco  https://www.jornaldenegocios.pt/opiniao/editorial/detalhe/o-que-nos-diz-aguiar-branco
-  25/11 22:39  Medina afirma que posição de Montenegro sobre IVA Zero é "perfeitamente defensável"  https://www.jornaldenegocios.pt/economia/detalhe/montenegro-rejeita-lista-de-alimentos-com-iva-zero-medina-afirma-que-posicao-e-perfeitamente-defensavel
-  25/11 22:31  IA gasta menos água por dólar do que leite de amêndoa ou golfe, diz estudo  https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/ia-gasta-menos-agua-por-dolar-do-que-leite-de-amendoa-ou-golfe-diz-estudo
-  25/11 22:02  "Let's practice what we preach"  https://www.jornaldenegocios.pt/opiniao/colunistas/joana-garoupa/detalhe/let-s-practice-what-we-preach
-  25/11 21:51  “Se tivermos despejos mais rápidos, o beneficiário último será o inquilino”, diz Montenegro  https://www.jornaldenegocios.pt/economia/habitacao/detalhe/se-tivermos-despejos-mais-rapidos-o-beneficiario-ultimo-sera-o-inquilino-diz-montenegro
-  25/11 21:30  Não é nada inteligente  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/nao-e-nada-inteligente
-  25/11 21:18  Wall Street em terreno misto com inflação em máximos de 2023 e "sell-off" tecnológico  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-terreno-misto-com-inflacao-em-maximos-de-2023-e-sell-off-tecnologico
-  25/11 21:07  Montenegro rejeita criar lista de IVA zero e alterar taxa de IRS das rendas moderadas  https://www.jornaldenegocios.pt/economia/detalhe/montenegro-rejeita-aplicar-iva-zero-e-alterar-beneficios-no-irs-as-rendas-moderadas
-  25/11 20:22  Medo da IA deixa Nasdaq nas garras dos ursos antes do Dia de Ação de Graças  https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/medo-da-ia-deixa-nasdaq-nas-garras-dos-ursos-antes-do-dia-de-acao-de-gracas
-
-Reuters Morning Bid
-        05:33  Morning Bid: Hey, it could have been worse
-        05:31  MORNING BID EUROPE-Hey, it could have been worse
-  25/11 11:34  COMMENTARY: Morning Bid: Tariff fear compounds AI recoil
-  25/11 11:34  Morning Bid: Tariff fear compounds AI recoil
-  25/11 11:32  MORNING BID AMERICAS-Tariff fear compounds AI recoil
-  25/11 11:23  Video: Trump tariffs, Anthropic shares and US inflation data | Morning Bid
-  25/11 07:14  Morning Bid: Who’s afraid of Jamieson Greer?
-
-Politico Europe
-        05:05  EU leaders brace for a summit ‘bloodbath’  https://www.politico.eu/podcast/brussels-playbook-podcast/eu-leaders-brace-for-a-summit-bloodbath/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        04:01  Prostitution in Deutschland vor dem Aus?  https://www.politico.eu/podcast/berlin-playbook-podcast/prostitution-in-deutschland-vor-dem-aus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  Why Jean-Luc Mélenchon has it in for Germany  https://www.politico.eu/article/why-jean-luc-melenchon-has-it-in-for-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  5 budget battles to watch at the EU summit  https://www.politico.eu/article/5-budget-battles-to-watch-at-the-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  How to watch the Spanish election like a pro  https://www.politico.eu/article/how-to-watch-the-spanish-election-like-a-pro/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-        03:00  This Riviera mayor wants to bring Javier Milei’s chainsaw politics to France  https://www.politico.eu/article/lisnard-riviera-mayor-wants-milei-chainsaw-politics-france-presidential-candidate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  25/11 20:45  Tusk government ‘facing armageddon’ as European court resumes cases against Poland  https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  25/11 20:07  “Les COP, c’est une blague” : les critiques enflent contre les sommets climatiques après l’échec à Antalya  https://www.politico.eu/article/les-cop-cest-une-blague-les-critiques-enflent-contre-les-sommets-climatiques-apres-lechec-a-antalya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  25/11 17:25  Don’t ‘backslide’ on defense spending, senior US lawmaker tells Europe  https://www.politico.eu/article/dont-backslide-on-defense-spending-senior-us-lawmaker-tells-europe-brendan-boyle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-  25/11 16:51  French presidential hopeful Teddy Riner says Ukraine is ‘not our war’  https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-Bloomberg
-        05:02  Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap
-        04:49  ANZ Removed From NY Fed List of FX Counterparties in Rare Move
-        04:48  Oil Holds Two-Day Gain as Mideast Tensions Fuel Market Jitters
-        03:00  SoftBank Credit Risk Tops 500 Basis Points as AI Worries Mount
-  25/11 21:30  Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap
-  25/11 16:44  CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount
-  25/11 12:02  Russia’s Elevated Crude Shipments Stoke Global Supply Surplus
-  25/11 07:24  A 2018 Playbook Would Not Bode Well for Markets: Taking Stock
-
-FT
-        05:00  The debtlike deals beating buyouts  https://www.ft.com/content/0d0a770d-39d6-45cd-89e4-7877d2448cf1?syn-25a6b1a6=1
-        05:00  Software stocks spared in tech rout as AI narrative shifts  https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1
-        05:00  UK plans strict rules for crypto DeFi sector  https://www.ft.com/content/ec820cb6-4983-4ece-8e7b-de116b57525d?syn-25a6b1a6=1
-        05:00  The Beauty Tech Group is a reminder of London’s natural assets  https://www.ft.com/content/abca3bf7-8245-4490-840f-8c0548042f9a?syn-25a6b1a6=1
-        05:00  Saudi Arabia prepares to delay flagship mining conference as attacks continue  https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d?syn-25a6b1a6=1
-        05:00  Europe’s costly quest for its own defence supply chain  https://www.ft.com/content/651b89f5-7262-43e8-a022-a068b935950b?syn-25a6b1a6=1
-        03:28  Stocks advance in Asia after volatile US trading over AI risks  https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679
-  25/11 23:18  Financier Todd Boehly strikes deal for Lukoil assets  https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1
-  25/11 22:24  US Treasury financial crime watchdog hit by suspected cyber attack  https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1
-  25/11 21:26  US stocks close lower in volatile session as AI trade remains under pressure  https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1
-  25/11 18:05  The fund manager’s dilemma over AI  https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1
-  25/11 14:27  Opec+’s largest members head for clash over oil production estimates  https://www.ft.com/content/b24d5c8c-4c9b-48f0-b4a8-5f83eee2d3e9?syn-25a6b1a6=1
-
-FT Global
-        05:00  Nvidia halts chip shipments to south-east Asia  https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1
-        05:00  Huang’s return is a terrible signal for US capitalism  https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd
-        05:00  Paris and Berlin seek to shield EU budget from Marine Le Pen  https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1
-        05:00  Angry young men turn against their elders in ‘two Spains’ election  https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1
-        05:00  How Britain built a tax system it can’t fix  https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1
-        05:00  How ‘Friendsgiving’ took over in America  https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3
-        03:11  Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash  https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1
-        00:45  ‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback  https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1
-
-Reuters
-        03:39  Gold steadies after hitting over 1-year low; Fed outlook in focus
-        03:08  Oil rises on supply concerns as Iran claims mine strikes on ships
-        01:35  Stocks rally in Asia, US tariffs not as dire as feared
-        01:05  South Korea's central bank raises rates, upgrades 2027 growth outlook
-  25/11 22:06  US economy roars ahead in third quarter, inflation remains high in October
-  25/11 20:50  Volatility-weary investors side swiped as tariff mayhem adds to tech pain
-  25/11 18:35  Anthropic's slide tests Wall Street's lofty bets on future AI profits
-  25/11 10:25  Buy the stock dip? Options market signals say wait
-
-WSJ
-        03:00  A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade
-        01:00  Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation
-        00:19  Nikkei Rises 1.3%, Led by Chip, Metals Stocks
-  25/11 23:11  U.S. Stocks Mixed as Nvidia, AI Rout Continues
-  25/11 21:23  Stocks Finish Lower After Wild Session | Markets P.M. for Nov. 25
-  25/11 21:02  Treasury Yields Extend Fall After U.S. Data Flurry
-  25/11 19:30  Stocks Pare Losses as Anthropic Shares Swing Higher
-  25/11 14:00  U.S. Jobless Claims Fall More Than Expected
+        06:36  German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg  https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html
+        06:21  Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates  https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html
+        05:46  Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%  https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html
+        04:20  SpaceX shares jump on alternative trading platform after Musk says he will expand share donations  https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html
+        04:07  This 170-year historical study says ‘major market collapse’ is coming  https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html
+        03:30  Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’  https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html
+        00:22  Sovereign wealth funds are acting more like private equity giants — and inheriting their risks  https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html
+  26/11 21:13  Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher  https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html
+  26/11 17:04  Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say  https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
+  26/11 13:00  Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled  https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html
+  26/11 12:46  U.S. tariff-hike threats pile pressure on partners to sign trade deals  https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html
+  26/11 11:01  The Nobel-winning science turning ‘water harvesting’ into a commercial race  https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/
 
 ECO
-        01:36  PGR e CSM juntam-se para reforçar formação de juízes e procuradores  https://eco.sapo.pt/2026/11/26/pgr-e-csm-juntam-se-para-reforcar-formacao-de-juizes-e-procuradores/
-        00:15  Fieldfisher aumenta em 34% trabalho pro bono e define novas metas de redução de emissões até 2030  https://eco.sapo.pt/2026/11/26/fieldfisher-aumenta-em-34-trabalho-pro-bono-e-define-novas-metas-de-reducao-de-emissoes-ate-2030/
-  25/11 21:59  Câmara de Lisboa aprova 68 câmaras de videovigilância na Baixa por 1,8 milhões de euros  https://eco.sapo.pt/2026/11/25/camara-de-lisboa-aprova-68-camaras-de-videovigilancia-na-baixa-por-18-milhoes-de-euros/
-  25/11 21:54  Primeiro ‘whisky’ da Madeira chega ao mercado numa edição limitada de 520 garrafas  https://eco.sapo.pt/2026/11/25/primeiro-whisky-da-madeira-chega-ao-mercado-numa-edicao-limitada-de-520-garrafas/
-  25/11 21:40  PLMJ e CS’Associados assessoram negócio milionário do edifício da Zara no Rossio  https://eco.sapo.pt/2026/11/25/plmj-e-csassociados-assessoram-negocio-milionario-do-edificio-da-zara-no-rossio/
-  25/11 21:20  Montenegro recusa aplicar ‘IVA zero’ e alterar IRS das rendas  https://eco.sapo.pt/2026/11/25/montenegro-recusa-aplicar-iva-zero-e-alterar-irs-das-rendas/
-  25/11 20:43  Trabalhadores da higiene urbana de Lisboa em greve na quinta e sexta-feira  https://eco.sapo.pt/2026/11/25/trabalhadores-da-higiene-urbana-de-lisboa-em-greve-na-quinta-e-sexta-feira/
-  25/11 20:43  Greve dos maquinistas reduz serviço do Metro do Porto na sexta-feira  https://eco.sapo.pt/2026/11/25/greve-dos-maquinistas-reduz-servico-do-metro-do-porto-na-sexta-feira/
-  25/11 20:38  Montenegro abre porta ao TC: “Governo não vai aceitar imposição da obrigação de legislar”  https://eco.sapo.pt/2026/11/25/montenegro-da-entrevista-orcamento-e-do-governo-ou-da-oposicao/
-  25/11 19:56  Operadoras europeias exigem “critérios claros” e “evidências” nas restrições a fornecedores  https://eco.sapo.pt/2026/11/25/operadoras-europeias-exigem-criterios-claros-e-evidencias-nas-restricoes-a-fornecedores/
-  25/11 19:42  Mais um “Dia da Libertação”? O que se sabe sobre as novas tarifas de Trump a 14 economias  https://eco.sapo.pt/descodificador/mais-um-dia-da-libertacao-o-que-se-sabe-sobre-as-novas-tarifas-de-trump-a-14-economias/
-  25/11 19:26  Parlamento pode alterar o Orçamento, mas há limites constitucionais. O que está em causa nas três medidas da oposição?  https://eco.sapo.pt/2026/11/25/parlamento-pode-alterar-o-orcamento-mas-ha-limites-constitucionais-o-que-esta-em-causa-nas-tres-medidas-da-oposicao/
+        06:36  Dona do óleo Fula em conversações para aquisição de terrenos em Angola para cultivo de oleaginosas  https://eco.sapo.pt/2026/11/27/dona-do-oleo-fula-em-conversacoes-para-aquisicao-de-terrenos-em-angola-para-cultivo-de-oleaginosas/
+        06:35  Sovena preocupada com acumulação de stocks de azeite imposta por Espanha  https://eco.sapo.pt/2026/11/27/sovena-preocupada-com-acumulacao-de-stocks-de-azeite-imposta-por-espanha/
+        06:34  A IA vai mudar a Black Friday. Estão as marcas preparadas? “Terão de convencer duas vezes”  https://eco.sapo.pt/especiais/a-ia-vai-mudar-a-black-friday-estao-as-marcas-preparadas-terao-de-convencer-duas-vezes/
+        06:34  O fim da exceção espanhola? O que pode mudar em Bruxelas com a saída de Sánchez  https://eco.sapo.pt/especiais/o-fim-da-excecao-espanhola-o-que-pode-mudar-em-bruxelas-com-a-saida-de-sanchez/
+        06:33  Palco Z. Do escritório à casa, o que a Geração Z pede e o que cede  https://eco.sapo.pt/2026/11/27/palco-z-do-escritorio-a-casa-o-que-a-geracao-z-pede-e-o-que-cede/
+        06:32  ANA antecipa negociação com Governo para ganhar um ano no novo aeroporto  https://eco.sapo.pt/2026/11/27/ana-antecipa-negociacao-com-governo-para-ganhar-um-ano-no-novo-aeroporto/
+        06:32  Mediadores e fundos temem perda de confiança no arrendamento com fim do IRS de 10% para rendas “moderadas”  https://eco.sapo.pt/2026/11/27/mediadores-e-fundos-temem-perda-de-confianca-no-arrendamento-com-fim-do-irs-de-10-para-rendas-moderadas/
+        06:31  Fim do IRS a 10% nas rendas arrisca afetar contratos em vigor  https://eco.sapo.pt/2026/11/27/fim-do-irs-a-10-nas-rendas-arrisca-afetar-contratos-em-vigor/
+  26/11 22:29  Montenegro sem “dúvidas constitucionais” sobre OE, recusa alterações e passa bola a Seguro  https://eco.sapo.pt/2026/11/26/montenegro-sem-duvidas-constitucionais-sobre-oe-recusa-alteracoes-e-passa-bola-a-seguro/
+  26/11 21:14  Futura gigafábrica de IA recebe autorização para ligação à rede elétrica  https://eco.sapo.pt/2026/11/26/futura-gigafabrica-de-ia-recebe-autorizacao-para-ligacao-a-rede-eletrica/
+  26/11 20:50  Linha Verde condicionada para trabalhos da futura linha Circular do Metro de Lisboa  https://eco.sapo.pt/2026/11/26/linha-verde-condicionada-para-trabalhos-da-futura-linha-circular-do-metro-de-lisboa/
+  26/11 20:49  Hospital de Leiria realizou 200 cirurgias robóticas em cerca de 11 meses  https://eco.sapo.pt/2026/11/26/hospital-de-leiria-realizou-200-cirurgias-roboticas-em-cerca-de-11-meses/
 
-The Economist
-  25/11 22:33  Can America’s government afford “affordability”?  https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability
+FT
+        06:25  Chinese shares soar after Beijing signals more support  https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1
+        06:00  Private credit’s ‘alpha’ problem  https://www.ft.com/content/364fece7-4303-4ed9-afc9-47e953bd4e9f
+        05:01  Venezuelan oil magnate defends contentious deal with Trump  https://www.ft.com/content/2586bde3-a1e1-463c-b5fc-0775e8512d28?syn-25a6b1a6=1
+        05:00  Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals  https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1
+        05:00  Tech stocks set for worst month in four years as volatility surges  https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1
+        05:00  Kalshi’s next big bet: ‘microinsurance’ for small businesses  https://www.ft.com/content/587198a8-ac15-46b2-83f2-f6e181ccd7cd?syn-25a6b1a6=1
+        05:00  Roughnecks lose out to AI as automation in the oil industry gathers pace  https://www.ft.com/content/da45883c-6612-4071-b363-a826c6edb085?syn-25a6b1a6=1
+        05:00  Big Oil looks to diversify with move into electricity generation  https://www.ft.com/content/0f537b6e-7426-43a1-b82c-4e444335507b?syn-25a6b1a6=1
+  26/11 21:00  What's a fund manager to do?  https://www.ft.com/content/ff2a3ebf-d9be-45f6-95e0-00cc67e7c49e?syn-25a6b1a6=1
+  26/11 17:13  Andrew Bailey says unreleased AI models have raised encryption concerns  https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1
+  26/11 16:49  Global stocks climb after volatile US trading over AI risks  https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1
+  26/11 14:58  Hawkish Fed poised to raise rates despite stock market turmoil  https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1
 
 CNBC Economia
-  25/11 21:56  Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike  https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html
-  25/11 14:18  Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank  https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html
+        06:09  China’s factories are growing profits again, but the AI boom is picking the winners  https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html
+  26/11 15:28  Spain’s Pablo Hernández de Cos set to lead European Central Bank  https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html
 
-Banco de Portugal
-  25/11 19:43  Banco de Portugal presidirá rede de bancos centrais
-  25/11 18:15  Banco de Portugal quer supervisão mais preventiva e promete simplificar regras sem reduzir proteção dos clientes
+WSJ
+        05:59  Gold, Silver Rally as Market Sentiment Improves
+        02:28  China’s Industrial Profit Surged Despite Headwinds
+        02:13  Asian Markets Mostly Higher as Sentiment Stabilizes
+        01:48  Oil Mixed as Markets Track Mideast Developments, U.S. Inventories
+  26/11 13:36  Euro’s Recovery Prospects Look Limited
+  26/11 13:01  U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break
+  26/11 08:35  European Indexes Open Sharply Higher After U.S. Recovery
+  26/11 08:32  Gilt Yields Rise as Inflation Concerns Linger
+
+Reuters Morning Bid
+        05:34  Morning Bid: Is this a dead turkey bounce?
+        05:31  MORNING BID EUROPE-Is this a dead turkey bounce?
+  26/11 08:42  Morning Bid: Hey, it could have been worse
+
+Bloomberg
+        05:15  Oil Set for Weekly Gain as Mideast Attacks Keep Market on Edge
+        05:03  Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap
+        03:33  Iraqi Oil Loadings Get Pushed Back as Buyers Weigh Alternatives
+  26/11 23:59  De Cos Is Poised to Take ECB Presidency in Era After Lagarde
+  26/11 20:14  Oil Extends Gains as Middle East Tensions Fuel Market Jitters
+  26/11 18:07  Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap
+  26/11 14:14  Oil Refining Profits Crash With Global Fuel Supply Rebounding
+  26/11 13:09  ECB Officials Saw More Tightening With Inflation Outlook Worse
+
+FT Global
+        05:00  The US and Europe have opposite economic problems  https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1
+        05:00  Marine Le Pen: the woman who could break the EU  https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1
+        05:00  Is the Fed ready for its next fight?  https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1
+        05:00  Chinese households shed billions in consumer debt  https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1
+
+Politico Europe
+        04:30  Wie der Rentenstreit die Koalition spaltet  https://www.politico.eu/podcast/berlin-playbook-podcast/wie-der-rentenstreit-die-koalition-spaltet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:45  How Costa’s budget talks sparked a new crisis  https://www.politico.eu/podcast/brussels-playbook-podcast/how-costas-budget-talks-sparked-a-new-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Bank of England boss warns AI must benefit humans  https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Ukraine cajoles allies to keep Putin’s athletes out  https://www.politico.eu/article/ukraine-pushes-allies-keep-russian-athletes-out-putin-international-sport-restrictions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Spain’s looming right-wing pivot on climate is already playing out in Valencia  https://www.politico.eu/article/spain-looming-right-wing-pivot-on-climate-is-already-playing-out-in-valencia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Welfare wars: review, rinse, repeat  https://www.politico.eu/podcast/westminster-insider/welfare-wars-review-rinse-repeat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Swingin’ on the flippity-flop with chicken nuggets: The perils of young people’s slang  https://www.politico.eu/article/swingin-on-the-flippity-flop-with-chicken-nuggets-the-perils-of-young-peoples-slang/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        03:00  Spain’s right turn: What a PP-Vox government would mean for Madrid — and Brussels  https://www.politico.eu/article/spain-right-turn-what-pp-vox-government-would-mean-for-madrid-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+        02:50  Budget summit walkout leaves EU one month to salvage deal  https://www.politico.eu/article/eu-budget-summit-walkout-antonio-costa-leaves-one-month-negotiations-drama/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+  26/11 23:38  EU leaders brave clash with Trump over tech tax, defense, Ukraine  https://www.politico.eu/article/eu-leaders-brave-clash-with-trump-over-tech-tax-defense-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 Expresso
-  25/11 18:20  Orçamento do Estado: depois de aprovadas mais de 200 propostas da oposição, como ficam as contas públicas?
-  25/11 17:00  OE 27: Como a oposição decidiu faltar ao país
-  25/11 14:27  Bruxelas multa três 'gigantes' dos perfumes por troca de informações sobre preços
-  25/11 11:55  Os ingredientes da longa vida de Ruy de Carvalho, os músculos da longevidade e um medicamento que surpreendeu a ciência
-  25/11 08:04  Da habitação à greve dos maquinistas da CP: o que marca esta quarta-feira
-  25/11 07:44  EDP aposta na liberalização do mercado elétrico no Brasil e quer comprar comercializadora para alavancar expansão
-  25/11 07:30  “Quando casei o meu pai deu-me 380 contos para construir uma casa e eu peguei no dinheiro e fiz uma oficina”: assim nasceu a Fravizel
-  25/11 07:00  Adeus aos benefícios fiscais para as rendas até €2.300: oito perguntas e respostas sobre o impacto da medida
+        02:50  Semanário | Profissões mais bem pagas ganham dez vezes o salário médio
+  26/11 22:57  Quem foram as figuras em destaque na semana económica que passou?
+  26/11 22:57  Promover a competição no país mais populoso de África
+  26/11 22:57  Equipa da China vence prova de gestão
+  26/11 22:57  Objetivo é crescer dentro e fora de Portugal
+  26/11 22:57  Senhorios e inquilinos de acordo nas críticas
+  26/11 22:57  Quase €8 mil milhões depois, EDP prepara nova etapa no Brasil
+  26/11 19:47  Inquilinos, proprietários e agentes do sector da habitação falam em “infantilidade”, “instabilidade permanente” e “falta de compromisso”
 
-BCE
-  25/11 17:30  ECB and Sveriges Riksbank conclude agreement for Sweden to join T2  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html
-  25/11 10:00  Card payments edge past cash in shops; euro area consumers want both  https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html
+Jornal de Negócios
+        00:26  Reunião sobre Orçamento da UE termina sem acordo mas Costa espera aval em dezembro  https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/reuniao-sobre-orcamento-da-ue-termina-sem-acordo-mas-costa-espera-aval-em-dezembro
+  26/11 23:53  APA diz que licenciamento e fiscalização dos aterros com ilegalidades cabem às CCDR  https://www.jornaldenegocios.pt/economia/detalhe/apa-diz-que-licenciamento-e-fiscalizacao-dos-aterros-com-ilegalidades-cabem-as-ccdr
+  26/11 23:49  Proposta de Costa para orçamento comunitário "ainda não é suficiente", diz primeiro-ministro  https://www.jornaldenegocios.pt/economia/detalhe/proposta-de-costa-para-orcamento-comunitario-ainda-nao-e-suficiente-diz-primeiro-ministro
+  26/11 23:30  Braço de ferro entre Montenegro e Parlamento: resposta tem de vir do TC  https://www.jornaldenegocios.pt/economia/politica/detalhe/braco-de-ferro-entre-montenegro-e-parlamento-resposta-tem-de-vir-do-tc
+  26/11 23:00  A grande entorse  https://www.jornaldenegocios.pt/opiniao/editorial/detalhe/a-grande-entorse
+  26/11 22:55  Montenegro rejeita recorrer ao TC e remete decisão sobre OE2027 para Seguro  https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/montenegro-rejeita-recorrer-ao-tc-e-remete-decisao-sobre-oe2027-para-seguro
+  26/11 22:24  Orçamento dos Açores para 2027 aprovado em votação final global  https://www.jornaldenegocios.pt/economia/detalhe/orcamento-dos-acores-para-2027-aprovado-em-votacao-final-global
+  26/11 21:41  REN aprova distribuição de dividendos. Estado encaixa 8 milhões  https://www.jornaldenegocios.pt/mercados/bolsa/dividendos/detalhe/ren-aprova-distribuicao-de-dividendos-estado-encaixa-8-milhoes
+  26/11 21:30  Seguro precipitou-se  https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/seguro-precipitou-se
+  26/11 21:16  KKR assegura financiamento bancário de 550 milhões para comprar Logoplaste  https://www.jornaldenegocios.pt/empresas/industria/detalhe/kkr-assegura-financiamento-bancario-de-550-milhoes-para-comprar-logoplaste
+  26/11 21:00  As artérias e veias das nossas cidades  https://www.jornaldenegocios.pt/opiniao/detalhe/as-arterias-e-veias-das-nossas-cidades
+  26/11 20:56  Lucros da Ramada descem 34% para 4,6 milhões até setembro  https://www.jornaldenegocios.pt/empresas/detalhe/lucros-da-ramada-descem-34-para-4-6-milhoes-ate-setembro
 
 PSI e cotadas PT
-  25/11 17:05  Portugal - Ações fecharam o pregão em queda e o Índice PSI recuou 0,85% - Investing.com Brasil
-  25/11 16:58  Lisboa segue perdas europeias. BCP e Galp pressionam índice
-  25/11 16:32  Europa em terreno negativo e PSI fecha a cair com BCP a perder mais de 3%
-  25/11 16:17  Bolsa de Lisboa fecha a perder 0,85% com Teixeira Duarte e BCP a caírem mais de 3%
-  25/11 14:05  Jefferies mais otimista sobre ações do BCP. Vê potencial de valorização de 27%
-  25/11 11:03  PSI negoceia no ‘vermelho’, pressionado pelo setor da construção
-  25/11 08:44  Jefferies mantém recomendação "comprar" no BCP e eleva preço-alvo para 1,35 euros
-  25/11 08:08  Bolsa de Lisboa abre a subir 0,02%
+        00:00  PSI segue no ‘verde’, impulsionado pelo BCP
+  26/11 22:57  BCP é o principal alvo dos fundos especulativos na Bolsa
+  26/11 18:07  Bolsa de Lisboa fecha no 'verde' com setor da construção a liderar ganhos
+  26/11 17:05  Portugal - Ações fecharam o pregão em alta e o Índice PSI avançou 1,33% - Investing.com Brasil
+  26/11 16:56  Lisboa acompanha recuperação europeia com construtoras e BCP na liderança
+  26/11 16:15  Praças europeias fecham em alta com liderança de setores cíclicos e PSI sobe 1,33%
+  26/11 11:11  PSI 20 abre a valorizar 0,13% para os 7.494,81 pontos
+  26/11 08:24  Bolsa de Lisboa com arranque forte. BCP valoriza mais de 2% e só duas cotadas caem
+
+Banco de Portugal
+  26/11 18:11  Polígrafo ilibou PS, atirou culpas para Banco de Portugal de Centeno e não soube ler Pedro Nuno Santos
+  26/11 13:53  COPE – A obrigação perante o Banco de Portugal que muitas empresas desconhecem
 
 EBA
-  25/11 16:00  EBA E-mail alert 25 November, 2026  https://www.eba.europa.eu/node/20237
+  26/11 16:00  EBA E-mail alert 26 November, 2026  https://www.eba.europa.eu/node/20304
 
-SRB
-  25/11 15:40  Administrative Specialist  https://www.srb.europa.eu/en/content/administrative-specialist
+BCE
+  26/11 12:30  Meeting of 28-29 October 2026  https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html
 
 CMVM
-  25/11 14:10  CMVM aplica coimas de 130 mil euros em dois processos contra auditora por falhas na documentação de auditorias
+  26/11 11:39  CMVM: ordens em derivados aumentam quase 18% no terceiro trimestre e superam 570 mil milhões
 
+The Economist
+  26/11 09:49  History’s warning lesson for Anthropic  https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic
+  26/11 09:47  The fall of China’s most trusted wealth manager  https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager
+  26/11 09:45  Mexico’s export boom is real—and disappointing  https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing
+
+SRB
+  26/11 07:55  Crisis readiness and simplification at the heart of SRB’s 2027 Work Programme  https://www.srb.europa.eu/en/content/press-release-srb-2027-work-programme
+
+Feeds sem resposta: Reuters (HTTP 429)
